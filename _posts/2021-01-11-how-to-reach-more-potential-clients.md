@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-01-11"
 categories: 
   - "marketing-tips"
-coverImage: "image_0-67.jpg"
+image: assets/images/image_0-67.jpg
 ---
 
 Marketing requires time and/or money. For these precious resources to be spent effectively, you need to make sure that your marketing materials are being put in front of individuals that are in your target market and potential clients. It isn’t super useful to spend time and money on an advertisement for senior medication and then run the ad on a children’s channel. While this is a pretty obvious example, other mistakes may not be so obvious. You can avoid many of the pitfalls and reach your target market by employing the following tips.

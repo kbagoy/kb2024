@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-08-04"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Make-Sure-Your-Business-Survives-an-Economic-Crisis.jpg"
+image: assets/images/How-to-Make-Sure-Your-Business-Survives-an-Economic-Crisis.jpg
 ---
 
 As a business owner, it’s important to plan for emergencies, should they arise. While it’s impossible to predict the future and absolutely guarantee your business survives an economic crisis, there are strategies you can use to significantly increase the odds of survival for your business.

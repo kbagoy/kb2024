@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-12-15"
 categories: 
   - "marketing-tips"
-coverImage: "business-plan-idea-woman.jpg"
+image: assets/images/business-plan-idea-woman.jpg
 ---
 
 When you are creating a business plan it can be difficult to decide what to put in and what you don’t need to think about yet. There are so many unexpected scenarios that could happen to your business. It can be hard to know what is necessary to make sure you're prepared. The following tips can help keep your business on the right track.

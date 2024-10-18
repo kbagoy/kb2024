@@ -7,7 +7,7 @@ categories:
   - "marketing-tips"
   - "corporate-burnout"
   - "mindset"
-coverImage: "stock-photo-woman-on-laptop-picjumbo.jpg"
+image: assets/images/stock-photo-woman-on-laptop-picjumbo.jpg
 ---
 
 1. **Pay yourself first, always.** Founders that bootstrap are far more likely to struggle, suffer from burnout and quit when things get hard. Pay yourself first, and pay yourself well, if you want to go the distance.

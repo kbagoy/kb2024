@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-10"
 categories: 
   - "general"
-coverImage: "How-to-Stay-Out-of-Trouble-With-the-IRS.jpg"
+image: assets/images/How-to-Stay-Out-of-Trouble-With-the-IRS.jpg
 ---
 
 No one wants to deal with the IRS. Unfortunately, sometimes mistakes are made, and you find yourself in trouble. But staying out of trouble can be a lot easier with a few simple pointers. Here are three tips on how to stay out of trouble with the IRS and avoid any penalties or fines. Follow these tips, and you'll be in good shape.

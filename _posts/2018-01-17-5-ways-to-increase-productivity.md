@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2018-01-17"
 categories: 
   - "mindset"
-coverImage: "digital-productivity.jpg"
+image: assets/images/digital-productivity.jpg
 ---
 
 **I had an epiphany recently and decided I needed to detox from external input. I turned off my notifications, deleted the Facebook app from my phone & started dumping emails into the trash.**

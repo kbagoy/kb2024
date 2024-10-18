@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-02-09"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_72085060.jpg"
+image: assets/images/dreamstime_s_72085060.jpg
 ---
 
 Starting your own business can be an exciting adventure. Success brings financial security, stability, and an opportunity to build wealth that most 9-5 jobs don’t allow you to achieve.

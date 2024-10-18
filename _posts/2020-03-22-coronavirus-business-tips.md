@@ -6,7 +6,7 @@ date: "2020-03-22"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "Depositphotos_52648785_xl-2015.jpg"
+image: assets/images/Depositphotos_52648785_xl-2015.jpg
 ---
 
 ## Coronavirus Business Tips: Don't Panic, Plan

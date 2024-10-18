@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-10-11"
 categories: 
   - "marketing-tips"
-coverImage: "lawyer-and-client-shaking-hands.jpg"
+image: assets/images/lawyer-and-client-shaking-hands.jpg
 ---
 
 https://youtu.be/kH64L\_Vfj9s

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2017-12-04"
 categories: 
   - "freelancing"
-coverImage: "freelance-network.jpg"
+image: assets/images/freelance-network.jpg
 ---
 
 **I’d like you to think about the people you spend the majority of your time with.**

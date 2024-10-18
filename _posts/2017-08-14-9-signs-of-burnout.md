@@ -7,7 +7,7 @@ categories:
   - "corporate-burnout"
 tags: 
   - "interviews"
-coverImage: "mental-health.jpg"
+image: assets/images/mental-health.jpg
 ---
 
 This interview was conducted by Mental Floss writer [Zoe Weiner](//mentalfloss.com/authors/92751/Zoe-Weiner), and was originally published at MentalFloss.com in April 2017. [View the original article here.](//mentalfloss.com/article/94519/9-signs-youve-been-your-job-too-long)

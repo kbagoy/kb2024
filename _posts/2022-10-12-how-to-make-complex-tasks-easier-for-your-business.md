@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-12"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Make-Complex-Tasks-Easier-for-Your-Business.jpg"
+image: assets/images/How-to-Make-Complex-Tasks-Easier-for-Your-Business.jpg
 ---
 
 A well-run business requires efficiency, and that means completing necessary tasks quickly, effectively, and without wasting time or resources. With some complex tasks, however, reaching efficiency can be difficult, especially if you try to tackle them all yourself. It's better if you can implement strategies to make complex tasks easier for your business.

@@ -6,7 +6,7 @@ date: "2019-02-06"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "sample-photo7.jpg"
+image: assets/images/sample-photo7.jpg
 ---
 
 So, you're interested in starting a six-figure business? One you can run anywhere... where you don't have to answer to a crazy boss, or sit in mindless meetings or file TPS reports?

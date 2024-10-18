@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2017-07-28"
 categories: 
   - "workanywhere"
-coverImage: "mental-health.jpg"
+image: assets/images/mental-health.jpg
 ---
 
 **As a digital nomad, people are always asking what I miss from home.** The food? Rarely. The culture? Nope. Medical care? Just my acupuncturist. My friends? Of course. No one ever guesses what I miss most… my laundry room.

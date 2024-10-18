@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-12-16"
 categories: 
   - "general"
-coverImage: "gmail.png"
+image: assets/images/gmail.png
 ---
 
 ![](images/gmail.png)

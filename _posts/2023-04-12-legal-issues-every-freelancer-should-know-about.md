@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2023-04-12"
 categories: 
   - "general"
-coverImage: "Legal-issues-freelancers-should-know-about.png"
+image: assets/images/Legal-issues-freelancers-should-know-about.png
 ---
 
 Freelancers may work as subcontractors, independent contractors, or gig workers under the term "freelancer." Under the law, freelancers are treated as business owners rather than employees.

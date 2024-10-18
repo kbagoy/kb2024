@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-01-10"
 categories: 
   - "marketing-tips"
-coverImage: "Technology-Solutions-Your-Business-Cant-Run-Without.jpg"
+image: assets/images/Technology-Solutions-Your-Business-Cant-Run-Without.jpg
 ---
 
 Doing business in the 21st century means doing business online. A business without an online presence is behind the curve and has severe limitations on its growth and size capabilities that are a severe handicap in the global marketplace today. Technology is simply a part of the global economy, and your business needs it. But that doesn’t mean technology isn’t sometimes frustrating and hard to manage. But for all the headaches it can cause, it also offers solutions to some of the problems of running business that can revolutionize how you operate. Here are three technology solutions that your business just can’t run without.

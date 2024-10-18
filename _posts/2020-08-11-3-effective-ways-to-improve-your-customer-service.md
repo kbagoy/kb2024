@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-08-11"
 categories: 
   - "marketing-tips"
-coverImage: "3-Effective-Ways-to-Improve-Your-Customer-Service.jpg"
+image: assets/images/3-Effective-Ways-to-Improve-Your-Customer-Service.jpg
 ---
 
 Businesses large and small rely heavily on customer service. It's not usually what gets customers and clients in the door the first time, but it's often what keeps them coming back. Sometimes all it takes is one negative customer service experience to lose a client forever. If your business is struggling in the customer service department, it's in your best interest to fix it. But how do you do this?

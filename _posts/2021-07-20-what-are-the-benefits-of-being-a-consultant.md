@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-07-20"
 categories: 
   - "marketing-tips"
-coverImage: "What-are-the-Benefits-of-Being-a-Consultant.jpg"
+image: assets/images/What-are-the-Benefits-of-Being-a-Consultant.jpg
 ---
 
 https://youtu.be/sAZzfsWCV7g

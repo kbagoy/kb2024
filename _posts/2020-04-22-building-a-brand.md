@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-04-22"
 categories: 
   - "marketing-tips"
-coverImage: "Critical-Components-to-Creating-a-Truly-Successful-Brand-Image-for-Your-Company.jpg"
+image: assets/images/Critical-Components-to-Creating-a-Truly-Successful-Brand-Image-for-Your-Company.jpg
 ---
 
 ## Why Should You Consider Building a Brand?

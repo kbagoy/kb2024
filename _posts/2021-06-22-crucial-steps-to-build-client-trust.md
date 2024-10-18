@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-22"
 categories: 
   - "marketing-tips"
-coverImage: "Customer-Service-Evaluation-Survey-Happy-Satisfied-Checkbox.jpg"
+image: assets/images/Customer-Service-Evaluation-Survey-Happy-Satisfied-Checkbox.jpg
 ---
 
 The most important thing a business can do is be focused on its clientele and building client trust. Without customer support, your business is as good as done. If you want your company to be successful, you must think about how you currently interact with the consumer or client, and how to develop their trust. It’s harder than it looks, but any business is capable of it!

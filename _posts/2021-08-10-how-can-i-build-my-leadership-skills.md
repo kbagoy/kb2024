@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-08-10"
 categories: 
   - "general"
-coverImage: "How-Can-I-Build-My-Leadership-Skills.jpg"
+image: assets/images/How-Can-I-Build-My-Leadership-Skills.jpg
 ---
 
 It takes a special kind of confidence and humility to be a leader. Becoming a great leader is not easy. Build your leadership skills by identifying areas for improvement, learning from others, and inspiring those around you.

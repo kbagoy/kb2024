@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-11-09"
 categories: 
   - "general"
-coverImage: "How-to-Avoid-Expensive-Turnover-at-Your-Business.jpg"
+image: assets/images/How-to-Avoid-Expensive-Turnover-at-Your-Business.jpg
 ---
 
 Hiring qualified, dedicated, and hardworking employees is a major headache. Not only that, but it is also rather expensive - you have to hire recruiters and hiring experts, go through interviews, maybe even offering starting bonuses to get people in the door. it all adds up. Which is why keeping employee turnover low is essential to keep your business costs low. Here are some ways to keep your business turnover low. 

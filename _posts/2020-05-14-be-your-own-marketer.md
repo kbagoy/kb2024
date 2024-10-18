@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-05-14"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_xxl_108799143-scaled.jpg"
+image: assets/images/dreamstime_xxl_108799143-scaled.jpg
 ---
 
 When managing a small business, it is wise to cut costs as much as possible in an effort to boost your overall bottom line. One of the biggest expenditures of any small business owner is the marketing costs. You can help to mitigate these costs by doing your own marketing and promotion in-house...

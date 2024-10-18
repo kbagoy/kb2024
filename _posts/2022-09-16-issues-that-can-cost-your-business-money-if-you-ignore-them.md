@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-09-16"
 categories: 
   - "general"
-coverImage: "Issues-That-Can-Cost-Your-Business-Money-if-You-Ignore-Them.jpg"
+image: assets/images/Issues-That-Can-Cost-Your-Business-Money-if-You-Ignore-Them.jpg
 ---
 
 No business can avoid all issues altogether, but with a little work, you can make sure that you catch issues early and resolve them. When issues are allowed to continue without intervention it can lead to major expenses and further work for your whole company. It’s important that you take time to find and resolve issues in your business so you can move forward and keep your expenses to a minimum.

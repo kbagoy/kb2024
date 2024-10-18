@@ -8,7 +8,7 @@ categories:
   - "mindset"
 tags: 
   - "interviews"
-coverImage: "TAMC-36666666_10160562120220298_6712906593702248448_n.jpg"
+image: assets/images/TAMC-36666666_10160562120220298_6712906593702248448_n.jpg
 ---
 
 Last year I meet an amazing woman named Adrienne Lloren -  a rapper, singer-songwriter, youtuber, marketer, and overall happy person. Adrienne is **on a mission to get creative entrepreneurs amped up to craft a life and business they love** - JUST LIKE ME, so I was pretty damned stoked to record this masterclass for her online "Thriving Artist" series!

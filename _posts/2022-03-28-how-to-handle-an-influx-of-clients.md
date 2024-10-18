@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2022-03-28"
 categories: 
   - "freelancing"
-coverImage: "woman-with-online-customers.jpg"
+image: assets/images/woman-with-online-customers.jpg
 ---
 
 Any business can experience times of growth and times of stagnation. And when you are experiencing growth, your first response is probably excitement. However, if you aren’t prepared for the new clients you may get overwhelmed and feel like you aren’t sure how to tackle all the projects you have on your plate. But even if you are experiencing more growth than expected, you can take steps to handle the influx of clients with ease and use it to your advantage!

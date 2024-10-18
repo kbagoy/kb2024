@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2020-05-01"
 categories: 
   - "6ff-experts"
-coverImage: "f565e71822fcc75e3509697eb6e4d5e8.jpg"
+image: assets/images/f565e71822fcc75e3509697eb6e4d5e8.jpg
 ---
 
 ## Get the Deal of a Lifetime on Six Figure Freelancers at AppSumo

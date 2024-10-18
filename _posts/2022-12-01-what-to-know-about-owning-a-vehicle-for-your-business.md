@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-12-01"
 categories: 
   - "general"
-coverImage: "What-to-Know-About-Owning-a-Vehicle-for-Your-Business.jpg"
+image: assets/images/What-to-Know-About-Owning-a-Vehicle-for-Your-Business.jpg
 ---
 
 Different businesses are going to need different assets. Some might need commercial property. Others might simply need one or more commercial vehicles. If you need a vehicle for your business then make sure that you’re prepared with everything you need to know before you finalize the paperwork and get the vehicle.

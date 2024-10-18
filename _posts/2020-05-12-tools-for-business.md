@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-05-12"
 categories: 
   - "marketing-tips"
-coverImage: "Tools-Every-Business-Should-Use-to-Get-to-Know-Their-Customers.jpg"
+image: assets/images/Tools-Every-Business-Should-Use-to-Get-to-Know-Their-Customers.jpg
 ---
 
 Every business is on a constant quest to get to know their customers better. Doing so comes with multiple benefits, including building stronger relationships, increasing brand awareness, and having a better idea of the type of person who is more likely to shop at your store.

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-07-20"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Create-More-Compelling-Content-on-Social-Media.jpg"
+image: assets/images/How-to-Create-More-Compelling-Content-on-Social-Media.jpg
 ---
 
 Social media is an essential part of modern-day advertising and branding. The amount of time that the average individual spends online now is so significant that your use of social media is equally as important as your use of commercial property. That’s why your content on social media has got to be top-notch.

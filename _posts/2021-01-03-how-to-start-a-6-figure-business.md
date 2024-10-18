@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-01-03"
 categories: 
   - "workanywhere"
-coverImage: "Kate_Bagoy_JS_05-sm.jpg"
+image: assets/images/Kate_Bagoy_JS_05-sm.jpg
 ---
 
 \[et\_pb\_section fb\_built="1" admin\_label="skills" \_builder\_version="4.7.7" \_module\_preset="default" collapsed="on"\]\[et\_pb\_row custom\_padding\_last\_edited="off|desktop" \_builder\_version="4.7.7" \_module\_preset="default" width="100%" max\_width="900px"\]\[et\_pb\_column type="4\_4" \_builder\_version="4.6.6" \_module\_preset="default"\]\[et\_pb\_text \_builder\_version="4.6.6" \_module\_preset="default" text\_font="Roboto||||||||" text\_text\_color="#000000" text\_font\_size="16px" text\_line\_height="1.4em" header\_2\_font="Roboto|700|||||||" header\_2\_text\_color="#ad8e2a" header\_2\_font\_size="43px" header\_2\_line\_height="1.3em" header\_3\_font="Roboto|700|||||||" header\_3\_text\_align="center" header\_3\_text\_color="#ad8e2a" header\_3\_font\_size="30px" header\_3\_line\_height="1.3em" max\_width="900px" module\_alignment="center" locked="off"\]

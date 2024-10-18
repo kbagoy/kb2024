@@ -8,7 +8,7 @@ categories:
   - "workanywhere"
 tags: 
   - "interviews"
-coverImage: "work-anywhere-lifestyle.png"
+image: assets/images/work-anywhere-lifestyle.png
 ---
 
 Are you thinking of starting a freelance or consulting business that'll allow you to #workanywhere?

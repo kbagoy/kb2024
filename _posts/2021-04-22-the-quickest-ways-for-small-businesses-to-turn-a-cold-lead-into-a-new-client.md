@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-04-22"
 categories: 
   - "marketing-tips"
-coverImage: "handshake.jpg"
+image: assets/images/handshake.jpg
 ---
 
 It takes time for any person to turn into a potential customer for your business. 

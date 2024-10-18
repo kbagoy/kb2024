@@ -7,7 +7,7 @@ categories:
   - "mindset"
 tags: 
   - "interviews"
-coverImage: "gert-what-you-want.jpg"
+image: assets/images/gert-what-you-want.jpg
 ---
 
 Ready to change your life!?

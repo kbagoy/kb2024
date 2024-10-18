@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-03-02"
 categories: 
   - "marketing-tips"
-coverImage: "image1.jpg"
+image: assets/images/image1.jpg
 ---
 
 Content marketing is undoubtedly critical for the success of your small business.

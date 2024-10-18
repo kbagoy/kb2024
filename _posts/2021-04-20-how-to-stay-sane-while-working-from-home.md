@@ -6,7 +6,7 @@ date: "2021-04-20"
 categories: 
   - "mindset"
   - "workanywhere"
-coverImage: "How-to-Stay-Sane-While-Working-From-Home.jpg"
+image: assets/images/How-to-Stay-Sane-While-Working-From-Home.jpg
 ---
 
 When it comes to working from home, you may have been doing it for a while and may still feel incredibly sick of it. But even though it’s been a while since COVID first affected everybody’s work experience, you may still feel the need to reevaluate your process of working from home. Think about these ideas to get off to a great start.

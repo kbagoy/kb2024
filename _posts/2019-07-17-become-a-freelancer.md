@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2019-07-17"
 categories: 
   - "freelancing"
-coverImage: "804-copy.jpg"
+image: assets/images/804-copy.jpg
 ---
 
 **Freelancing is a $1.4 TRILLION industry.** 

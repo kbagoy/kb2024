@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-07-12"
 categories: 
   - "general"
-coverImage: "New-Types-of-Content-That-Can-Appeal-to-Your-Audience.jpg"
+image: assets/images/New-Types-of-Content-That-Can-Appeal-to-Your-Audience.jpg
 ---
 
 There are many tried and true methods for appealing to your audience through content. However, it might be time to try a new form of content creation. Audiences enjoy variety and their preference for consuming information and entertainment change over time.

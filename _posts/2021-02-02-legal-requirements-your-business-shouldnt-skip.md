@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-02-02"
 categories: 
   - "marketing-tips"
-coverImage: "Legal-Requirements-Your-Business-Shouldnt-Skip.jpg"
+image: assets/images/Legal-Requirements-Your-Business-Shouldnt-Skip.jpg
 ---
 
 While it can be hard to follow every single rule your business should follow, it is essential to your business’s survival. Before they open up shop, business owners should know what legal requirements they need to follow. As you grow and expand there are important things not to miss. Get out your pen and reading glasses, because there are a lot of documents to receive and sign.

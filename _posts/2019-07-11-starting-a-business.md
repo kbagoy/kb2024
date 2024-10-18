@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2019-07-11"
 categories: 
   - "freelancing"
-coverImage: "128.jpg"
+image: assets/images/128.jpg
 ---
 
 I took my first scooter ride today on Lyft.

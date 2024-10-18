@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2022-07-11"
 categories: 
   - "general"
-coverImage: "sharon-mccutcheon-8a5eJ1-mmQ-unsplash-scaled.jpg"
+image: assets/images/sharon-mccutcheon-8a5eJ1-mmQ-unsplash-scaled.jpg
 ---
 
 With many economists expecting [inflation to get worse](https://www.forbes.com/sites/jonathanponciano/2022/07/04/inflation-may-get-much-worse-this-summer-and-could-linger-many-years-experts-warn/?sh=401c3ec82e4d), many consumers are looking for ways to save money during these expensive times. To ensure you’re prepared for rising prices and a possible recession, you’re likely looking for ways you can cut costs and save some extra money. To learn new ways you can save, continue reading through these helpful tips. 

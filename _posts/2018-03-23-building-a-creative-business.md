@@ -6,7 +6,7 @@ date: "2018-03-23"
 categories: 
   - "marketing-tips"
   - "freelancing"
-coverImage: "creativity.jpg"
+image: assets/images/creativity.jpg
 ---
 
 **Sometimes our struggles are the best thing that happen to us.**

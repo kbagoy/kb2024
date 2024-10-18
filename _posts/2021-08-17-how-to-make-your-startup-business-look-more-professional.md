@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-08-17"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Make-Your-Startup-Business-Look-More-Professional.jpg"
+image: assets/images/How-to-Make-Your-Startup-Business-Look-More-Professional.jpg
 ---
 
 https://youtu.be/44MFNehYLjA

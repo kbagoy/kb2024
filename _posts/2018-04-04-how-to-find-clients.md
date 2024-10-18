@@ -7,7 +7,7 @@ categories:
   - "marketing-tips"
 tags: 
   - "interviews"
-coverImage: "kate_bagoy_js_12a-copy-2.jpg"
+image: assets/images/kate_bagoy_js_12a-copy-2.jpg
 ---
 
 **Did you know that shame can have profound effects on your success as business owner?**

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-11-23"
 categories: 
   - "freelancing"
-coverImage: "How-to-Save-on-Taxes-as-a-Freelancer.jpg"
+image: assets/images/How-to-Save-on-Taxes-as-a-Freelancer.jpg
 ---
 
 If you’re a freelancer, you already know that you need to save roughly 30% of your income in order to prepare for tax filing every year. But, you’d still like to pay the least amount of money as possible to the federal government, so knowing what tax deductions you can make is a great idea. But figuring out the tax code is tricky. How can you save on taxes as a freelancer?

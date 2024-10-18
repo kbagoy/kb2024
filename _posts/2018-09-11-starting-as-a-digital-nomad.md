@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2018-09-11"
 categories: 
   - "workanywhere"
-coverImage: "location-independent-entrepreneur.jpeg"
+image: assets/images/location-independent-entrepreneur.jpeg
 ---
 
 Here's what you need to know... and a bit of a rant, really, for anyone thinking of hiring a coach, joining a group or starting a business.

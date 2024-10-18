@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/authors",
     "title": "Authors",
-    "body": "                                                                                                                                                                                    guestpost:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    Kate:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                "
+    "body": "                                                                                                                                                                                    KBI Team:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    Kate:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                "
     }, {
     "id": 3,
     "url": "http://localhost:4000/categories",
@@ -23,12 +23,12 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to Kate Bagoy | Freelance Product Designer. We will reply as soon as possible!   "
+    "body": "  Please send your message to Kate Bagoy - Freelance Product Designer. We will reply as soon as possible!   "
     }, {
     "id": 5,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "                                                                                               Three benefits of studying business              :       Studying business may sound intimidating, but the skills that you’ll develop along the way can be life-changing. A business course will teach you things that give you massive advantages as. . . :                                                                               guestpost                 10 Oct 2023                                                                                  Three AI tools for freelancers, that'll help you work smarter              :       AI is revolutionising the world of business. Industries of all different descriptions are capitalising on the latest advancements that are helping to boost productivity and efficiency in so many different. . . :                                                                               Kate                 28 Sep 2023                                                                                  UI vs UX: Are They The Same Or Different, And What Is Their Impact On A Website?              :       The phrases ‘User Interface’ (UI) and ‘User Experience’ (UX) are frequently used in tech-related settings. What does a UX or UI design mean, and what is its impact on your. . . :                                                                               guestpost                 03 Aug 2023                                                                                  Get Your Creative Business on the Map              :       As a creative professional, obviously you want to get your work out there. Often, though, that’s easier said than done. The key to success is having a plan and taking. . . :                                                                               Kate                 06 Jul 2023                                                                                  How to Write Compelling Email Copy that Converts              :       In 2022 alone, there were a total of 333. 2 billion emails sent out and received globally. Sounds outrageously high? That is now the reality in our increasingly digitalized world. :                                                                               guestpost                 07 Jun 2023                                                                                  Running A Business &amp; Having a Life              :       Running a business brings many challenges, and so does running a household. While the two aren’t mutually exclusive, keeping all aspects of your life operating smoothly requires some organization and. . . :                                                                               guestpost                 29 May 2023                                   &laquo;          1        2        3        4       &raquo; "
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips                                                                                                 Three benefits of studying business              :       Studying business may sound intimidating, but the skills that you’ll develop along the way can be life-changing. A business course will teach you things that give you massive advantages as. . . :                                                                               KBI Team                 10 Oct 2023                                                                                                                           Three AI tools for freelancers, that'll help you work smarter              :       AI is revolutionising the world of business. Industries of all different descriptions are capitalising on the latest advancements that are helping to boost productivity and efficiency in so many different. . . :                                                                               Kate                 28 Sep 2023                                                                                                                           UI vs UX: Are They The Same Or Different, And What Is Their Impact On A Website?              :       The phrases ‘User Interface’ (UI) and ‘User Experience’ (UX) are frequently used in tech-related settings. What does a UX or UI design mean, and what is its impact on your. . . :                                                                               KBI Team                 03 Aug 2023                                                                                                                           Get Your Creative Business on the Map              :       As a creative professional, obviously you want to get your work out there. Often, though, that’s easier said than done. The key to success is having a plan and taking. . . :                                                                               Kate                 06 Jul 2023                                                                                  How to Write Compelling Email Copy that Converts              :       In 2022 alone, there were a total of 333. 2 billion emails sent out and received globally. Sounds outrageously high? That is now the reality in our increasingly digitalized world. :                                                                               KBI Team                 07 Jun 2023                                                                                                                           Running A Business &amp; Having a Life              :       Running a business brings many challenges, and so does running a household. While the two aren’t mutually exclusive, keeping all aspects of your life operating smoothly requires some organization and. . . :                                                                               KBI Team                 29 May 2023                                   &laquo;          1        2        3        4       &raquo; "
     }, {
     "id": 6,
     "url": "http://localhost:4000/robots.txt",
@@ -38,167 +38,167 @@ var documents = [{
     "id": 7,
     "url": "http://localhost:4000/page2/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 8,
     "url": "http://localhost:4000/page3/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 9,
     "url": "http://localhost:4000/page4/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 10,
     "url": "http://localhost:4000/page5/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 11,
     "url": "http://localhost:4000/page6/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 12,
     "url": "http://localhost:4000/page7/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 13,
     "url": "http://localhost:4000/page8/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 14,
     "url": "http://localhost:4000/page9/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 15,
     "url": "http://localhost:4000/page10/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 16,
     "url": "http://localhost:4000/page11/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 17,
     "url": "http://localhost:4000/page12/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 18,
     "url": "http://localhost:4000/page13/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 19,
     "url": "http://localhost:4000/page14/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 20,
     "url": "http://localhost:4000/page15/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 21,
     "url": "http://localhost:4000/page16/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 22,
     "url": "http://localhost:4000/page17/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 23,
     "url": "http://localhost:4000/page18/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 24,
     "url": "http://localhost:4000/page19/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 25,
     "url": "http://localhost:4000/page20/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 26,
     "url": "http://localhost:4000/page21/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 27,
     "url": "http://localhost:4000/page22/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 28,
     "url": "http://localhost:4000/page23/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 29,
     "url": "http://localhost:4000/page24/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 30,
     "url": "http://localhost:4000/page25/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 31,
     "url": "http://localhost:4000/page26/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 32,
     "url": "http://localhost:4000/page27/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 33,
     "url": "http://localhost:4000/page28/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 34,
     "url": "http://localhost:4000/page29/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 35,
     "url": "http://localhost:4000/page30/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 36,
     "url": "http://localhost:4000/page31/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 37,
     "url": "http://localhost:4000/page32/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 38,
     "url": "http://localhost:4000/page33/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 39,
     "url": "http://localhost:4000/page34/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "Freelance principal product designer with over 10 years experence, focused on end-to-end design for startups &amp; edTech. I also teach creatives how to start freelancing without going broke.        View design portfolio         Get Freelance Tips    {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 40,
     "url": "http://localhost:4000/benefits-of-studying-business/",

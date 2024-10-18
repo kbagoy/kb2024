@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-01-26"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_120820843.jpg"
+image: assets/images/dreamstime_s_120820843.jpg
 ---
 
 Learning to market effectively and efficiently is an important part of succeeding as a small business owner. Whatever your marketing budget may be, learning to use it well will help you to reach a wider audience and bring in new customers so that you can experience a high return on your marketing investment.

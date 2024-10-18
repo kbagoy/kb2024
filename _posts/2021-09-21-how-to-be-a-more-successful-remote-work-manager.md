@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-09-21"
 categories: 
   - "workanywhere"
-coverImage: "How-to-Be-a-More-Successful-Remote-Work-Manager.jpg"
+image: assets/images/How-to-Be-a-More-Successful-Remote-Work-Manager.jpg
 ---
 
 Working remotely as a manager can be a challenge. You may be unsure how to help your team members or don’t know who is working on what project. However, if you follow the tips below, you can become the successful remote work manager you aspire to be.

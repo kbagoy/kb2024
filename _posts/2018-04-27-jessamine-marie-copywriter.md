@@ -9,7 +9,7 @@ categories:
 tags: 
   - "6ff-interview-series"
   - "interviews"
-coverImage: "jessamine-marie.jpg"
+image: assets/images/jessamine-marie.jpg
 ---
 
 Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series!

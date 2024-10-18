@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-31"
 categories: 
   - "general"
-coverImage: "How-to-Properly-Vet-Potential-Employees.jpg"
+image: assets/images/How-to-Properly-Vet-Potential-Employees.jpg
 ---
 
 Employees are the lifeblood of any company. How should you vet potential employees to make sure you choose the right ones? They are a huge part of what determines how successful you can be. Because of how critical they are to succeeding as a business, choosing the right employees to work for you is imperative. 

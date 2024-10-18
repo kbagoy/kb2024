@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-10-05"
 categories: 
   - "marketing-tips"
-coverImage: "What-You-Need-to-Know-to-Avoid-Critical-Business-Startup-Errors.jpg"
+image: assets/images/What-You-Need-to-Know-to-Avoid-Critical-Business-Startup-Errors.jpg
 ---
 
 Creating your own startup can be a wonderful opportunity. However, it’s also very tricky to get started if you don’t have any experience. The best thing you can do for yourself is become aware of common mistakes for a startup, so you don’t make the same ones!

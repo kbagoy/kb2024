@@ -5,7 +5,7 @@ author: kbagoy
 date: "2023-07-06"
 categories: 
   - "general"
-coverImage: "pexels-photo-1460037.jpeg"
+image: assets/images/pexels-photo-1460037.jpeg
 ---
 
 As a creative professional, obviously you want to get your work out there. Often, though, that’s easier said than done. The key to success is having a plan and taking the necessary steps to ensure that your work is visible and accessible. So here are some tips on how creators just like you can get their work on the map.

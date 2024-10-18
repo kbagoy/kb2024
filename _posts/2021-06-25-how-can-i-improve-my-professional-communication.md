@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-25"
 categories: 
   - "general"
-coverImage: "Communication-Young-Professional-Black-Call-Public-Relations-PR-Work-Business-Entrepreneur.jpg"
+image: assets/images/Communication-Young-Professional-Black-Call-Public-Relations-PR-Work-Business-Entrepreneur.jpg
 ---
 
 Proper communication is an important part of everyday life, but it is especially important in professional settings. The way you communicate causes other people to form impressions about you and your business. You want to make sure you are sending the right messages.

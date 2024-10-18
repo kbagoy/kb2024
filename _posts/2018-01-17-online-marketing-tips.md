@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2018-01-17"
 categories: 
   - "mindset"
-coverImage: "stock-photo-girl-on-pony-unsplash-400909.jpg"
+image: assets/images/stock-photo-girl-on-pony-unsplash-400909.jpg
 ---
 
 \[et\_pb\_section fb\_built="1" admin\_label="section" \_builder\_version="3.22"\]\[et\_pb\_row admin\_label="row" \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" custom\_padding\_\_hover="|||"\]\[et\_pb\_text admin\_label="Text" \_builder\_version="4.8.1" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" hover\_enabled="0" sticky\_enabled="0"\]

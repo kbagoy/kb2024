@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2022-03-24"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Keep-Up-With-Your-Competitors.jpg"
+image: assets/images/How-to-Keep-Up-With-Your-Competitors.jpg
 ---
 
 As a successful business owner, your first priorities are on doing quality work and serving the needs of your clients. But if you make the mistake of ignoring your competitors, you could be in trouble. Keeping up with the competition—and pulling ahead of them—can make a huge difference in your bottom line.

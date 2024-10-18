@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-05-25"
 categories: 
   - "marketing-tips"
-coverImage: "What-Blogging-Can-Do-for-Your-Home-Based-Business.jpg"
+image: assets/images/What-Blogging-Can-Do-for-Your-Home-Based-Business.jpg
 ---
 
 Running a business is a lot of work, and sometimes adding a blog might feel like extra work on top. While writing a blog does certainly take work, it can help you to improve your business and bring in new customers in an organic way. Writing a blog can help your home-based business to improve in a variety of ways.

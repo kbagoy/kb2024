@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-08"
 categories: 
   - "marketing-tips"
-coverImage: "Things-Every-Entrepreneur-Needs-to-Know-About-Their-Taxes.jpg"
+image: assets/images/Things-Every-Entrepreneur-Needs-to-Know-About-Their-Taxes.jpg
 ---
 
 As an entrepreneur, your success depends on the smooth run of your business. Taxes, unfortunately, can be a huge wrench in the system, suddenly forcing fees and time, and energy. And what’s worse, they are unavoidable! They come around every year (and sometimes more often) and each time they can be a pain to sort out. However, there are things you can do and precautions you can take that will make doing your taxes less stressful, less threatening, and less of an impediment to your business plans.

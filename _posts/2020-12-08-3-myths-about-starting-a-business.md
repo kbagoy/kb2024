@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-12-08"
 categories: 
   - "marketing-tips"
-coverImage: "image_0-8.jpg"
+image: assets/images/image_0-8.jpg
 ---
 
 Entrepreneurship is a fascinating field. One of the most intriguing aspects of starting a business is that it is not well understood, even by those that are good at it. Many successful entrepreneurs have struggled to understand their own success. Some have even misattributed their success to aspects that aren’t that helpful. In some cases, this has generated myths about entrepreneurial success. Here are a few of those.

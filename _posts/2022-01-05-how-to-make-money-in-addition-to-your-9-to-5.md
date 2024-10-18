@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-01-05"
 categories: 
   - "general"
-coverImage: "How-to-Make-Money-in-Addition-to-Your-9-to-5.jpg"
+image: assets/images/How-to-Make-Money-in-Addition-to-Your-9-to-5.jpg
 ---
 
 For decades, having a 9-5 full-time job has been touted as a reliable way to make money. Few people today have the luxury of limiting their money-making efforts to a single full-time job though. Inflation never seems to stop, and getting ahead always seems to require more effort. So what can you do to earn more money outside of your 9-5 job?

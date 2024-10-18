@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-09-11"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Avoid-Cybersecurity-Issues-for-Your-Business.jpg"
+image: assets/images/How-to-Avoid-Cybersecurity-Issues-for-Your-Business.jpg
 ---
 
 With the development of helpful business and technology, you might feel like your business is more effective than ever. However, this development also comes along with increasing cybersecurity issues that can threaten the data of your business and customers. Here are a few ways to avoid cybersecurity issues for your business.

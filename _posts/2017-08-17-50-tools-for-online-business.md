@@ -6,7 +6,7 @@ date: "2017-08-17"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "stock-photo-business.jpg"
+image: assets/images/stock-photo-business.jpg
 ---
 
 **HOW TO TAKE YOUR BUSINESS ONLINE:** TOOLS EVERY ENTREPRENEUR NEEDS TO WORK AROUND THE WORLD

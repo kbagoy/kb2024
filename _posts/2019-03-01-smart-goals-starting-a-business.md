@@ -5,7 +5,7 @@ author: "helenec"
 date: "2019-03-01"
 categories: 
   - "mindset"
-coverImage: "photo-1468276898059-765dd484c793.jpeg"
+image: assets/images/photo-1468276898059-765dd484c793.jpeg
 ---
 
 # Writing out your Dreams to Set up Goals

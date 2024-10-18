@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-07-20"
 categories: 
   - "general"
-coverImage: "3-Business-Expenses-That-Are-Important-to-Keep-in-Mind-as-a-Freelancer.jpg"
+image: assets/images/3-Business-Expenses-That-Are-Important-to-Keep-in-Mind-as-a-Freelancer.jpg
 ---
 
 https://www.youtube.com/watch?v=jKY2WSjAdR4

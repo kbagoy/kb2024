@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-07-29"
 categories: 
   - "general"
-coverImage: "What-Are-My-Options-for-Selling-Online.jpg"
+image: assets/images/What-Are-My-Options-for-Selling-Online.jpg
 ---
 
 If you are a small business owner, entrepreneur, or freelancer, you’re probably wondering how to sell products online successfully. It can be tricky to know how to make a significant profit while maneuvering the challenges of online marketing. Here are a few different options for selling your products online and how to make a sizable profit.

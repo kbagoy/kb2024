@@ -6,7 +6,7 @@ date: "2020-09-24"
 categories: 
   - "marketing-tips"
   - "workanywhere"
-coverImage: "kate-bagoy-61.jpg"
+image: assets/images/kate-bagoy-61.jpg
 ---
 
 # Start a Lifestyle Business, They Said, It'll be Easy,They Said...

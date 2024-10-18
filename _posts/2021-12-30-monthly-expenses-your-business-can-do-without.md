@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-30"
 categories: 
   - "marketing-tips"
-coverImage: "Monthly-Expenses-Your-Business-Can-Do-Without.jpg"
+image: assets/images/Monthly-Expenses-Your-Business-Can-Do-Without.jpg
 ---
 
 One of the most difficult parts of running a business is balancing your budget and making sure you have the funds you need to get things done. There are some monthly expenses that are absolutely essential and need to be a part of your monthly budget. On the other hand, there are also expenses that many businesses pay for each month that aren’t really necessary to making sure that your business is as successful as it should be.

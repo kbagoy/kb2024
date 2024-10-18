@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-02-23"
 categories: 
   - "marketing-tips"
-coverImage: "paid-advertising-concept.jpg"
+image: assets/images/paid-advertising-concept.jpg
 ---
 
 In this world of endless information, there are no limits in ad marketing and advertising. All you have to do is to choose the right platform, but it can be difficult to know which platform to use. You should start by using Instagram, Facebook, and Google ads. Each of these platforms will help you to reach your audience and boost your company.

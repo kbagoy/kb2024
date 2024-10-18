@@ -8,7 +8,7 @@ categories:
 tags: 
   - "inspiration"
   - "interviews"
-coverImage: "2017-02-13-17.54.09.jpg"
+image: assets/images/2017-02-13-17.54.09.jpg
 ---
 
 #### Want a Better Life? Just Add Gratitude!

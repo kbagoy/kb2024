@@ -6,7 +6,7 @@ date: "2020-09-28"
 categories: 
   - "corporate-burnout"
   - "freelancing"
-coverImage: "Start-a-Consulting-Business-With-Kate-Bagoy.jpg"
+image: assets/images/Start-a-Consulting-Business-With-Kate-Bagoy.jpg
 ---
 
 It's November 2017, and I'm sitting in the Milk & Madu cafe in Canggu, Bali, with my housemate Alice, sweating our asses off in the tropical heat. 

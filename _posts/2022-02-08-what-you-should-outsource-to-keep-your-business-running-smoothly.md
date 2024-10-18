@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-02-08"
 categories: 
   - "general"
-coverImage: "What-You-Should-Outsource-to-Keep-Your-Business-Running-Smoothly.jpg"
+image: assets/images/What-You-Should-Outsource-to-Keep-Your-Business-Running-Smoothly.jpg
 ---
 
 Running a business is a constant struggle against the numbers, trying to find new and creative ways to maximize your output, products, and services, while minimizing the cost to you to increase your total revenue and profit. And one of the smartest ways that your business can do this is by outsourcing a few key areas of your business. Not only will this help to save you both time and money but can also leave things running smoother than ever before. Here are three areas of your business that you should outsource to keep your business running smoothly.

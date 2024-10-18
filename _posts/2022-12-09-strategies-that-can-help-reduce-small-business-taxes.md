@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-12-09"
 categories: 
   - "general"
-coverImage: "Strategies-That-Can-Help-Reduce-Small-Business-Taxes.jpg"
+image: assets/images/Strategies-That-Can-Help-Reduce-Small-Business-Taxes.jpg
 ---
 
 Finding ways to control costs is an important task for any business, no matter how big or small it is. That said, small businesses need to stay on top of their business expenses since they often have less wiggle room to work with before those costs start to eat into their profits too much. One way small businesses can reduce their expenses is to use strategies that reduce their taxes.

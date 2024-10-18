@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-08-03"
 categories: 
   - "marketing-tips"
-coverImage: "image1.png"
+image: assets/images/image1.png
 ---
 
 Whether you are a small business owner, a freelancer, a professional in a huge enterprise, or anything in between, you will definitely face the need to compose emails – lots of them. Consider all the individuals you may need to communicate with and with whom you will want a record of those communications:

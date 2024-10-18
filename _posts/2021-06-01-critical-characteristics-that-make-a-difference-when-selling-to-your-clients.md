@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-01"
 categories: 
   - "marketing-tips"
-coverImage: "Critical-Characteristics-That-Make-a-Difference-When-Selling-to-Your-Customers.png"
+image: assets/images/Critical-Characteristics-That-Make-a-Difference-When-Selling-to-Your-Customers.png
 ---
 
 As a business owner or freelancer, you are also unknowingly becoming a salesperson. The salesperson client relationship is always tricky. How do you know what your future and current clients need? Here’s a secret; your clients care less about the product and more about the relationship they have with you. That is what keeps them coming back. Be honest, have confidence, and listen to your clients to build a lasting relationship.

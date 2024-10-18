@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-24"
 categories: 
   - "general"
-coverImage: "Types-of-Content-Marketing-You-Should-Be-Using-More.jpg"
+image: assets/images/Types-of-Content-Marketing-You-Should-Be-Using-More.jpg
 ---
 
 Successful businesses in the modern era tend to have a strong grasp of the world and various types of content marketing. As opposed to direct advertising methods, content marketing can be a more subtle way for you to connect with your customers and bring attention to your products and services. There are many types of content marketing, and below you will see a few options that are great for reaching your conversion goals.

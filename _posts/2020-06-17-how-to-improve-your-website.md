@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-06-17"
 categories: 
   - "marketing-tips"
-coverImage: "website_graphic.jpg"
+image: assets/images/website_graphic.jpg
 ---
 
 In today’s online market economy, the importance of a good website cannot be overstated. Many customers, clients, and potential connections will form their first impressions of your business based on your website. Because of this, it’s essential to get people to take your website seriously. If you want to know how to improve your website to be more streamlined, professional and impressive, scroll down and keep reading!

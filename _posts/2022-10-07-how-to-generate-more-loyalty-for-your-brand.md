@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-07"
 categories: 
   - "general"
-coverImage: "How-to-Generate-More-Loyalty-for-Your-Brand.jpg"
+image: assets/images/How-to-Generate-More-Loyalty-for-Your-Brand.jpg
 ---
 
 Do you want customers who are fiercely loyal to your brand? Of course you do! It can be tough to create that kind of loyalty, but it's not impossible. Here are some strategies that you can use to generate more brand loyalty from your customers. By following these tips, you will be able to create a base of customers who are more likely to stick with you through thick and thin.

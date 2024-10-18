@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2017-12-22"
 categories: 
   - "freelancing"
-coverImage: "portfolio-for-freelancers.jpg"
+image: assets/images/portfolio-for-freelancers.jpg
 ---
 
 **Website Must-Haves**

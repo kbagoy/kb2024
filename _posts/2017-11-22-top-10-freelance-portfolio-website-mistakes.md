@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2017-11-22"
 categories: 
   - "freelancing"
-coverImage: "freelance-mistakes.jpg"
+image: assets/images/freelance-mistakes.jpg
 ---
 
 **Today, there is no question whether or not you should have a website for your freelance business.**

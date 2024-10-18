@@ -6,7 +6,7 @@ date: "2017-07-18"
 categories: 
   - "corporate-burnout"
   - "workanywhere"
-coverImage: "1_iWkBA6J09oWB9CfZgf2qVQ-1.jpeg"
+image: assets/images/1_iWkBA6J09oWB9CfZgf2qVQ-1.jpeg
 ---
 
 I hate Lisbon and I’m leaving [Remote Year](http://www.remoteyear.com/general-application?referee=5132575).

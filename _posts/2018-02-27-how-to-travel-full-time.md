@@ -7,7 +7,7 @@ categories:
   - "workanywhere"
 tags: 
   - "interviews"
-coverImage: "travel-full-time.jpg"
+image: assets/images/travel-full-time.jpg
 ---
 
 When you travel full-time, people seem to think that you're on an extended vacation...

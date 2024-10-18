@@ -7,7 +7,7 @@ categories:
   - "workanywhere"
 tags: 
   - "interviews"
-coverImage: "favorite-travel-experience.jpg"
+image: assets/images/favorite-travel-experience.jpg
 ---
 
 After 13-months of travel as a digital nomad (initially with Remote Year, then solo) I look back at my year abroad.

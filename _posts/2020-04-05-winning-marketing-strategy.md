@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-04-05"
 categories: 
   - "marketing-tips"
-coverImage: "business_meeting-4.jpg"
+image: assets/images/business_meeting-4.jpg
 ---
 
 # Crafting a Winning Marketing Strategy

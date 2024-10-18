@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-06-13"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Shield-Your-Reputation-From-Harm.jpg"
+image: assets/images/How-to-Shield-Your-Reputation-From-Harm.jpg
 ---
 
 A brand’s reputation is its lifeblood. In the highly politicized, constantly digitized and online society of today, it becomes more and more possible that negative opinions can damage a business permanently. It is essential to guard your reputation carefully. Here are some measures you can take to do just that.

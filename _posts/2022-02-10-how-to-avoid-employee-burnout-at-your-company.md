@@ -6,7 +6,7 @@ date: "2022-02-10"
 categories: 
   - "marketing-tips"
   - "corporate-burnout"
-coverImage: "How-to-Avoid-Employee-Burnout-at-Your-Company.jpg"
+image: assets/images/How-to-Avoid-Employee-Burnout-at-Your-Company.jpg
 ---
 
 As you are running a business you have to mind the balance between making sure that your employees are productive and happy in the workplace? As someone who's struggled with corporate burnout, I can test that it is not a place you want your employees or team members to get to. When you can strike that balance you can avoid burnout and ensure that your employees are loyal and able to work hard to make things run smoothly. As you work to make the workplace a positive environment for your employees, you can start to create a healthy place for great work to be accomplished.

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2019-02-22"
 categories: 
   - "workanywhere"
-coverImage: "miami-1198921_1280.jpg"
+image: assets/images/miami-1198921_1280.jpg
 ---
 
 I'm a Miami-Dade County type of girl.

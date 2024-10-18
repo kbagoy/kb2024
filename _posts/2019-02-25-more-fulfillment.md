@@ -7,7 +7,7 @@ categories:
   - "freelancing"
 tags: 
   - "inspiration"
-coverImage: "photo-1515598379512-b60132823a9d.jpeg"
+image: assets/images/photo-1515598379512-b60132823a9d.jpeg
 ---
 
 One common misconception in business is the compartmentalization between personal and professional life.

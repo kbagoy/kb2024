@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-22"
 categories: 
   - "general"
-coverImage: "How-to-Connect-Better-With-Your-Employees.jpg"
+image: assets/images/How-to-Connect-Better-With-Your-Employees.jpg
 ---
 
 Any team will work better when the members of that team have a stronger connection. People are more productive when they have relationships and a bond. As an employer, you want to find ways to connect better with your employees so you can create a more united team and build better relationships with them.

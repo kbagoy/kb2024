@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-03-30"
 categories: 
   - "marketing-tips"
-coverImage: "What-Review-Sites-Should-You-Pay-the-Most-Attention-To.jpg"
+image: assets/images/What-Review-Sites-Should-You-Pay-the-Most-Attention-To.jpg
 ---
 
 With the advent of the internet, many places have opened up for people to leave reviews of the businesses they frequent. With all these review sites available, it is important to understand which are most important and will have the biggest impact on your business overall. Here are a few of the review sites that you should keep in mind when you are looking into your client reviews.

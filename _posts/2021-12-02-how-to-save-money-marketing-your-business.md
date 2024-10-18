@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-02"
 categories: 
   - "marketing-tips"
-coverImage: "Digital-Improvement-Growth-Progress-Money-Business-Success-Investment-Technology.jpg"
+image: assets/images/Digital-Improvement-Growth-Progress-Money-Business-Success-Investment-Technology.jpg
 ---
 
 Marketing is an expense that is absolutely necessary for your business. Getting the word out about your business, drumming up interest, and promoting your products and services is essential to growing your business and finding clients. But marketing can be very expensive, it is costly to promote business. But it doesn’t have to be. There are plenty of affordable ways that you can market your business that you may not have considered yet. Here are a few ways you can save money marketing your business. 

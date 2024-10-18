@@ -9,7 +9,7 @@ categories:
 tags: 
   - "6ff-interview-series"
   - "interviews"
-coverImage: "zafira.jpg"
+image: assets/images/zafira.jpg
 ---
 
 Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series!

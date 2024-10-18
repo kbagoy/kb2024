@@ -7,7 +7,7 @@ categories:
   - "corporate-burnout"
   - "freelancing"
   - "workanywhere"
-coverImage: "quit-your-job-to-travel.jpg"
+image: assets/images/quit-your-job-to-travel.jpg
 ---
 
 Ahh, a life filled with beaches and tropical islands...

@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'bootstrap', '~> 5.3.3'
     gem 'kramdown'
     gem 'rouge'
+    gem 'jekyll-sass-converter'
 end

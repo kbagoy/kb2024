@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-09-09"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Help-Close-a-Deal-With-New-Clients.jpg"
+image: assets/images/How-to-Help-Close-a-Deal-With-New-Clients.jpg
 ---
 
 As a small business owner, it's essential to know how to close a deal with new clients. If you can successfully win over new customers, your business will be on the path to success! You need these three tips and pieces of advice that will help you seal the deal with new potential clients. Follow these tips and you'll be on your way to landing more clients and growing your business.

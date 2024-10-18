@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-11-30"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Tell-If-Your-Marketing-Strategy-Is-Working.jpg"
+image: assets/images/How-to-Tell-If-Your-Marketing-Strategy-Is-Working.jpg
 ---
 
 Every business owner is curious to know whether or not their marketing strategy is actually working. Understanding why your strategy is faltering—or why it’s working—is essential to know. Here are a couple things you can do to see if your marketing strategy is actually doing its job.

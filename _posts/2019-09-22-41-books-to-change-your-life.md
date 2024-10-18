@@ -11,7 +11,7 @@ tags:
   - "inspiration"
   - "personal-development"
   - "self-help"
-coverImage: "img-4.jpg"
+image: assets/images/img-4.jpg
 ---
 
 ## Want to change your life? Read a book!

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-03-21"
 categories: 
   - "marketing-tips"
-coverImage: "cyber-security-guy-typing-1.jpg"
+image: assets/images/cyber-security-guy-typing-1.jpg
 ---
 
 The pandemic has altered the course of careers for thousands of people over the last two years. Many have started their own businesses as a result of being furloughed with no end in sight or just straight up losing their jobs. Virtually every person who runs a business out of their home will rely on technology and the internet to some degree, which means that you must take cybersecurity seriously. So what can you do to strengthen it?

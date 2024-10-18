@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-06-26"
 categories: 
   - "marketing-tips"
-coverImage: "understand_audience.jpg"
+image: assets/images/understand_audience.jpg
 ---
 
 When your business is in growth mode, it’s important to evaluate different aspects of your business, such as your target audience and determine how those factors can help you achieve your goals. You need to pinpoint the small facets that help complete the big picture. A good place to start is with your target audience. Knowing who your target audience is and understanding their needs can help your business thrive.

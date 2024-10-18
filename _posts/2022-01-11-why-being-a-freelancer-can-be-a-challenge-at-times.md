@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-01-11"
 categories: 
   - "freelancing"
-coverImage: "Why-Being-a-Freelancer-Can-Be-a-Challenge-at-Times.jpg"
+image: assets/images/Why-Being-a-Freelancer-Can-Be-a-Challenge-at-Times.jpg
 ---
 
 As a freelancer, you can create many wonderful opportunities for yourself that can give you a better experience than other career types. However, it also comes along with challenges. As you enter the world of freelancing, you need to take time to understand these challenges, how to deal with them, and whether or not you can handle them.

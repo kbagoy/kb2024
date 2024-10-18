@@ -7,7 +7,7 @@ categories:
   - "mindset"
 tags: 
   - "interviews"
-coverImage: "emotions-in-business.jpg"
+image: assets/images/emotions-in-business.jpg
 ---
 
 This week I dive into a little bit about decision making, managing emotions and the mindset behind running a business and staying in business when things go awry in your personal life.

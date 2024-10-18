@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-03-16"
 categories: 
   - "marketing-tips"
-coverImage: "image1-1.jpg"
+image: assets/images/image1-1.jpg
 ---
 
 [Succeeding in the digital world](https://katebagoy.com/tony-robbins-business-tips/) means learning how to rank high on the search engines for your chosen industry and location. 

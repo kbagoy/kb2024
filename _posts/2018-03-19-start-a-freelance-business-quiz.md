@@ -6,7 +6,7 @@ date: "2018-03-19"
 categories: 
   - "freelancing"
   - "workanywhere"
-coverImage: "kaboompics_woman-writing-in-her-notebook.jpg"
+image: assets/images/kaboompics_woman-writing-in-her-notebook.jpg
 ---
 
 The world needs more quitters.

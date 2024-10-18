@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2020-07-28"
 categories: 
   - "marketing-tips"
-coverImage: "247-1.png"
+image: assets/images/247-1.png
 ---
 
  

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-12"
 categories: 
   - "mindset"
-coverImage: "Blog-Post-Phoenix.jpg"
+image: assets/images/Blog-Post-Phoenix.jpg
 ---
 
 ![](images/Blog-Post-Phoenix.jpg)

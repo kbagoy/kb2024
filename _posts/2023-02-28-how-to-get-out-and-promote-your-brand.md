@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2023-02-28"
 categories: 
   - "marketing-tips"
-coverImage: "Speaker-at-business-conference-1.jpg"
+image: assets/images/Speaker-at-business-conference-1.jpg
 ---
 
 As a small business owner, it's important to get out and promote your brand. You can't just sit behind your computer all day and expect people to find you. To be successful, you need to put yourself out there and reach new customers. 

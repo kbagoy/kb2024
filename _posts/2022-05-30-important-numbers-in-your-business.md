@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-05-30"
 categories: 
   - "marketing-tips"
-coverImage: "The-Most-Important-Numbers-You-Need-to-Know-in-Your-Business.jpg"
+image: assets/images/The-Most-Important-Numbers-You-Need-to-Know-in-Your-Business.jpg
 ---
 
 If you don’t keep track of the finances in your business, there is a lot of room for error. It’s important to keep your finances in order to keep everything running smoothly. To ensure everything goes well, be sure to keep track of these important numbers.

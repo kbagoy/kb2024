@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2023-03-26"
 categories: 
   - "freelancing"
-coverImage: "Hands-Laptop-Computer-Keyboard-Typing-Writing-Blogging-Desk-Freelancer-Man.jpg"
+image: assets/images/Hands-Laptop-Computer-Keyboard-Typing-Writing-Blogging-Desk-Freelancer-Man.jpg
 ---
 
 Writing is a skill that doesn’t come easy to everyone, but if it’s something you do well and enjoy then you should consider potential writing careers. 

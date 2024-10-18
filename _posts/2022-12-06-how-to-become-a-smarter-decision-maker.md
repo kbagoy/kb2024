@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-12-06"
 categories: 
   - "general"
-coverImage: "How-to-Become-a-Smarter-Decision-Maker.jpg"
+image: assets/images/How-to-Become-a-Smarter-Decision-Maker.jpg
 ---
 
 Learning how to become a smarter decision-maker is a priceless life skill to have. This skill can save you a lot of stress, trouble, and heartache in the future. Getting better and then continuing to make smarter decisions is especially important in business settings where poor decisions can cost you thousands of dollars. 

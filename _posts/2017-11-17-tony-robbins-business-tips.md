@@ -6,7 +6,7 @@ date: "2017-11-17"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "tony-robbins-jet.jpg"
+image: assets/images/tony-robbins-jet.jpg
 ---
 
 **Tony Robbins is the best teacher I’ve ever learned from, and the lessons he taught me are valuable for nearly everyone I work with.**

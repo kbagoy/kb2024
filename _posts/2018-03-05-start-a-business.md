@@ -8,7 +8,7 @@ categories:
   - "workanywhere"
 tags: 
   - "interviews"
-coverImage: "quit-job-and-travel.jpg"
+image: assets/images/quit-job-and-travel.jpg
 ---
 
 Have you been wondering if you should start a business so you can travel?

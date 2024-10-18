@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2023-09-28"
 categories: 
   - "general"
-coverImage: "windows-MYomVPpR5FU-unsplash-scaled.jpg"
+image: assets/images/windows-MYomVPpR5FU-unsplash-scaled.jpg
 ---
 
 AI is revolutionising the world of business. Industries of all different descriptions are capitalising on the latest advancements that are [helping to boost productivity](https://www.linkedin.com/pulse/boosting-productivity-ai-how-artificial-intelligence-changing-jean/) and efficiency in so many different ways. But as a freelancer, it’s unlikely that you’ll receive any kind of formal training with these tools, so it can be difficult to know what AI can do for you and just how to optimise your use of it. In this guide, we explore three ways in which you can leverage artificial intelligence to help you optimise your time and streamline your workflow as a freelancer.

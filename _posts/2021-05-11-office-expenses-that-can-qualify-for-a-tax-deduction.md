@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-05-11"
 categories: 
   - "marketing-tips"
-coverImage: "Office-Expenses-That-Can-Qualify-for-a-Tax-Deduction.jpg"
+image: assets/images/Office-Expenses-That-Can-Qualify-for-a-Tax-Deduction.jpg
 ---
 
 Running a business is a lot of work, but it can also get extremely expensive. That’s why [being aware of the tax deductions](https://2020taxresolution.com/tax-help/) you have at your disposal can help you to make your business more sustainable. Many of the everyday (and less frequent) office expenses of running a business can be deducted, which can make your life a little easier while you are running your business.

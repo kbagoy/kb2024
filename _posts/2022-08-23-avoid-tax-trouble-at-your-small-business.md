@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-08-23"
 categories: 
   - "marketing-tips"
-coverImage: "What-You-Need-to-Avoid-Tax-Trouble-at-Your-Business.jpg"
+image: assets/images/What-You-Need-to-Avoid-Tax-Trouble-at-Your-Business.jpg
 ---
 
 Keeping track of your business’ finances is integral to maintaining a successful company. You need to ensure you’re making smart money moves if you want to succeed. One of the big money mistakes business owners can make is running into tax trouble. Follow these tips to avoid that issue.

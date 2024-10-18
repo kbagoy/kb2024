@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-05-18"
 categories: 
   - "workanywhere"
-coverImage: "Pile-of-Moving-Boxes-Cardboard-Books-Furniture-Relocation.jpg"
+image: assets/images/Pile-of-Moving-Boxes-Cardboard-Books-Furniture-Relocation.jpg
 ---
 
 When people imagine growing up and beginning their adult life, they always imagine a  move to a  major city. While large cities have many opportunities to offer, they are not the only road to success. Suburban areas and small towns are becoming homes for small businesses and freelance workers.

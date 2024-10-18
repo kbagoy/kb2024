@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-10-19"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Make-the-Most-of-a-Small-Marketing-Budget.jpg"
+image: assets/images/How-to-Make-the-Most-of-a-Small-Marketing-Budget.jpg
 ---
 
 As a small business owner, you know that you need to have marketing, but when you are just starting out, you may not have the budget for a huge campaign. That’s alright, because there is actually a lot you can do for your marketing on a limited budget. It’s all about having the right priorities and making sure that the marketing you put out actually hits the mark. 

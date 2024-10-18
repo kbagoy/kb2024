@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-14"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Improve-Your-Online-Presence.jpg"
+image: assets/images/How-to-Improve-Your-Online-Presence.jpg
 ---
 
 The internet is not going away. In our ever expanding, ever more digital global economy, the online presence of your business is more important than most any other aspect. You no longer even need a physical store or office to facilitate huge businesses. But getting your businesses online presence stronger can be a big challenge for business owners who don’t have as much experience working within the digital world as they might feel is necessary. Don’t stress, there are easy ways to improve your online presence, here are a few for you to try.

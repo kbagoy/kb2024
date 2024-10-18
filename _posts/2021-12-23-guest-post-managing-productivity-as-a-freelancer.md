@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-23"
 categories: 
   - "general"
-coverImage: "working.png"
+image: assets/images/working.png
 ---
 
 Being your own boss, especially when you are [working freelance](https://katebagoy.com/start-a-freelance-business/), is challenging. You have to get the work done on time, meet customer expectations and handle surroundings tactfully. 

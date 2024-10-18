@@ -6,7 +6,7 @@ date: "2023-02-15"
 categories: 
   - "freelancing"
   - "general"
-coverImage: "female-freelancer-working-from-home.jpg"
+image: assets/images/female-freelancer-working-from-home.jpg
 ---
 
 Freelance work has become more popular, but for many people, it can still be an unfamiliar idea. While there are a lot of upsides to working as a normal employee, there are some benefits that come from being a freelancer that you aren’t going to find in a normal job that can make up for some of the stress that comes from working freelance.

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-06-18"
 categories: 
   - "marketing-tips"
-coverImage: "Resources-Every-Business-Owner-Can-Benefit-from-Utilizing.jpg"
+image: assets/images/Resources-Every-Business-Owner-Can-Benefit-from-Utilizing.jpg
 ---
 
 When you’re running a business, it’s important to be aware of the resources that can help your business be more successful. These can make your job a lot easier, and help you find new ways to run your business. Try utilizing these resources to discover their many benefits.

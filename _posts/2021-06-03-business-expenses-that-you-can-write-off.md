@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-03"
 categories: 
   - "marketing-tips"
-coverImage: "Business-Expenses-That-You-Can-Write-Off.jpg"
+image: assets/images/Business-Expenses-That-You-Can-Write-Off.jpg
 ---
 
 Are you a small business owner or entrepreneur? Maybe you’re stuck in a corporate job, wondering if you’ll ever be able to afford to start up the business that you’ve been dreaming about. Well, no matter where you are along the process of starting a business, you need to know about one of the best tricks for business financing: business expense write-offs. There are lots of different business expenses that you can write off in your taxes to make your business venture a lot more affordable.

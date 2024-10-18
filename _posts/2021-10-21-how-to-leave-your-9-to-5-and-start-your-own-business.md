@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-10-21"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Leave-Your-9-to-5-and-Start-Your-Own-Business.jpg"
+image: assets/images/How-to-Leave-Your-9-to-5-and-Start-Your-Own-Business.jpg
 ---
 
 Leaving your 9-to-5 is a big step, especially if it’s to start your own business. There are many things you need to know before you actually go through with a new pursuit. With the right knowledge and careful planning, however, you can make your business a great success. Here are some of the most important steps that you definitely shouldn’t skip!

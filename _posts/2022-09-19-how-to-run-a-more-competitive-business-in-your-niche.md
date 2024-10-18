@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-09-19"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Run-a-More-Competitive-Business-in-Your-Niche.jpg"
+image: assets/images/How-to-Run-a-More-Competitive-Business-in-Your-Niche.jpg
 ---
 
 A niche is a specific segment of the market that offers a specific good or service. It is highly unlikely that your business will be the only one within a specific niche, meaning you will have competition. To run a more competitive business you can identify your competitors’ weak points, make yourself stand out, and know your clients.

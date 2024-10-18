@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-05-13"
 categories: 
   - "marketing-tips"
-coverImage: "Man-working-from-home-successful-entrepreneur-starting-a-business.jpg"
+image: assets/images/Man-working-from-home-successful-entrepreneur-starting-a-business.jpg
 ---
 
 Being an entrepreneur is hard work, especially when you’re first getting started and struggling with productivity. There’s a lot of work to do, and at least initially the vast majority of it has to be done by you. Because of that, you need to be able to manage your time and stay productive. Fortunately, there are some strategies you can use to boost your productivity.

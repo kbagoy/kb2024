@@ -6,7 +6,7 @@ date: "2020-04-13"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "business_growth-2.jpg"
+image: assets/images/business_growth-2.jpg
 ---
 
 Launching and owning your own business is a great way of moving toward financial freedom while providing products or services that are currently in-demand. If you run a business, understanding why technology is key to growth and expansion is essential to prevent you from missing out on potential opportunities and losing sales to competitors who are using that technology to their own advantage. With the right technology, it is possible to grow a business in any niche industry or market.

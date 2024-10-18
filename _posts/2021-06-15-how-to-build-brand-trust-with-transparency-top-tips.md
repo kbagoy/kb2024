@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-06-15"
 categories: 
   - "marketing-tips"
-coverImage: "35505952890_2b7ddc161a_c.jpg"
+image: assets/images/35505952890_2b7ddc161a_c.jpg
 ---
 
 Look, every business owner knows that trust and loyalty are super valuable in customer-relationships. An eCommerce business selling books, like [Book of Ra kostenlos](https://lifeinhack.com/457128/the-5-keys-to-building-customer-trust-and-loyalty), needs trust to build customer loyalty. Failing to do so makes it impossible to keep long-term customers on board. If a company is not clear about its intentions and business methods, people will go to the more open competitors. To avoid this situation, you need to make transparency the primary strategy in your business practices. Let's take a look at how it works in practice.

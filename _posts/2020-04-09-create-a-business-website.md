@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-04-09"
 categories: 
   - "marketing-tips"
-coverImage: "business_plan.jpg"
+image: assets/images/business_plan.jpg
 ---
 
 # How can you create a business website for big impact? Here are three tips.

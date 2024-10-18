@@ -7,7 +7,7 @@ categories:
   - "workanywhere"
 tags: 
   - "interviews"
-coverImage: "long-term-travel.jpg"
+image: assets/images/long-term-travel.jpg
 ---
 
 In this week's video I answer the most common question I get about life on the road & life with [Remote Year](http://www.remoteyear.com/general-application?referee=5132575):

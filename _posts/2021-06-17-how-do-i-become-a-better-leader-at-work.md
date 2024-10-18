@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-06-17"
 categories: 
   - "marketing-tips"
-coverImage: "leadership-team.jpg"
+image: assets/images/leadership-team.jpg
 ---
 
 Whatever business you may be in, it’s important to know how to be a good leader. If you’re a good leader, you can grow your business and work well with your employees. Take some time to learn how you can become a better leader.

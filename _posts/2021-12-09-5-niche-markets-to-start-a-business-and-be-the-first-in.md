@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-09"
 categories: 
   - "general"
-coverImage: "niche-markets.jpg"
+image: assets/images/niche-markets.jpg
 ---
 
 “It’s Better to be First than to Be Better.” And so goes the First Law of Marketing in the bestselling book, “The 22 Immutable Laws of Marketing”.

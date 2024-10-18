@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-01-04"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Make-Your-Business-Survive-Over-the-Long-Term.jpg"
+image: assets/images/How-to-Make-Your-Business-Survive-Over-the-Long-Term.jpg
 ---
 
 Once you get your business off the ground, you might think you’re all set. However, not all businesses last, especially if they don’t use the right strategies up front. It’s essential for you to find the best ways to make your business last and promote longevity.  

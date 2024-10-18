@@ -11,7 +11,7 @@ tags:
   - "inspiration"
   - "productivity"
   - "self-help"
-coverImage: "stock-photo-reading-a-book-deathtostock.jpg"
+image: assets/images/stock-photo-reading-a-book-deathtostock.jpg
 ---
 
 As an introvert, I have a tendency to get lost in books.

@@ -8,7 +8,7 @@ categories:
   - "mindset"
 tags: 
   - "inspiration"
-coverImage: "Kate_Bagoy_JS_11a.jpg"
+image: assets/images/Kate_Bagoy_JS_11a.jpg
 ---
 
 ### Feeling stressed, depressed, anxious or dreaming of quitting your job to live on the beach? You could be suffering from corporate burnout.

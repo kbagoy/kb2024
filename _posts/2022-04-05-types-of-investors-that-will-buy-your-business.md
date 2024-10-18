@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-04-05"
 categories: 
   - "general"
-coverImage: "Types-of-Investors-That-Will-Buy-Your-Business.jpg"
+image: assets/images/Types-of-Investors-That-Will-Buy-Your-Business.jpg
 ---
 
 When growing and building a business from the ground up, there are several different ways that you can make a profit. Some decide that they will reap the benefits of building and structuring a business and grow it themselves and enjoy the growing sales and revenue. But for others, the joy is in starting a business, and once it has reached a certain level of success, would rather sell and cash out on their work for a pretty penny. Here are three different types of investors that you should look towards to buy your business when you are looking to sell.

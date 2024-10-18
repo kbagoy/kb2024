@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-04-06"
 categories: 
   - "marketing-tips"
-coverImage: "Aspects-of-Your-Business-That-Can-Benefit-From-Stronger-Cybersecurity.jpg"
+image: assets/images/Aspects-of-Your-Business-That-Can-Benefit-From-Stronger-Cybersecurity.jpg
 ---
 
 Strong cybersecurity is vital to running a successful business. From competitors to disgruntled consumers, businesses face a lot of things that could easily be labeled as threats. Marketing and customer service are the most common tools businesses have at their disposal to deal with those, but what about the ones you can’t see? Hackers and viruses can take advantage of vulnerabilities in a variety of aspects of businesses. You’ll need proactive cybersecurity if you’re to protect your business.

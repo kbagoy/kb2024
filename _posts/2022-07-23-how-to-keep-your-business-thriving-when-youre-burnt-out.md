@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-07-23"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Keep-Your-Business-Thriving-When-Youre-Burnt-Out.jpg"
+image: assets/images/How-to-Keep-Your-Business-Thriving-When-Youre-Burnt-Out.jpg
 ---
 
 As a business owner, it’s easy to become overwhelmed. You have many responsibilities on your plate and you might feel like you have to take it on all by yourself. However, your business can suffer if you’re feeling burnt out. It’s important to find ways to keep your business running and thriving even if you’re experiencing burnout.

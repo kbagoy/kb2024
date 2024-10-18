@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2020-09-17"
 categories: 
   - "marketing-tips"
-coverImage: "kaboompics_Lovely-workplace-with-red-roses.jpg"
+image: assets/images/kaboompics_Lovely-workplace-with-red-roses.jpg
 ---
 
 ## **7 Tips for Writing Promotional Messages**

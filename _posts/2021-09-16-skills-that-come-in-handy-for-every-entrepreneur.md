@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-09-16"
 categories: 
   - "marketing-tips"
-coverImage: "Skills-That-Come-in-Handy-for-Every-Entrepreneur.jpg"
+image: assets/images/Skills-That-Come-in-Handy-for-Every-Entrepreneur.jpg
 ---
 
 So you want to be an entrepreneur! The fact is, whether you’ve already started a business or are preparing to, this line of work requires you to develop a large variety of skills. Entrepreneurs can’t just be good marketers or product developers--they should be excellent in every facet of running a business. If you’re wondering what other skills to gain to better your current or future business, here are a few that come in most handy!

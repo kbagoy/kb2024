@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-05-18"
 categories: 
   - "marketing-tips"
-coverImage: "Important-Accounting-Tasks-You-Need-to-Get-Done-at-Your-Business.jpg"
+image: assets/images/Important-Accounting-Tasks-You-Need-to-Get-Done-at-Your-Business.jpg
 ---
 
 If you want to run a successful business, you absolutely need to keep up with your finances. Your financial abilities ultimately determine the success of every other aspect of your business. With that in mind, make sure to regularly complete the following accounting tasks to stay on top of your finances!

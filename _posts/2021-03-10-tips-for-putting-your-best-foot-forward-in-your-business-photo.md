@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-03-10"
 categories: 
   - "marketing-tips"
-coverImage: "getting-professional-photo-taken.jpg"
+image: assets/images/getting-professional-photo-taken.jpg
 ---
 
 As a business owner, you are expected to present a certain image to the rest of the world, at least when it comes to presenting yourself as a business owner. Because of this, the way you look in professional photos matters and can significantly impact both the impression you make as an owner and the impression your business makes. So what should you be doing to make sure you put your best foot forward when it comes time to take your professional business photo?

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-09-28"
 categories: 
   - "marketing-tips"
-coverImage: "What-a-Bespoke-Marketing-Strategy-Can-Help-You-Achieve.jpg"
+image: assets/images/What-a-Bespoke-Marketing-Strategy-Can-Help-You-Achieve.jpg
 ---
 
 Bespoke is giving your product a unique personality. It is tailoring your brand and connecting to your unique clients. Your bespoke marketing strategy will help you stand out in the market. It will help you to target your unique client, consistently bring them what they are looking for and help them to keep coming back for a long time.

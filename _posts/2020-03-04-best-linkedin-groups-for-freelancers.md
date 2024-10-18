@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2020-03-04"
 categories: 
   - "marketing-tips"
-coverImage: "photo-1522202176988-66273c2fd55f-e1583343085600.jpg"
+image: assets/images/photo-1522202176988-66273c2fd55f-e1583343085600.jpg
 ---
 
 As a small business owner, you might think your LinkedIn profile is complete with a decent heading, about me and a blooming list of connections. However, are you truly taking advantage of everything LinkedIn has to offer?

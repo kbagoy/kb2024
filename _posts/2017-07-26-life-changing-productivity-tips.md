@@ -12,7 +12,7 @@ tags:
   - "productivity"
   - "task-management"
   - "time-management"
-coverImage: "deathtostock_creative-community5-copy.jpg"
+image: assets/images/deathtostock_creative-community5-copy.jpg
 ---
 
 \[et\_pb\_section fb\_built="1" admin\_label="section" \_builder\_version="3.22"\]\[et\_pb\_row admin\_label="row" \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" custom\_margin="|auto|-40px|auto||"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" custom\_padding\_\_hover="|||"\]\[et\_pb\_text admin\_label="Text" \_builder\_version="4.8.1" header\_font\_size="68px" header\_line\_height="1.1em" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" hover\_enabled="0" header\_font\_size\_tablet="" header\_font\_size\_phone="54px" header\_font\_size\_last\_edited="on|phone" sticky\_enabled="0"\]

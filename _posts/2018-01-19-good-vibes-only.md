@@ -7,7 +7,7 @@ categories:
   - "workanywhere"
 tags: 
   - "inspiration"
-coverImage: "stock-photo-like-a-boss-unsplash-194253.jpg"
+image: assets/images/stock-photo-like-a-boss-unsplash-194253.jpg
 ---
 
 When I was in Bali, I passed by a hostel with a sign hanging out front that said:

@@ -1,9 +1,9 @@
 # Site
-name: "Kate Bagoy | Freelance Product Designer"
-title: "Kate Bagoy"
-description: "I  transform ideas into beautiful, user-focused  designs"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Kate Bagoy - Freelance Product Designer"
+title: "Kate Bagoy - Freelance Product Designer"
+description: "Kate Bagoy, Freelance Product Designer"
+logo: 'assets/images/logo-new.png'
+favicon: 'assets/images/logo-inv.png'
 baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -16,8 +16,8 @@ email: wowthemesnet@gmail.com
 authors:
   kbistaff:
     name: kbistaff
-    display_name: guestpost
-    avatar: 'assets/images/avatar-sal.png'
+    display_name: KBI Team
+    avatar: 'assets/images/avatar.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-03-24"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_141544975-1.jpg"
+image: assets/images/dreamstime_s_141544975-1.jpg
 ---
 
 Your business's SEO plan is about more than just rising in the ranks on Google. A carefully implemented and thoughtful SEO strategy can help your business shine in multiple areas. Because of the time-consuming load that is required by SEO, many businesses try to rush through the various tasks involved. It’s important that you take the time to do it right. However, if you take your time, you’ll find that many of these tasks involve vital improvements to your business’s appearance, efficiency, and brand. They are things you need to do anyways, and it’s better if you get it done right the first time.

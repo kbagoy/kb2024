@@ -6,7 +6,7 @@ date: "2020-11-12"
 categories: 
   - "marketing-tips"
   - "freelancing"
-coverImage: "How-to-Write-a-Blog-Article-People-Will-Want-to-Read.jpg"
+image: assets/images/How-to-Write-a-Blog-Article-People-Will-Want-to-Read.jpg
 ---
 
 Obviously, every blog writer wants people to read their articles. Why else would they write them? But what is the secret? Honestly, there isn’t just one. There are a lot of things that go into crafting a good blog article that people will actually get all the way through without skipping parts.

@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-05-20"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_111686188.jpg"
+image: assets/images/dreamstime_s_111686188.jpg
 ---
 
 Getting better at marketing takes a lot of patience and strategy. Not only do you have to train yourself in branding and goal setting, but you must work at mastering new skills as the industry progresses. The marketing world has shifted quite a bit and will continue to change. Making yourself as adaptable as possible will improve your status in the field.

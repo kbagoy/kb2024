@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2022-03-15"
 categories: 
   - "mindset"
-coverImage: "darts-and-goal-setting.jpg"
+image: assets/images/darts-and-goal-setting.jpg
 ---
 
 Going out on your own and starting your own business is the most effective and direct route towards the kind of financial independence and time freedom that so many people dream of. But the truth is that to become a successful entrepreneur and businessperson, you need to have the proper mindset. Discovering this success mindset is easier said than done and can take years of trial and error to discover what works and what doesn’t. To help you get started here are three ways that you can change your mindset to achieve business success faster than you ever imagined possible.

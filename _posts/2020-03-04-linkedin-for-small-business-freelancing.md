@@ -6,7 +6,7 @@ date: "2020-03-04"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "photo-1561489396-888724a1543d-e1583343551298.jpg"
+image: assets/images/photo-1561489396-888724a1543d-e1583343551298.jpg
 ---
 
 ## **Want to Generate More Leads for Your Small Business or Find Clients for a Freelance Business?**

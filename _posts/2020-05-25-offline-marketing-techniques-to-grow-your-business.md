@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2020-05-25"
 categories: 
   - "marketing-tips"
-coverImage: "people-2557396_1920.jpg"
+image: assets/images/people-2557396_1920.jpg
 ---
 
 # Looking for Marketing Techniques to Grow Your Business?

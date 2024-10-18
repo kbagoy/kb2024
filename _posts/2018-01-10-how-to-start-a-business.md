@@ -6,7 +6,7 @@ date: "2018-01-10"
 categories: 
   - "freelancing"
   - "mindset"
-coverImage: "start-freelancing-without-going-broke.jpg"
+image: assets/images/start-freelancing-without-going-broke.jpg
 ---
 
 **If you’re thinking of leaving your corporate job to start consulting, chances are you’re more than a smidge concerned that you might end up broke or overworked - especially if you're getting started as a freelancer.**

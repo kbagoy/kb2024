@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2016-10-19"
 categories: 
   - "workanywhere"
-coverImage: "remote-year.jpg"
+image: assets/images/remote-year.jpg
 ---
 
 **With less than three months until I depart with** [**Remote Year**](http://www.remoteyear.com/general-application?referee=5132575)**, I find myself overwhelmed by daily decisions**, much less life altering decisions such as “who will be renting my apartment,” or “how am I going to survive without Amazon Prime?”

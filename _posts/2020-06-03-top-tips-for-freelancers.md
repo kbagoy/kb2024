@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-06-03"
 categories: 
   - "marketing-tips"
-coverImage: "Top-Tips-for-Freelancers-Just-Starting-Out.jpg"
+image: assets/images/Top-Tips-for-Freelancers-Just-Starting-Out.jpg
 ---
 
 Many professionals dream about quitting their day jobs and launching their own freelance business. **Here are three of the best tips for freelancers just starting out on this journey.. so you can make sure that you're ready to go at it on your own.**

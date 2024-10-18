@@ -9,7 +9,7 @@ categories:
   - "mindset"
 tags: 
   - "interviews"
-coverImage: "LYMM.png"
+image: assets/images/LYMM.png
 ---
 
 Earlier this year Brian D'Angelo ([Loveyourmondaymornings.com](http://Loveyourmondaymornings.com)) and I sat down to discuss what you really need to start a business (vs what you think you do), how to master your mindset and how to QUICKLY land a big client.

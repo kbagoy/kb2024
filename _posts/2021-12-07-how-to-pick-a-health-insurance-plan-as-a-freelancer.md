@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-12-07"
 categories: 
   - "general"
-coverImage: "health-insurance.jpg"
+image: assets/images/health-insurance.jpg
 ---
 
 The gig economy has led to many advancements and breakthroughs in how the workforce operates. Freelance work allows workers to take ownership of their work, and demand a premium for their services, without being subjected to the whims of a company. But freelance work also comes with some extra headaches, like having to figure out your own retirement plan, how to schedule a workday and schedule, and choosing your own health insurance plan. There are a lot of insurance plans out there for freelancers, and choosing one can feel daunting, so here are a few tips to help you select the perfect insurance plan as a freelance worker. 

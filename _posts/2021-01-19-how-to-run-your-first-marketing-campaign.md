@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-01-19"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_108092982.jpg"
+image: assets/images/dreamstime_s_108092982.jpg
 ---
 
 As you start your business, you’ll need to come up with a marketing campaign. You’ll need to come up with a plan, utilize social media platforms, and analyze the results of your campaign. Doing these things will help you to create a successful business with a great marketing campaign. Here’s a look into how this can all be possible.

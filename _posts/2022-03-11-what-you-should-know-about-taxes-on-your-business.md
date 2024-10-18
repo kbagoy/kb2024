@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2022-03-11"
 categories: 
   - "marketing-tips"
-coverImage: "dreamstime_s_114177176.jpg"
+image: assets/images/dreamstime_s_114177176.jpg
 ---
 
 Business owners know that taxes are not a simple matter. Whether you have several employees or you’re a sole proprietor, your tax situation will likely be complex and based on factors unique to you and your business. While there’s no “one size fits all” when it comes to taxes on businesses, there are some areas that you need to know about.

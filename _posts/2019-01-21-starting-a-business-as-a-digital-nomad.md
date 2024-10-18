@@ -9,7 +9,7 @@ tags:
   - "digital-nomad"
   - "how-to"
   - "inspiration"
-coverImage: "kaboompics_Young-woman-working-in-a-cafe-2-1080x675.jpg"
+image: assets/images/kaboompics_Young-woman-working-in-a-cafe-2-1080x675.jpg
 ---
 
 Hey guys!

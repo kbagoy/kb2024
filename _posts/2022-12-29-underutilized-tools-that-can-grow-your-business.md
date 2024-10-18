@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-12-29"
 categories: 
   - "general"
-coverImage: "Underutilized-Tools-That-Can-Grow-Your-Business.jpg"
+image: assets/images/Underutilized-Tools-That-Can-Grow-Your-Business.jpg
 ---
 
 Your business deserves only the very best. You should also be aware of the common pitfalls for new startups. One of the best things to know is the underutilized tools that many small business owners don't even realize are available. If you educate yourself, you might get a leg up in a market that can be quite difficult.

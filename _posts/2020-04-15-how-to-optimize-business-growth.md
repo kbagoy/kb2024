@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-04-15"
 categories: 
   - "marketing-tips"
-coverImage: "business_growth-3.jpg"
+image: assets/images/business_growth-3.jpg
 ---
 
 ## Why Isn't Your Business Growing Anymore?

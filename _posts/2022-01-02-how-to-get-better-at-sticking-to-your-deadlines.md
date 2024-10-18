@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-01-02"
 categories: 
   - "general"
-coverImage: "How-to-Get-Better-at-Sticking-to-Your-Deadlines.jpg"
+image: assets/images/How-to-Get-Better-at-Sticking-to-Your-Deadlines.jpg
 ---
 
 Are you someone who has trouble sticking to your deadlines? Do you find yourself pushing deadlines back, time and time again? If so, don't worry - you're not alone. Many people have difficulty with this. Follow these three tips that can help you get better at sticking to your deadlines.

@@ -6,7 +6,7 @@ date: "2017-09-17"
 categories: 
   - "corporate-burnout"
   - "mindset"
-coverImage: "Kate_Bagoy_JS_16.jpg"
+image: assets/images/Kate_Bagoy_JS_16.jpg
 ---
 
 ### Feeling stressed, depressed, anxious or dreaming of quitting your job to live on the beach? You could be showing signs of corporate burnout.

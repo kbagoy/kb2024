@@ -6,7 +6,7 @@ date: "2020-11-04"
 categories: 
   - "marketing-tips"
   - "freelancing"
-coverImage: "BlogTakeoff.jpg"
+image: assets/images/BlogTakeoff.jpg
 ---
 
 Blogging is one of the most valuable tools in your digital arsenal. It’s a way to demonstrate your thought leadership to potential customers by sharing rich, informative content while boosting your online presence. The more blogs you create, the more content Google has to index on your site. 

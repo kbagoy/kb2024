@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-08-31"
 categories: 
   - "marketing-tips"
-coverImage: "How-Can-I-Reduce-My-Startup-Expenses.jpg"
+image: assets/images/How-Can-I-Reduce-My-Startup-Expenses.jpg
 ---
 
 Starting a company is an exciting thing that comes with many opportunities and benefits for you as a person and as an entrepreneur. Unfortunately, all of those benefits come along with some pretty big expenses, and that can be intimidating and frustrating for many entrepreneurs. Figuring out how to keep your costs low is one of the most beneficial things you can do for your business to make sure that it is as successful as possible. From your budget to planning out the time you spend researching costs, there are many things you can do to make sure that your business can operate as efficiently and cost-effectively as possible.

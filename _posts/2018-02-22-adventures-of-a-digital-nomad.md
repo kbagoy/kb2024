@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2018-02-22"
 categories: 
   - "workanywhere"
-coverImage: "productivity-apps-for-freelancers.jpg"
+image: assets/images/productivity-apps-for-freelancers.jpg
 ---
 
 Last summer, I had the amazing opportunity to attend [Date with Destiny with Tony Robbins](http://www.anrdoezrs.net/links/8404329/type/dlg/https://www.tonyrobbins.com/events/date-with-destiny/) in Gold Coast, Australia and it was one of the most transformative weeks of my life.

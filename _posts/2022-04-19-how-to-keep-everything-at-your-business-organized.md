@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-04-19"
 categories: 
   - "general"
-coverImage: "How-to-Keep-Everything-at-Your-Business-Organized.jpg"
+image: assets/images/How-to-Keep-Everything-at-Your-Business-Organized.jpg
 ---
 
 One of the most important and underrated parts of running any successful business is the organization that goes on behind the scenes. When you can keep all your business elements organized, you will be able to ensure that you are always prepared for the events that are coming up. All you have to do is figure out a few key methods that can keep you organized and help your business to be even more successful.

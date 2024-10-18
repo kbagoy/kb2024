@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-03-28"
 categories: 
   - "marketing-tips"
-coverImage: "businessman-pushing-happy-customer-hologram.jpg"
+image: assets/images/businessman-pushing-happy-customer-hologram.jpg
 ---
 
 Making clients happy from the start of their journey is important to keeping them long-term and to their success. All it takes is consistent efforts on your part. To improve client satisfaction you should remember the important details about them, be responsive, and listen to them.

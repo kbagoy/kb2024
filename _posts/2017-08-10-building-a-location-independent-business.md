@@ -8,7 +8,7 @@ categories:
 tags: 
   - "inspiration"
   - "interviews"
-coverImage: "remote-year.jpg"
+image: assets/images/remote-year.jpg
 ---
 
 Ready to quit living someone else’s dream & start living yours?

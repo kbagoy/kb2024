@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-11-15"
 categories: 
   - "marketing-tips"
-coverImage: "How-Software-Helps-You-Run-Your-Business-More-Efficiently.jpg"
+image: assets/images/How-Software-Helps-You-Run-Your-Business-More-Efficiently.jpg
 ---
 
 Building a business takes a lot of resources and dedication to turn your goals into actions. If you want to grow your business effectively, you will have to add more software programs to your company’s repertoire. Using the right software can streamline many of your business processes, giving you more time to focus on the big picture.

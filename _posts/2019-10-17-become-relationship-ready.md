@@ -7,7 +7,7 @@ categories:
   - "mindset"
 tags: 
   - "inspiration"
-coverImage: "christiana-rivers-3_mQjo4Vb6A-unsplash-copy.jpg"
+image: assets/images/christiana-rivers-3_mQjo4Vb6A-unsplash-copy.jpg
 ---
 
 A couple years ago [I wrote a post](https://katebagoy.com/online-marketing-tips/) and promised to be authentic AF in my marketing, and to write a blog post a week.

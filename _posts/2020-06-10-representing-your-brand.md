@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-06-10"
 categories: 
   - "marketing-tips"
-coverImage: "brand_interaction.jpg"
+image: assets/images/brand_interaction.jpg
 ---
 
 Your business should be seen and heard even after you leave the office. The power and personality of your brand can shine through in your day-to-day activities. You should be proud of your products and hard work even when you're hardly working. The truth is that no customer looks forward to an unwanted approach of someone trying to sell them products for a personal gain. Here are a few ways for **representing your brand in public** and let your creative genius speak for itself.

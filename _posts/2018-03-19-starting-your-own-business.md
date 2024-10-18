@@ -6,7 +6,7 @@ date: "2018-03-19"
 categories: 
   - "marketing-tips"
   - "mindset"
-coverImage: "thinking-of-starting-a-freelance-business.jpg"
+image: assets/images/thinking-of-starting-a-freelance-business.jpg
 ---
 
 ### Here's the REAL reason you're stuck in a job you hate (& what to do about it...)

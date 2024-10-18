@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-06-15"
 categories: 
   - "general"
-coverImage: "How-to-Be-a-Tech-Savvy-Small-Business-Owner.jpg"
+image: assets/images/How-to-Be-a-Tech-Savvy-Small-Business-Owner.jpg
 ---
 
 When you run a small business, every skill you bring to the table is going to be a major benefit and lead you towards future success. Having tech knowledge is especially important, no matter what industry you are working in. When you are able to function in a tech-savvy way, you can make life easier on yourself and ensure that your business has the potential to move forward and outmatch your competition.

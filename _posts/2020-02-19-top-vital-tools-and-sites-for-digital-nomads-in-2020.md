@@ -7,7 +7,7 @@ categories:
   - "freelancing"
   - "mindset"
   - "workanywhere"
-coverImage: "rsz_professional-decorator-working-at-desk-p27a4fa-e1582084419270.jpg"
+image: assets/images/rsz_professional-decorator-working-at-desk-p27a4fa-e1582084419270.jpg
 ---
 
 Hey everybody!

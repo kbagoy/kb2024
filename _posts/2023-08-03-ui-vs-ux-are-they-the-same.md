@@ -7,7 +7,7 @@ categories:
   - "marketing-tips"
   - "freelancing"
   - "general"
-coverImage: "ui-scaled.jpg"
+image: assets/images/ui-scaled.jpg
 ---
 
 The phrases ‘User Interface’ (UI) and ‘User Experience’ (UX) are frequently used in tech-related settings. What does a UX or UI design mean, and what is its impact on your web app or website?

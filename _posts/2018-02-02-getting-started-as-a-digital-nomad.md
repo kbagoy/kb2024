@@ -8,7 +8,7 @@ categories:
 tags: 
   - "inspiration"
   - "interviews"
-coverImage: "getting-started-as-a-digital-nomad.jpg"
+image: assets/images/getting-started-as-a-digital-nomad.jpg
 ---
 
 I see dozens of post each week asking how to get started as a digital nomad.

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-10-28"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Turn-Your-Side-Hustle-Into-a-Booming-Full-Time-Business.jpg"
+image: assets/images/How-to-Turn-Your-Side-Hustle-Into-a-Booming-Full-Time-Business.jpg
 ---
 
 Are you doing something on the side that you like more than your normal job? Do you love it that much? Or do you just dislike your normal job? It doesn’t matter as much as knowing that it is possible to turn your side hustle into a full-time business. This may seem overwhelming, but everyone has to start somewhere. Here are some good steps to take now.

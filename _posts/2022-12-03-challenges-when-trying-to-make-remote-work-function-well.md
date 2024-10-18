@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-12-03"
 categories: 
   - "general"
-coverImage: "Challenges-When-Trying-to-Make-Remote-Work-Function-Well.jpg"
+image: assets/images/Challenges-When-Trying-to-Make-Remote-Work-Function-Well.jpg
 ---
 
 Remote work can come with a lot of challenges if your company isn’t set up to facilitate this type of work. Although remote work can be very rewarding, and incentivize your employees to stay at your business, there are still some issues you need to work through. Here are a few challenges when trying to make remote work function well.

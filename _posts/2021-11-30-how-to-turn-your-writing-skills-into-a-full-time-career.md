@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2021-11-30"
 categories: 
   - "freelancing"
-coverImage: "How-to-Turn-Your-Writing-Skills-into-a-Full-Time-Career.jpg"
+image: assets/images/How-to-Turn-Your-Writing-Skills-into-a-Full-Time-Career.jpg
 ---
 
 You are a master at turning a word, but how do you transition a writing hobby into a full-blown, lucrative career? It may seem too good to be true, but it really is possible. Skilled writers are always needed, it is simply a matter of finding your niche and getting yourself out there.

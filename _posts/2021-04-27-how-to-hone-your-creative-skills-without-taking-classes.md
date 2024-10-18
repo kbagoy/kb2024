@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-04-27"
 categories: 
   - "freelancing"
-coverImage: "How-to-Hone-Your-Creative-Skills-Without-Taking-Classes.jpg"
+image: assets/images/How-to-Hone-Your-Creative-Skills-Without-Taking-Classes.jpg
 ---
 
 Building your creativity can improve your life in a variety of ways, especially if you’re in a creative job field. However, if you are busy running a business and taking care of your responsibilities, it can be hard to make time to attend a class specifically to improve your creativity. It’s lucky, then, that there are many ways to increase your creativity and hone your skills without taking a class.

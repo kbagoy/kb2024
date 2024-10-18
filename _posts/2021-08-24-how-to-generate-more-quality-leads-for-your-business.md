@@ -5,7 +5,7 @@ author: "kbagoy"
 date: "2021-08-24"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Generate-More-Quality-Leads-for-Your-Business.jpg"
+image: assets/images/How-to-Generate-More-Quality-Leads-for-Your-Business.jpg
 ---
 
 Generating better leads for your business can take a lot of work and thought. While you may think the most effective results are singularly through advertising efforts, this isn’t necessarily true. You can find better leads in more practical ways without needing to spend a ton on advertising.  Here’s how you can do it!

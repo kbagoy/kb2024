@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2023-05-29"
 categories: 
   - "general"
-coverImage: "pexels-mikhail-nilov-8730356-scaled.jpg"
+image: assets/images/pexels-mikhail-nilov-8730356-scaled.jpg
 ---
 
 Running a business brings many challenges, and so does running a household. While the two aren’t mutually exclusive, keeping all aspects of your life operating smoothly requires some organization and planning. Todaywe have some tips to help you manage the many facets of your life.

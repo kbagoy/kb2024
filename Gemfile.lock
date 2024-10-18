@@ -90,6 +90,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-figure
   jekyll-paginate
+  jekyll-sass-converter
   jekyll-seo-tag
   jekyll-sitemap
   kramdown

@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-10-28"
 categories: 
   - "general"
-coverImage: "Why-You-Need-Cloud-Storage-for-Your-Business.jpg"
+image: assets/images/Why-You-Need-Cloud-Storage-for-Your-Business.jpg
 ---
 
 There are a lot of reasons why you need cloud storage for your business. Many businesses choose to store their data on-premise, which can be costly and time-consuming. With cloud storage, you can access your data from anywhere in the world, making it the perfect solution for businesses with a remote workforce. Consider these three key benefits of using cloud storage for your business.

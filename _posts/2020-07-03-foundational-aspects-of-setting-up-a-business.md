@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-07-03"
 categories: 
   - "marketing-tips"
-coverImage: "Foundational-Aspects-of-Setting-Up-a-Business.jpg"
+image: assets/images/Foundational-Aspects-of-Setting-Up-a-Business.jpg
 ---
 
 Setting up a business is exciting! However, there are many steps you need to take before you can hit the ground running. Here are a few general guidelines to help you in the process of building your business’ foundation as you set it up.

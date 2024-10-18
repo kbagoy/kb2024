@@ -5,7 +5,7 @@ author: "helenec"
 date: "2019-03-05"
 categories: 
   - "mindset"
-coverImage: "photo-1533094700036-70ecccc6f047.jpeg"
+image: assets/images/photo-1533094700036-70ecccc6f047.jpeg
 ---
 
 Alright guys! Let’s talk about money!

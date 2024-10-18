@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2020-09-04"
 categories: 
   - "marketing-tips"
-coverImage: "How-to-Incorporate-Traditional-and-Digital-Marketing.jpg"
+image: assets/images/How-to-Incorporate-Traditional-and-Digital-Marketing.jpg
 ---
 
 In our day and age, marketing has many avenues that could be pursued. While there are still many wonderful forms of traditional media that can be utilized, digital marketing is on the rise. Both forms of marketing have their merits, but together they can do so much more.

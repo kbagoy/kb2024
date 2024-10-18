@@ -5,7 +5,7 @@ author: "kbistaff"
 date: "2022-02-01"
 categories: 
   - "general"
-coverImage: "How-to-Start-as-a-Freelancer-and-Become-Successful.png"
+image: assets/images/How-to-Start-as-a-Freelancer-and-Become-Successful.png
 ---
 
 ![](images/How-to-Start-as-a-Freelancer-and-Become-Successful.png)
