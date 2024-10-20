@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Office Expenses That Can Qualify for a Tax Deduction"
-author: "kbistaff"
-date: "2021-05-11"
-categories: 
-  - "marketing-tips"
-image: assets/images/Office-Expenses-That-Can-Qualify-for-a-Tax-Deduction.jpg
+permalink: /office-expenses-that-can-qualify-for-a-tax-deduction/
+title: Office Expenses That Can Qualify for a Tax Deduction
+description: None
+date: 2021-05-11 16:46:54 -0000
+last_modified_at: 2021-07-06 13:37:50 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/05/Office-Expenses-That-Can-Qualify-for-a-Tax-Deduction.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 Running a business is a lot of work, but it can also get extremely expensive. That’s why [being aware of the tax deductions](https://2020taxresolution.com/tax-help/) you have at your disposal can help you to make your business more sustainable. Many of the everyday (and less frequent) office expenses of running a business can be deducted, which can make your life a little easier while you are running your business.
 
 ## **Rent or Mortgage**
@@ -40,8 +46,4 @@ Another great deduction is education expenses. You can’t deduct just any educa
 
 ## **Your Business Insurance**
 
-Every business needs insurance to protect itself in a variety of ways. Deductions for business-related insurance can help you to decrease your costs while still getting the protection you need. From insurance on your office space to liability insurance, you must [protect yourself and your business](https://www.nationalfunding.com/blog/required-business-insurance/) in case anything happens. Hopefully, your insurance will simply be a precaution, but, likely, you will need to claim from time to time. In addition to deducting insurance costs, it is also a good idea to shop around and bundle your policies so you can get the best possible deal while insuring your company.
-
-Dealing with the expenses of a company can be a demanding job, but with the help of deductions, it can be a little bit easier. Make sure to thoroughly track all of your purchases so you can make filing your taxes a little bit less complicated. As a business owner, you have a lot on your plate, so it is in your best interest to take advantage of any deductions or benefits you have available to you throughout the process.
-
-**Ready to kickstart your business to success?** [**Find out my top secrets in my book**](https://go.katebagoy.com/ebook)**!**
+Every business needs insurance to protect itself in a variety of ways. Deductions for business-related insurance can help you to decrease your costs while still getting the protection you need. From insurance on your office space to liability insurance, you must [protect yourself and your business](https://www.nationalfunding.com/blog/required-business-insurance/) in case anything happens. Hopefully, your insurance will simply be a precaution, but, likely, you will need to claim from time to time. In addition to deducting insurance costs, it is also a good idea to shop around and bundle your policies so you can get the best possible deal while insuring your company. Dealing with the expenses of a company can be a demanding job, but with the help of deductions, it can be a little bit easier. Make sure to thoroughly track all of your purchases so you can make filing your taxes a little bit less complicated. As a business owner, you have a lot on your plate, so it is in your best interest to take advantage of any deductions or benefits you have available to you throughout the process. **Ready to kickstart your business to success?**[**Find out my top secrets in my book**](https://go.katebagoy.com/ebook)**!**

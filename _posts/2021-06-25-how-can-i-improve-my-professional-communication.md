@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How Can I Improve My Professional Communication?"
-author: "kbagoy"
-date: "2021-06-25"
-categories: 
-  - "general"
-image: assets/images/Communication-Young-Professional-Black-Call-Public-Relations-PR-Work-Business-Entrepreneur.jpg
+permalink: /how-can-i-improve-my-professional-communication/
+title: How Can I Improve My Professional Communication?
+description: None
+date: 2021-06-25 20:13:58 -0000
+last_modified_at: 2021-06-25 20:14:47 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/06/Communication-Young-Professional-Black-Call-Public-Relations-PR-Work-Business-Entrepreneur.jpg
+  alt: How Can I Improve My Professional Communication?
+categories:
+- General
+tags: []
 ---
-
 Proper communication is an important part of everyday life, but it is especially important in professional settings. The way you communicate causes other people to form impressions about you and your business. You want to make sure you are sending the right messages.
 
 ## **Use an Email Signature**
@@ -20,8 +26,4 @@ If you send out a lot of official documents, you want to make sure you maintain 
 
 ## **Use a Style Guide**
 
-In addition to templates, you should have a style guide for your business. [A style guide](https://costellocreativegroup.com/why-a-style-guide-is-so-important-to-your-business/) is a document that outlines how all of your materials and documents should look. This can include notes on formatting, colors, logos, etc. so all of your materials look the same. This is an important part of brand recognition. You should also have a style guide for the actual text of your content. You want to make sure you have a consistent voice in all your materials. A style guide will be especially helpful for a business that operates in different locations. Make sure you update your style guide any time you make changes to your brand.
-
-When it comes to professional communication, you want to make sure you put your best foot forward. Making a good impression is important whether you’re communicating with clients or employees. Find ways to keep your communication professional.
-
-**Get more great business tips** [**in my book**](https://ebook.katebagoy.com/lto)**!**
+In addition to templates, you should have a style guide for your business. [A style guide](https://costellocreativegroup.com/why-a-style-guide-is-so-important-to-your-business/) is a document that outlines how all of your materials and documents should look. This can include notes on formatting, colors, logos, etc. so all of your materials look the same. This is an important part of brand recognition. You should also have a style guide for the actual text of your content. You want to make sure you have a consistent voice in all your materials. A style guide will be especially helpful for a business that operates in different locations. Make sure you update your style guide any time you make changes to your brand. When it comes to professional communication, you want to make sure you put your best foot forward. Making a good impression is important whether you’re communicating with clients or employees. Find ways to keep your communication professional. **Get more great business tips**[**in my book**](https://ebook.katebagoy.com/lto)**!**

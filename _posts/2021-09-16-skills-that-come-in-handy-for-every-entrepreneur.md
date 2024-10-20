@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Skills That Come in Handy for Every Entrepreneur"
-author: "kbagoy"
-date: "2021-09-16"
-categories: 
-  - "marketing-tips"
-image: assets/images/Skills-That-Come-in-Handy-for-Every-Entrepreneur.jpg
+permalink: /skills-that-come-in-handy-for-every-entrepreneur/
+title: Skills That Come in Handy for Every Entrepreneur
+description: None
+date: 2021-09-16 06:22:54 -0000
+last_modified_at: 2021-10-27 13:36:53 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/09/Skills-That-Come-in-Handy-for-Every-Entrepreneur.jpg
+  alt: Skills That Come in Handy for Every Entrepreneur
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 So you want to be an entrepreneur! The fact is, whether you’ve already started a business or are preparing to, this line of work requires you to develop a large variety of skills. Entrepreneurs can’t just be good marketers or product developers--they should be excellent in every facet of running a business. If you’re wondering what other skills to gain to better your current or future business, here are a few that come in most handy!
 
 ## **Networking**
@@ -40,8 +46,4 @@ If you want to be successful, then of course you need to let people know about y
 
 ## **Financial Skills**
 
-As an entrepreneur, the financial aspect of your business is something you should learn well. Finances can be difficult to navigate and mistakes are easily made. Additionally, if you don’t understand the finances within your business, you can end up spending more than you can afford without making a sustainable profit. Research how to handle your finances and navigate small business loans, if necessary. Eventually, it might be a good idea to outsource your accounting to be sure that everything is done properly.
-
-There are so many skills expected of an entrepreneur, not to mention responsibilities. While mastering these skills takes time, learning them early on will help propel your business towards success. Now is the time!
-
-**Need help marketing your consulting business? Check out my** [**step-to-step guide**](https://katebagoy.com/ebook)**!**
+As an entrepreneur, the financial aspect of your business is something you should learn well. Finances can be difficult to navigate and mistakes are easily made. Additionally, if you don’t understand the finances within your business, you can end up spending more than you can afford without making a sustainable profit. Research how to handle your finances and navigate small business loans, if necessary. Eventually, it might be a good idea to outsource your accounting to be sure that everything is done properly. There are so many skills expected of an entrepreneur, not to mention responsibilities. While mastering these skills takes time, learning them early on will help propel your business towards success. Now is the time! **Need help marketing your consulting business? Check out my**[**step-to-step guide**](https://katebagoy.com/ebook)**!**

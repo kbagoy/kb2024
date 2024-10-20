@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Change Your Mindset to Achieve Business Success"
-author: "kbagoy"
-date: "2022-03-15"
-categories: 
-  - "mindset"
-image: assets/images/darts-and-goal-setting.jpg
+permalink: /how-to-change-your-mindset-to-achieve-business-success/
+title: How to Change Your Mindset to Achieve Business Success
+description: None
+date: 2022-03-15 07:26:50 -0000
+last_modified_at: 2022-03-11 03:30:58 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/03/darts-and-goal-setting.jpg
+  alt: null
+categories:
+- Productivity &amp; Mindset
+tags: []
 ---
-
 Going out on your own and starting your own business is the most effective and direct route towards the kind of financial independence and time freedom that so many people dream of. But the truth is that to become a successful entrepreneur and businessperson, you need to have the proper mindset. Discovering this success mindset is easier said than done and can take years of trial and error to discover what works and what doesn’t. To help you get started here are three ways that you can change your mindset to achieve business success faster than you ever imagined possible.
 
 ## **Set Bold but Realistic Goals**
@@ -20,8 +26,4 @@ The next mindset change that you can make to help achieve business success is to
 
 ## **Treat Failures as Learning Experiences**
 
-The final mindset change that you need to make to achieve the business success that you crave is to treat your failures as learning experiences. [Failure is a rite of passage](https://trainingindustry.com/articles/professional-development/5-ways-to-learn-from-failure-and-advance-your-development-as-a-leader/) for successful business owners. First time entrepreneurs can often feel that their failures are a sign that they aren’t cut out for business. But failure is how business people learn and come back stronger and better than before. Treat your failures as an opportunity to learn for your next venture, and never take your eyes off your goals.
-
-Achieving business success is not easy; it requires the cultivation of a successful mindset to truly see business success. Try adjusting your mindset in these three ways and watch as success comes to you.
-
-Need help marketing your business? [Get a step by step guide here](https://ebook.katebagoy.com/lto)!
+The final mindset change that you need to make to achieve the business success that you crave is to treat your failures as learning experiences. [Failure is a rite of passage](https://trainingindustry.com/articles/professional-development/5-ways-to-learn-from-failure-and-advance-your-development-as-a-leader/) for successful business owners. First time entrepreneurs can often feel that their failures are a sign that they aren’t cut out for business. But failure is how business people learn and come back stronger and better than before. Treat your failures as an opportunity to learn for your next venture, and never take your eyes off your goals. Achieving business success is not easy; it requires the cultivation of a successful mindset to truly see business success. Try adjusting your mindset in these three ways and watch as success comes to you. Need help marketing your business? [Get a step by step guide here](https://ebook.katebagoy.com/lto)!

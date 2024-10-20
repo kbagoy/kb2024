@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Optimize Business Growth"
-author: "kbistaff"
-date: "2020-04-15"
-categories: 
-  - "marketing-tips"
-image: assets/images/business_growth-3.jpg
+permalink: /how-to-optimize-business-growth/
+title: How to Optimize Business Growth
+description: None
+date: 2020-04-15 07:15:21 -0000
+last_modified_at: 2021-04-20 17:35:42 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/04/business_growth-3.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 ## Why Isn't Your Business Growing Anymore?
 
 We all want our business to be successful and continue to grow, but sometimes we just hit a wall and everything just grinds to a halt. For one reason or another, profit growth has tapered off, and your operation is stagnating. Your numbers aren't tanking, but they're not growing either, they're just kind of in limbo. This can happen for a number of key reasons, and many of them are internal problems, but not necessarily with how your workers are functioning or your employees' performance.
@@ -22,8 +28,4 @@ Sales are only half of the equation when it comes to profitability. While your g
 
 ## Keep Up With Technology
 
-While tradition is a good thing to have when performing business, as it gives people a sense of loyalty and stability, you shouldn't let that tradition hold your company back from advancing. If your competitors are using the latest technology to help serve their customers more efficiently, you'll naturally be at a disadvantage. Also, as older forms of technology become more outdated, or worse yet less secure, your customers may question your business if you still prioritize the use of antiquated technology.
-
-Keep these three factors in mind when analyzing your business and trying to optimize business growth. While there are other things that can affect business growth, these three points will ensure the basics are covered.
-
-**I can put you on the path to a 6-figure business. [Grab my Ebook and get started today!](https://katebagoy.com/work-with-me/)**
+While tradition is a good thing to have when performing business, as it gives people a sense of loyalty and stability, you shouldn't let that tradition hold your company back from advancing. If your competitors are using the latest technology to help serve their customers more efficiently, you'll naturally be at a disadvantage. Also, as older forms of technology become more outdated, or worse yet less secure, your customers may question your business if you still prioritize the use of antiquated technology. Keep these three factors in mind when analyzing your business and trying to optimize business growth. While there are other things that can affect business growth, these three points will ensure the basics are covered. **I can put you on the path to a 6-figure business.[Grab my Ebook and get started today!](https://katebagoy.com/work-with-me/)**

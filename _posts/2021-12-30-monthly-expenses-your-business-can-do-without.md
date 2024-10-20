@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Monthly Expenses Your Business Can Do Without"
-author: "kbistaff"
-date: "2021-12-30"
-categories: 
-  - "marketing-tips"
-image: assets/images/Monthly-Expenses-Your-Business-Can-Do-Without.jpg
+permalink: /monthly-expenses-your-business-can-do-without/
+title: Monthly Expenses Your Business Can Do Without
+description: None
+date: 2021-12-30 07:34:51 -0000
+last_modified_at: 2021-12-20 16:03:29 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/12/Monthly-Expenses-Your-Business-Can-Do-Without.jpg
+  alt: Monthly Expenses Your Business Can Do Without
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 One of the most difficult parts of running a business is balancing your budget and making sure you have the funds you need to get things done. There are some monthly expenses that are absolutely essential and need to be a part of your monthly budget. On the other hand, there are also expenses that many businesses pay for each month that aren’t really necessary to making sure that your business is as successful as it should be.
 
 ## **Software**
@@ -20,8 +26,4 @@ Some businesses are still using a landline or mobile phone to take care of calls
 
 ## **Missing Deductions**
 
-It’s important that your business is thorough in filing taxes and that you take advantage of all the deductions you are qualified for. If you aren’t doing this, you may find that you are spending more on taxes than you should, and that can land you in financial trouble if you don’t rectify the issues. It may seem like an added expense to hire an accountant, but they can help you to file your taxes more effectively so you [don’t spend unnecessarily](https://www.freshbooks.com/blog/mistakes-business-expenses).
-
-Taking care of your business is important and balancing your budget is a huge part of that. Take time to look through your budget and figure out what extra expenses you may not need to spend on. That will help you to decrease your costs and keep things running as well as possible.
-
-**Ready to start your consulting business? [Grab my book](https://go.katebagoy.com/ebook) and get started today!**
+It’s important that your business is thorough in filing taxes and that you take advantage of all the deductions you are qualified for. If you aren’t doing this, you may find that you are spending more on taxes than you should, and that can land you in financial trouble if you don’t rectify the issues. It may seem like an added expense to hire an accountant, but they can help you to file your taxes more effectively so you [don’t spend unnecessarily](https://www.freshbooks.com/blog/mistakes-business-expenses). Taking care of your business is important and balancing your budget is a huge part of that. Take time to look through your budget and figure out what extra expenses you may not need to spend on. That will help you to decrease your costs and keep things running as well as possible. **Ready to start your consulting business?[Grab my book](https://go.katebagoy.com/ebook) and get started today!**

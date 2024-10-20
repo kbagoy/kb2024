@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "9 Signs You're Burnt Out - I Talk to Mental Floss"
-author: "kbagoy"
-date: "2017-08-14"
-categories: 
-  - "corporate-burnout"
-tags: 
-  - "interviews"
-image: assets/images/mental-health.jpg
+permalink: /9-signs-of-burnout/
+title: 9 Signs You're Burnt Out - I Talk to Mental Floss
+description: "It may come after six months or six years, but there\u2019s a moment\
+  \ in every job when you realize you\u2019ve reached your limit. Whether it\u2019\
+  s due to burnout, boredom, or a generally bad fit, you\u2019ll eventually get to\
+  \ a point where you\u2019ve simply been doing the same thing for too long and find\
+  \ yourself unhappy and unfulfilled."
+date: 2017-08-14 15:05:39 -0000
+last_modified_at: 2021-03-18 18:27:15 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2018/09/mental-health.jpg
+  alt: 9 Signs You're Burnt Out - I Talk to Mental Floss
+categories:
+- Corporate Burnout
+tags:
+- interviews
 ---
-
-This interview was conducted by Mental Floss writer [Zoe Weiner](//mentalfloss.com/authors/92751/Zoe-Weiner), and was originally published at MentalFloss.com in April 2017. [View the original article here.](//mentalfloss.com/article/94519/9-signs-youve-been-your-job-too-long)
-
-It may come after six months or six years, but there’s a moment in every job when you realize you’ve reached your limit. Whether it’s due to burnout, boredom, or a generally bad fit, you’ll eventually get to a point where you’ve simply been doing the same thing for too long and find yourself unhappy and unfulfilled. It’s not always easy to recognize, but it’s important to act on that “Aha!” moment when it hits so that you don’t waste any more time in a stagnating career.
-
-**So how do you know you’ve been in a job too long?**
-
-We spoke to career coaches Kate Bagoy and [Rebecca Thompson](//www.rebeccamthompson.com/), both of whom burnt out in their previous roles—Kate in consulting and Thompson in politics—and now use their experiences to advise others who find themselves in the same boat. “People stay in things way too long,” says Thompson, who stuck with a job for five years even though she knew it wasn’t the right fit after six months. “Know when it’s time to get out, and get out.”
-
-According to Bagoy and Thompson, here are the key signs you’ve been in a job too long:
+This interview was conducted by Mental Floss writer [Zoe Weiner](//mentalfloss.com/authors/92751/Zoe-Weiner), and was originally published at MentalFloss.com in April 2017. [View the original article here.](//mentalfloss.com/article/94519/9-signs-youve-been-your-job-too-long) It may come after six months or six years, but there’s a moment in every job when you realize you’ve reached your limit. Whether it’s due to burnout, boredom, or a generally bad fit, you’ll eventually get to a point where you’ve simply been doing the same thing for too long and find yourself unhappy and unfulfilled. It’s not always easy to recognize, but it’s important to act on that “Aha!” moment when it hits so that you don’t waste any more time in a stagnating career. **So how do you know you’ve been in a job too long?** We spoke to career coaches Kate Bagoy and [Rebecca Thompson](//www.rebeccamthompson.com/), both of whom burnt out in their previous roles—Kate in consulting and Thompson in politics—and now use their experiences to advise others who find themselves in the same boat. “People stay in things way too long,” says Thompson, who stuck with a job for five years even though she knew it wasn’t the right fit after six months. “Know when it’s time to get out, and get out.” According to Bagoy and Thompson, here are the key signs you’ve been in a job too long:
 
 ## 1\. You’re Counting Your Sick Days.
 
@@ -58,14 +59,4 @@ No matter how much you love your job, some days are going to be more productive 
 
 ## 9\. You _want_ To Get Fired.
 
-When you’re fantasizing about getting fired so that you don’t have to go to work another day, it’s time to quit. “I knew \[my company\] wanted me to quit, instead of firing me,” says Thompson. Of course, getting laid off may have certain financial benefits, but waiting it out and letting your performance slip in the hopes that you’ll be let go isn’t doing anyone, most of all you, any favors.
-
-**What do you think – have you been your job too long?**
-
-Now that you know the signs, do you think it’s time to move on?
-
-If it is, have you considered freelancing or consulting?
-
-Curious about ditching your 9 to 5? Take a look at my [Ebook](https://go.katebagoy.com/ebook) that gives you that push and basic groundwork to getting started!
-
-![](images/9burnout-683x1024.png)
+When you’re fantasizing about getting fired so that you don’t have to go to work another day, it’s time to quit. “I knew [my company] wanted me to quit, instead of firing me,” says Thompson. Of course, getting laid off may have certain financial benefits, but waiting it out and letting your performance slip in the hopes that you’ll be let go isn’t doing anyone, most of all you, any favors. **What do you think – have you been your job too long?** Now that you know the signs, do you think it’s time to move on? If it is, have you considered freelancing or consulting? Curious about ditching your 9 to 5? Take a look at my [Ebook](https://go.katebagoy.com/ebook) that gives you that push and basic groundwork to getting started! ![](/assets/wp-content/uploads/2017/08/9burnout-683x1024.png)

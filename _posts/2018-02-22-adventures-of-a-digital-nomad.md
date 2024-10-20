@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Adventures of a Digital Nomad: Dating"
-author: "kbagoy"
-date: "2018-02-22"
-categories: 
-  - "workanywhere"
-image: assets/images/productivity-apps-for-freelancers.jpg
+permalink: /adventures-of-a-digital-nomad/
+title: 'Adventures of a Digital Nomad: Dating'
+description: None
+date: 2018-02-22 21:44:34 -0000
+last_modified_at: 2021-08-02 00:48:33 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2018/09/productivity-apps-for-freelancers.jpg
+  alt: null
+categories:
+- Working Remotely
+tags: []
 ---
-
-Last summer, I had the amazing opportunity to attend [Date with Destiny with Tony Robbins](http://www.anrdoezrs.net/links/8404329/type/dlg/https://www.tonyrobbins.com/events/date-with-destiny/) in Gold Coast, Australia and it was one of the most transformative weeks of my life.
+Last summer, I had the amazing opportunity to attend [Date with Destiny with Tony Robbins](http://www.anrdoezrs.net/links/8404329/type/dlg/https://www.tonyrobbins.com/events/date-with-destiny/) in Gold Coast, Australia and it was one of the most transformative weeks of my life.
 
 In a week, I made some really good friends and basically required all my core values to better serve me.
 
@@ -16,13 +22,15 @@ I left go of some really old programming around not being good enough and I spen
 
 **I came away from our week with a vision for my future that included some big tasks:**
 
-1. Growing my location independent business to 7-figures and becoming who I need to do that
-2. Prioritizing my health over all other things, excuses be damned and
-3. Entering into a loving, passionate healthy relationship with a man I adore.
+  1. Growing my location independent business to 7-figures and becoming who I need to do that
+  2. Prioritizing my health over all other things, excuses be damned and
+  3. Entering into a loving, passionate healthy relationship with a man I adore.
 
-So far, I’m doing okay on the health\*\* and business and have made about 0 progress on the life partner piece.
 
-When I left [Remote Year](http://www.remoteyear.com/general-application?referee=5132575), one of the reasons I went to London was that I needed some familiarity and had friends there. But another reason was that it seemed the easiest place to start dating and to settle into for a few months, as I was _desperately_ craving stability.
+
+So far, I’m doing okay on the health** and business and have made about 0 progress on the life partner piece.
+
+When I left [Remote Year](http://www.remoteyear.com/general-application?referee=5132575), one of the reasons I went to London was that I needed some familiarity and had friends there. But another reason was that it seemed the easiest place to start dating and to settle into for a few months, as I was  _desperately_ craving stability.
 
 Boy was I wrong.
 
@@ -48,7 +56,7 @@ I made some incredible friends but ultimately didn’t enjoy living in Bali enou
 
 Everyone is talked to had raved about it, and it’s got the highest concentration of nomads…
 
-In this game I’m playing of **“**[**Are You My City…**](http://amzn.to/2mb4dC6)**”** I though for sure CM would be a great place to grab an apartment and settle in for a few months.
+In this game I’m playing of **“**[**Are You My City…**](http://amzn.to/2mb4dC6)**”** I though for sure CM would be a great place to grab an apartment and settle in for a few months.
 
 In hindsight, maybe I should have done some research.
 
@@ -58,7 +66,7 @@ It’s a nice place, affordable to live, but not all that exciting. It’s just 
 
 There ARE a ton of amazing temples, the food is great and there are some good tourist attractions (primarily the elephant sanctuaries), but I’ve learned since I got here the primary reason that CM is so popular is simply the cost of living.
 
-And that is great — you can get a monthly apartment starting around $200 a month for a fleabag or a nice place for $4–700 — but basically CM has gotten its reputation as a nomad place simply because a lot of young nomads are too broke to live anywhere else.
+And that is great — you can get a monthly apartment starting around $200 a month for a fleabag or a nice place for $4–700 — but basically CM has gotten its reputation as a nomad place simply because a lot of young nomads are too broke to live anywhere else.
 
 And after 15 months of non-stop travel, a temple is just another temple to me. I don’t mean that to be as douchy as I’m sure it sounds… but once you’ve seen a couple dozen giant gold Buddha’s it’s no longer the draw it was.
 
@@ -68,7 +76,7 @@ So, the search for a new city continues. The search for someone to share my life
 
 **The exhaustion never effing stops.**
 
-But I’ve stopped thinking too much about any of it. I get up every morning and do some meditation and writing, and then I prioritize some work and try to maybe go have some fun, or to relax in the hammock. This week I’ve been dogsitting and I have lots of canine love and I’m pretty busy with the launch of [sixfigurefreelancers.com](http://sixfigurefreelancers.com/)
+But I’ve stopped thinking too much about any of it. I get up every morning and do some meditation and writing, and then I prioritize some work and try to maybe go have some fun, or to relax in the hammock. This week I’ve been dogsitting and I have lots of canine love and I’m pretty busy with the launch of [sixfigurefreelancers.com](http://sixfigurefreelancers.com/)
 
 I’m at a weird cross-roads where I’m too burnout to keep traveling full time but I’m not ready to “go home” either (not that I really know where home is anymore.).
 
@@ -80,6 +88,6 @@ Maybe Melbourne will be my new city?
 
 * * *
 
-\*\*P.S. I’ve recently met an amazing naturopath that works online with frequent travelers. [Kirsten Swales](http://kirstenswales.com/) specializes in digestion issues (and nearly every travel has them) but she’s seriously an amazing coach and resource. If you’re traveling and a need on-call health support, reach out to her!
+**P.S. I’ve recently met an amazing naturopath that works online with frequent travelers. [Kirsten Swales](http://kirstenswales.com/) specializes in digestion issues (and nearly every travel has them) but she’s seriously an amazing coach and resource. If you’re traveling and a need on-call health support, reach out to her!
 
 [Crossposted on Medium](https://medium.com/@kbagoy/adventures-of-a-digital-nomad-dating-2da1a25225ec)

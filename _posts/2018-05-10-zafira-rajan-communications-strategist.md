@@ -1,30 +1,34 @@
 ---
 layout: post
-title: "Meet 6-Figure Communications Strategist Zafira Rajan"
-author: "kbagoy"
-date: "2018-05-10"
-categories: 
-  - "freelancing"
-  - "6ff-experts"
-tags: 
-  - "6ff-interview-series"
-  - "interviews"
-image: assets/images/zafira.jpg
+permalink: /zafira-rajan-communications-strategist/
+title: Meet 6-Figure Communications Strategist Zafira Rajan
+description: Meet 6-figure freelancer Zafira Rajan, a copywriter, graphic designer
+  & communications strategist in Vancouver, Canada with roots in Kenya & Sweden. When
+  she's not writing copy, she's probably watering her growing collection of plants
+  or curled up with a book and her Labrador husky, Mars.
+date: 2018-05-10 18:12:40 -0000
+last_modified_at: 2021-03-21 01:10:37 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2018/09/zafira.jpg
+  alt: Communications Strategist Zafira Rajan
+categories:
+- Freelancing
+- Six Figure Freelancers
+tags:
+- 6FF Interview Series
+- interviews
 ---
-
-Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series!
-
-**This week we bring you an interview with Zafira Rajan, a communications strategist from Vancouver, Canada who specializes in working with high-impact brands.**
+Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series! **This week we bring you an interview with Zafira Rajan, a communications strategist from Vancouver, Canada who specializes in working with high-impact brands.**
 
 ### What makes Zafira a Six Figure Freelancer?
 
-"My business sets itself apart by offering three key services that most clients scramble to find several contractors for: **copywriting**, **graphic design** and **high-level communications strategy**. In order to bring a full project together, I'm able to seamlessly move between all these fields to deliver high-quality content for my clients, while being a single point of contact who can critically analyze every angle, execute and evaluate. _**As a result, the one thing my clients constantly tell me is this: "you make my life so much easier!**_""
+"My business sets itself apart by offering three key services that most clients scramble to find several contractors for: **copywriting** , **graphic design** and **high-level communications strategy**. In order to bring a full project together, I'm able to seamlessly move between all these fields to deliver high-quality content for my clients, while being a single point of contact who can critically analyze every angle, execute and evaluate.  _**As a result, the one thing my clients constantly tell me is this: "you make my life so much easier!**_ ""
 
 * * *
 
 ## Watch the Interview Here:
-
-<iframe src="https://www.youtube.com/embed/00DBv1p4-Lk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 * * *
 
@@ -40,11 +44,11 @@ Having consistent income was always something I needed - until I realized that I
 
 ### What is you favorite book, blog, podcast or other resource and why?
 
-I'm a huge fan of [The Copywriter Club podcast](http://www.thecopywriterclub.com/category/podcast/)! If you write any kind of copy, it's a fantastic resource for learning more about how other copywriters structure their business, deal with clients and achieve success.
+I'm a huge fan of [The Copywriter Club podcast](http://www.thecopywriterclub.com/category/podcast/)! If you write any kind of copy, it's a fantastic resource for learning more about how other copywriters structure their business, deal with clients and achieve success.
 
 ### What business tool or online software could you not live without? What makes it easy to run your business?
 
-I'm a huge nerd when it comes to software that helps my business run smoothly! Right now, I enjoy using: - [Wave](https://www.waveapps.com/accounting/) for invoicing - [Bidsketch](http://bidsketch.com/) for proposals - [Toggl](http://toggl.com/) for time tracking - [Calendly](http://calendly.com/) for booking meetings - [Google Drive](https://gsuite.google.com/) for collaborative documents
+I'm a huge nerd when it comes to software that helps my business run smoothly! Right now, I enjoy using: - [Wave](https://www.waveapps.com/accounting/) for invoicing - [Bidsketch](http://bidsketch.com/) for proposals - [Toggl](http://toggl.com/) for time tracking - [Calendly](http://calendly.com/) for booking meetings - [Google Drive](https://gsuite.google.com/) for collaborative documents
 
 ### What do you like most about running your own business?
 
@@ -56,8 +60,8 @@ I'm working on rolling out some new copywriting, design and strategy packages th
 
 * * *
 
-![](images/zafira-2.jpg)
+![](/assets/wp-content/uploads/2018/09/zafira-2.jpg)
 
 #### _**About Zafira**_
 
-Zafira is a copywriter, graphic designer and communications strategist in Vancouver, Canada with roots in Kenya and bits of her heart in Sweden. When she's not writing copy, she's probably watering her growing collection of plants or curled up with a book and her Labrador husky, Mars. Connect with Zafira: [https://www.zafirarajan.com](https://www.zafirarajan.com/) Instagram: [@zafira.rajan/](https://www.instagram.com/zafira.rajan/) Facebook: [zafirarajancreative](https://www.facebook.com/zafirarajancopywriting/) **Special offer:** [The Copy Cleanse](https://www.zafirarajan.com/copy-cleanse/) at $289, only for the month of May!
+Zafira is a copywriter, graphic designer and communications strategist in Vancouver, Canada with roots in Kenya and bits of her heart in Sweden. When she's not writing copy, she's probably watering her growing collection of plants or curled up with a book and her Labrador husky, Mars. Connect with Zafira: [https://www.zafirarajan.com](https://www.zafirarajan.com/) Instagram: [@zafira.rajan/](https://www.instagram.com/zafira.rajan/) Facebook: [zafirarajancreative](https://www.facebook.com/zafirarajancopywriting/) **Special offer:** [The Copy Cleanse](https://www.zafirarajan.com/copy-cleanse/) at $289, only for the month of May!  

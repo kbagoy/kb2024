@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Issues That Can Cost Your Business Money If You Ignore Them"
-author: "kbistaff"
-date: "2022-09-16"
-categories: 
-  - "general"
-image: assets/images/Issues-That-Can-Cost-Your-Business-Money-if-You-Ignore-Them.jpg
+permalink: /issues-that-can-cost-your-business-money-if-you-ignore-them/
+title: Issues That Can Cost Your Business Money If You Ignore Them
+description: None
+date: 2022-09-16 16:59:03 -0000
+last_modified_at: 2022-09-16 16:59:03 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/09/Issues-That-Can-Cost-Your-Business-Money-if-You-Ignore-Them.jpg
+  alt: Issues That Can Cost Your Business Money if You Ignore Them
+categories:
+- General
+tags: []
 ---
-
 No business can avoid all issues altogether, but with a little work, you can make sure that you catch issues early and resolve them. When issues are allowed to continue without intervention it can lead to major expenses and further work for your whole company. It’s important that you take time to find and resolve issues in your business so you can move forward and keep your expenses to a minimum.
 
 ## **Accounting Issues**
@@ -20,8 +26,4 @@ Your cybersecurity at your business should be one of your premiere concerns. Fac
 
 ## **Marketing Issues**
 
-Your marketing strategy is the tool you have to connect your business with new customers and help previous customers to return. If you have an unresolved issue with your marketing, you won’t be able to reach your audience effectively. That’s why you want to make sure that you have marketing that is designed with meaningful benchmarks in place. When you know what you want your marketing to do, it is [much easier to evaluate](https://fundbox.com/blog/top-5-financial-challenges-facing-small-businesses-2019/) whether it is performing well and make changes to improve it. 
-
-Taking care of problems at your business when they are small is an important way for you to avoid larger expenses. Your business can flourish at its best when you are on top of the small things. That way you can count on your expenses to stay low while you continue to do what you need to do to move your business forward.
-
-**Click here to get a** [**step-by-step guide to building your six-figure business**](https://ebook.katebagoy.com/lto)**!**
+Your marketing strategy is the tool you have to connect your business with new customers and help previous customers to return. If you have an unresolved issue with your marketing, you won’t be able to reach your audience effectively. That’s why you want to make sure that you have marketing that is designed with meaningful benchmarks in place. When you know what you want your marketing to do, it is [much easier to evaluate](https://fundbox.com/blog/top-5-financial-challenges-facing-small-businesses-2019/) whether it is performing well and make changes to improve it.  Taking care of problems at your business when they are small is an important way for you to avoid larger expenses. Your business can flourish at its best when you are on top of the small things. That way you can count on your expenses to stay low while you continue to do what you need to do to move your business forward. **Click here to get a**[**step-by-step guide to building your six-figure business**](https://ebook.katebagoy.com/lto)**!**

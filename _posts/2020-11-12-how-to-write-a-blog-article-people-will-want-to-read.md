@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "How to Write a Blog Article People Will Want to Read"
-author: "kbistaff"
-date: "2020-11-12"
-categories: 
-  - "marketing-tips"
-  - "freelancing"
-image: assets/images/How-to-Write-a-Blog-Article-People-Will-Want-to-Read.jpg
+permalink: /how-to-write-a-blog-article-people-will-want-to-read/
+title: How to Write a Blog Article People Will Want to Read
+description: None
+date: 2020-11-12 21:43:38 -0000
+last_modified_at: 2021-12-20 16:20:27 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/11/How-to-Write-a-Blog-Article-People-Will-Want-to-Read.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+- Freelancing
+tags: []
 ---
-
 Obviously, every blog writer wants people to read their articles. Why else would they write them? But what is the secret? Honestly, there isn’t just one. There are a lot of things that go into crafting a good blog article that people will actually get all the way through without skipping parts.
 
 ## Come Up With a Catchy Title
@@ -21,8 +27,4 @@ While it may seem obvious, you [need a good introduction](https://expresswriters
 
 ## Appeal to Emotion
 
-Cut and dry informative content may be useful, but if held up next to an article that provides the same information while appealing to emotion, it is going to lose out on readers every time. [Engaging people’s emotions](https://courses.lumenlearning.com/boundless-communications/chapter/emotional-appeals/) is a careful art. You need to target the right emotions for your piece. When you succeed the result is golden. When coming up with your article outline, decide what you want people to feel when they finish reading. Then, use that to shape how you convey the information. Tapping into emotions doesn’t mean they have to be super excited or angry at the end. They could feel satisfied, intrigued, or informed. It is important to know who you are talking to and how to get them to feel that way. Try [writing from different and inspiring locations](https://whenyouwrite.com/places-to-write/) in order to invoke your own emotions. That will surely shine through in your writing.
-
-Using these elements to boost your writing takes practice. Like everything else with running a blog, nothing happens overnight, so don’t give up if it seems hard at first or if you don’t think it is working. Just keep trying and refining your process each time.
-
-**Need help marketing your business? [Get my step-by-step guide here.](https://go.katebagoy.com/ebook)**
+Cut and dry informative content may be useful, but if held up next to an article that provides the same information while appealing to emotion, it is going to lose out on readers every time. [Engaging people’s emotions](https://courses.lumenlearning.com/boundless-communications/chapter/emotional-appeals/) is a careful art. You need to target the right emotions for your piece. When you succeed the result is golden. When coming up with your article outline, decide what you want people to feel when they finish reading. Then, use that to shape how you convey the information. Tapping into emotions doesn’t mean they have to be super excited or angry at the end. They could feel satisfied, intrigued, or informed. It is important to know who you are talking to and how to get them to feel that way. Try [writing from different and inspiring locations](https://whenyouwrite.com/places-to-write/) in order to invoke your own emotions. That will surely shine through in your writing. Using these elements to boost your writing takes practice. Like everything else with running a blog, nothing happens overnight, so don’t give up if it seems hard at first or if you don’t think it is working. Just keep trying and refining your process each time. **Need help marketing your business?[Get my step-by-step guide here.](https://go.katebagoy.com/ebook)**

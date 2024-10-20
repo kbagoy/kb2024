@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Create a Business Website for Big Impact"
-author: "kbistaff"
-date: "2020-04-09"
-categories: 
-  - "marketing-tips"
-image: assets/images/business_plan.jpg
+permalink: /create-a-business-website/
+title: How to Create a Business Website for Big Impact
+description: None
+date: 2020-04-09 16:59:49 -0000
+last_modified_at: 2021-04-20 17:34:16 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/04/business_plan.jpg
+  alt: business plan
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 # How can you create a business website for big impact? Here are three tips.
 
 Websites are virtually business requirements these days, as more and more people turn to the internet before making purchases. However, a simple website that lists your products in bullets isn't enough. You have to create a sharp, well-designed business website that will keep customers' attention and make it easy for them to find out what your business is all about.
@@ -22,8 +28,4 @@ Old, out-of-date websites won't cut it anymore, as the competition is far too fi
 
 ## Incorporate Social Media
 
-The vast majority of Americans [use some form of social media](https://ourworldindata.org/rise-of-social-media) on a regular basis. This means that incorporating social media into your overall business plans is essentially a business requirement. You should always remember that the goal of social media is to get more people to know your business and increase your sales. While content cannot be overly sales-oriented, you should keep in mind that you are trying to steer people back to your website with social media. Furthermore, the content you create on your website should have share buttons, making it easy for people who like what you are producing to share it on social media.
-
-Websites are expected from most businesses these days, but they are only effective if you actually use them properly. If you follow the above tips, you will be well on your way towards creating a business website that can help increase your sales.
-
-**Do you need some help getting your business moving? [Grab my Ebook and get started today.](https://go.katebagoy.com/ebook)**
+The vast majority of Americans [use some form of social media](https://ourworldindata.org/rise-of-social-media) on a regular basis. This means that incorporating social media into your overall business plans is essentially a business requirement. You should always remember that the goal of social media is to get more people to know your business and increase your sales. While content cannot be overly sales-oriented, you should keep in mind that you are trying to steer people back to your website with social media. Furthermore, the content you create on your website should have share buttons, making it easy for people who like what you are producing to share it on social media. Websites are expected from most businesses these days, but they are only effective if you actually use them properly. If you follow the above tips, you will be well on your way towards creating a business website that can help increase your sales. **Do you need some help getting your business moving?[Grab my Ebook and get started today.](https://go.katebagoy.com/ebook)**

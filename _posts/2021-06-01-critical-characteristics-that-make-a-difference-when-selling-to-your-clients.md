@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Critical Characteristics That Make a Difference When Selling to Your Clients"
-author: "kbagoy"
-date: "2021-06-01"
-categories: 
-  - "marketing-tips"
-image: assets/images/Critical-Characteristics-That-Make-a-Difference-When-Selling-to-Your-Customers.png
+permalink: /critical-characteristics-that-make-a-difference-when-selling-to-your-clients/
+title: Critical Characteristics That Make a Difference When Selling to Your Clients
+description: None
+date: 2021-06-01 20:18:59 -0000
+last_modified_at: 2021-06-01 20:22:34 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/05/Critical-Characteristics-That-Make-a-Difference-When-Selling-to-Your-Customers.png
+  alt: Critical Characteristics That Make a Difference When Selling to Your Customers
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As a business owner or freelancer, you are also unknowingly becoming a salesperson. The salesperson client relationship is always tricky. How do you know what your future and current clients need? Here’s a secret; your clients care less about the product and more about the relationship they have with you. That is what keeps them coming back. Be honest, have confidence, and listen to your clients to build a lasting relationship.
 
 ## **Honesty**
@@ -20,8 +26,4 @@ To be a good salesperson, you must be confident in the product you are selling. 
 
 ## **Ability to Listen**
 
-Your clients want to establish a relationship with you while purchasing your product. They want to feel like you are friends, and you are doing a service for them. The only way you can become friends is if you listen to them and make them feel like their voice is heard. People love to talk; they love to talk about themselves even more. According to [Fonolo](https://fonolo.com/blog/2018/04/why-active-listening-is-the-best-customer-service-skill/), when you listen to your client, you give them validation and support. You also allow yourself to listen to and meet your client's needs. Doing this will establish a strong relationship and loyalty between you and your clients.
-
-Not everyone that walks in your doors will connect with you. If you are honest about your products, confident in what you sell, and listen to their needs you will find your dream clients—clients who keep coming back.
-
-**For more great tips,** [**check out my e-book**](https://ebook.katebagoy.com/lto)**!**
+Your clients want to establish a relationship with you while purchasing your product. They want to feel like you are friends, and you are doing a service for them. The only way you can become friends is if you listen to them and make them feel like their voice is heard. People love to talk; they love to talk about themselves even more. According to [Fonolo](https://fonolo.com/blog/2018/04/why-active-listening-is-the-best-customer-service-skill/), when you listen to your client, you give them validation and support. You also allow yourself to listen to and meet your client's needs. Doing this will establish a strong relationship and loyalty between you and your clients. Not everyone that walks in your doors will connect with you. If you are honest about your products, confident in what you sell, and listen to their needs you will find your dream clients—clients who keep coming back. **For more great tips,**[**check out my e-book**](https://ebook.katebagoy.com/lto)**!**

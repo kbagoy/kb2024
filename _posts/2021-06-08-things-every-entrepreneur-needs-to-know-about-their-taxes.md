@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Things Every Entrepreneur Needs to Know About Their Taxes"
-author: "kbagoy"
-date: "2021-06-08"
-categories: 
-  - "marketing-tips"
-image: assets/images/Things-Every-Entrepreneur-Needs-to-Know-About-Their-Taxes.jpg
+permalink: /things-every-entrepreneur-needs-to-know-about-their-taxes/
+title: Things Every Entrepreneur Needs to Know About Their Taxes
+description: None
+date: 2021-06-08 07:34:45 -0000
+last_modified_at: 2021-06-10 17:28:45 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/06/Things-Every-Entrepreneur-Needs-to-Know-About-Their-Taxes.jpg
+  alt: Things Every Entrepreneur Needs to Know About Their Taxes
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As an entrepreneur, your success depends on the smooth run of your business. Taxes, unfortunately, can be a huge wrench in the system, suddenly forcing fees and time, and energy. And what’s worse, they are unavoidable! They come around every year (and sometimes more often) and each time they can be a pain to sort out. However, there are things you can do and precautions you can take that will make doing your taxes less stressful, less threatening, and less of an impediment to your business plans.
 
 ## **They Can Be More Complicated**
@@ -22,7 +28,7 @@ It’s important to know [what you are expected to pay](https://www.thebalancesm
 
 You even get taxed for just being an entrepreneur! As a sole proprietor, [you qualify for the self-employment tax](https://www.businessnewsdaily.com/9315-self-employed-tax-guide.html#:~:text=Unlike%20W%2D2%20employees%2C%20self,it%20is%20for%20wage%20earners.) and the personal income tax. When you are an employee, your employer (usually) takes out the employment tax automatically, as you do for your employees. There is no automatic tax take-out when you are the boss of your own paychecks. With each pay period, track how much you will owe in self-employment taxes. Even better, simply set aside a regular chunk of your payment with each period, so that you are prepared for your tax responsibilities when they come around.
 
-## **April 15****th** **Isn’t the Only Tax Day**
+## **April 15****th****Isn’t the Only Tax Day**
 
 Unfortunately, filing taxes may not be a once-per-year activity. Tax _returns_ are required only once per year, but other taxes may be required to be filed depending on profit achievements or corporation deadlines. You also may be responsible for quarterly estimated federal tax payments. Consult an experienced business person within your field to verify that you are aware and prepared for each of these tax dates, and incorporate them into your business plan timeline.
 
@@ -40,8 +46,4 @@ If you don’t want to use a certified accountant (or even if you do), make sure
 
 ## **Prioritize Your Payroll**
 
-[The payroll is a regular turnover of your profits](https://articles.bplans.com/5-tax-preparation-tips-every-entrepreneur-should-know/) into the pockets of your deserving employees. This is a lot of information to keep track of though, and those employees rely on this aspect of their jobs to be done efficiently for their own income needs and for their eventual tax needs as well. The IRS takes paydays very seriously, so don’t let this fall into the cracks or you may find yourself in serious legal trouble.
-
-Stay on top of this essential aspect of business development and civil duty. You will be grateful that you have taken these precautions and prepared yourself well when you find that taxes are simply another thing to check off your list, and not a looming frustration to stress over.
-
-**For my best business tips,** [**check out my book**](https://go.katebagoy.com/ebook)**!**
+[The payroll is a regular turnover of your profits](https://articles.bplans.com/5-tax-preparation-tips-every-entrepreneur-should-know/) into the pockets of your deserving employees. This is a lot of information to keep track of though, and those employees rely on this aspect of their jobs to be done efficiently for their own income needs and for their eventual tax needs as well. The IRS takes paydays very seriously, so don’t let this fall into the cracks or you may find yourself in serious legal trouble. Stay on top of this essential aspect of business development and civil duty. You will be grateful that you have taken these precautions and prepared yourself well when you find that taxes are simply another thing to check off your list, and not a looming frustration to stress over. **For my best business tips,**[**check out my book**](https://go.katebagoy.com/ebook)**!**

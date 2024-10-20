@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="page-single">
+    <div class="entry-header">       
+        <h1 class="posttitle">{{ page.title }}</h1>        
+    </div>
+</div>
+
+<!-- Content -->
+{% include article.html %}
+
+<div>
+    <div  class="container text-center">
+        <div class="row">
+            <div class="col-7">
+                {% include aboutme.html %}
+            </div>
+            <div class="col">
+                <image class="sneaky-kate" src="/assets/wp-content/uploads/2020/11/katebagoy-pnk-cutout.png" title_text="katebagoy-pnk-cutout">
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include aboutmedia.html %}
+
+<!-- Comments if not disabled with comments: false -->
+{% include comments.html %}
+

@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Representing Your Brand in Person-to-Person Interactions"
-author: "kbistaff"
-date: "2020-06-10"
-categories: 
-  - "marketing-tips"
-image: assets/images/brand_interaction.jpg
+permalink: /representing-your-brand/
+title: Representing Your Brand in Person-to-Person Interactions
+description: None
+date: 2020-06-10 20:38:26 -0000
+last_modified_at: 2021-04-20 17:47:13 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/06/brand_interaction.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
-Your business should be seen and heard even after you leave the office. The power and personality of your brand can shine through in your day-to-day activities. You should be proud of your products and hard work even when you're hardly working. The truth is that no customer looks forward to an unwanted approach of someone trying to sell them products for a personal gain. Here are a few ways for **representing your brand in public** and let your creative genius speak for itself.
+Your business should be seen and heard even after you leave the office. The power and personality of your brand can shine through in your day-to-day activities. You should be proud of your products and hard work even when you're hardly working. The truth is that no customer looks forward to an unwanted approach of someone trying to sell them products for a personal gain. Here are a few ways for**representing your brand in public** and let your creative genius speak for itself.
 
 ## Conduct
 
@@ -20,8 +26,4 @@ No matter how formal or informal your brand is, it's important to present yourse
 
 ## Create Relationships
 
-On your days off, you might have a few favorite hangouts where you go to catch up with friends and unwind. By creating relationships with waitstaff, baristas and bartenders, you can promote your brand in your own comfort zone by simply being your best friendly self. Instead of pushing your brand, try friendly conversation with other patrons and the staff itself. Who knows, you might be invited to showcase your wares at their next promotional event.
-
-Your brand should represent you wherever you go. Let your new customers see what you're about both publicly and personally, and they will be more likely to join your cause.
-
-**Want to up your brand? [Get my step-by-step guide here](https://go.katebagoy.com/ebook) and start reaching your potential.**
+On your days off, you might have a few favorite hangouts where you go to catch up with friends and unwind. By creating relationships with waitstaff, baristas and bartenders, you can promote your brand in your own comfort zone by simply being your best friendly self. Instead of pushing your brand, try friendly conversation with other patrons and the staff itself. Who knows, you might be invited to showcase your wares at their next promotional event. Your brand should represent you wherever you go. Let your new customers see what you're about both publicly and personally, and they will be more likely to join your cause. **Want to up your brand?[Get my step-by-step guide here](https://go.katebagoy.com/ebook) and start reaching your potential.**

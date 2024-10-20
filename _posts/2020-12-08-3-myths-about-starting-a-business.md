@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "3 Myths About Starting a Business that You Shouldn't Buy Into"
-author: "kbistaff"
-date: "2020-12-08"
-categories: 
-  - "marketing-tips"
-image: assets/images/image_0-8.jpg
+permalink: /3-myths-about-starting-a-business/
+title: 3 Myths About Starting a Business that You Shouldn't Buy Into
+description: None
+date: 2020-12-08 08:05:57 -0000
+last_modified_at: 2021-04-20 18:04:14 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/12/image_0-8.jpg
+  alt: Starting a business-wall of business drawings
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 Entrepreneurship is a fascinating field. One of the most intriguing aspects of starting a business is that it is not well understood, even by those that are good at it. Many successful entrepreneurs have struggled to understand their own success. Some have even misattributed their success to aspects that aren’t that helpful. In some cases, this has generated myths about entrepreneurial success. Here are a few of those.
 
 ## You Need to Have Experience
@@ -20,8 +26,4 @@ There are some out there that bemoan the fact that they lack the funding to purs
 
 ## You Need to Be First
 
-There are many people out there that get excited because they just had a new idea. They start researching the idea only to be disappointed that someone has already beat them to the prize. They then quit without ever really starting. This is a horrible mistake. If another business is already running on your idea, that means it works! We live in a large world, with large markets. Being the second, third, or even tenth to the market [isn’t always a bad thing](https://timkastelle.org/blog/2012/02/dont-be-first-to-market-be-first-to-scale/). You can avoid the pitfalls of your predecessors and enjoy the benefits of a market that is new enough to be growing, but old enough that people aren’t wary of the product.
-
-Entrepreneurship is a road full of failures and setbacks. That much is unavoidable. However, you shouldn’t give up because of the obstacles. You should embrace them and learn from them. Just think, if Thomas Edison had given up after his first few tries, he never would have figured out the light bulb. Who knows? You could come up with the next greatest business.
-
-**Ready to start your own business but not sure where to start? Get started [here](https://go.katebagoy.com/ebook)!**
+There are many people out there that get excited because they just had a new idea. They start researching the idea only to be disappointed that someone has already beat them to the prize. They then quit without ever really starting. This is a horrible mistake. If another business is already running on your idea, that means it works! We live in a large world, with large markets. Being the second, third, or even tenth to the market [isn’t always a bad thing](https://timkastelle.org/blog/2012/02/dont-be-first-to-market-be-first-to-scale/). You can avoid the pitfalls of your predecessors and enjoy the benefits of a market that is new enough to be growing, but old enough that people aren’t wary of the product. Entrepreneurship is a road full of failures and setbacks. That much is unavoidable. However, you shouldn’t give up because of the obstacles. You should embrace them and learn from them. Just think, if Thomas Edison had given up after his first few tries, he never would have figured out the light bulb. Who knows? You could come up with the next greatest business. **Ready to start your own business but not sure where to start? Get started[here](https://go.katebagoy.com/ebook)!**

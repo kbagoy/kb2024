@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Keep Your Business Thriving When You’re Burnt Out"
-author: "kbistaff"
-date: "2022-07-23"
-categories: 
-  - "marketing-tips"
-image: assets/images/How-to-Keep-Your-Business-Thriving-When-Youre-Burnt-Out.jpg
+permalink: /how-to-keep-your-business-thriving-when-youre-burnt-out/
+title: "How to Keep Your Business Thriving When You\u2019re Burnt Out"
+description: None
+date: 2022-07-23 08:00:40 -0000
+last_modified_at: 2022-07-22 17:05:31 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/07/How-to-Keep-Your-Business-Thriving-When-Youre-Burnt-Out.jpg
+  alt: "How to Keep Your Business Thriving When You\u2019re Burnt Out"
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As a business owner, it’s easy to become overwhelmed. You have many responsibilities on your plate and you might feel like you have to take it on all by yourself. However, your business can suffer if you’re feeling burnt out. It’s important to find ways to keep your business running and thriving even if you’re experiencing burnout.
 
 ## **Take a Step Back**
@@ -20,8 +26,4 @@ It takes a lot to keep a business running and one reason you may feel burnout is
 
 ## **Take Time to Reflect**
 
-When experiencing burnout, you may be weighed down by mistakes or issues that have happened in the past. Focusing on negative experiences from the past can make burnout worse because you’re already feeling overwhelmed by current circumstances. Instead of obsessing over past mistakes, take time to learn from them. Reflect on the past of your business and see where you can make improvements. Take note of what you can do better next time. As you do this, [define clear goals for your business](https://articles.bplans.com/how-to-set-clear-and-actionable-goals-for-your-business/). If you’re feeling burnout because you aren’t achieving anything, goals can help you have a clearer target and something to work toward.
-
-Burnout is a very real thing and it affects many people. If you feel burned out, it can negatively impact your business as a whole. Finding ways to handle your burnout can be beneficial to both you and your business.
-
-**Need help to get your business off the ground? [Get a step-by-step guide here](https://go.katebagoy.com/ebook)!**
+When experiencing burnout, you may be weighed down by mistakes or issues that have happened in the past. Focusing on negative experiences from the past can make burnout worse because you’re already feeling overwhelmed by current circumstances. Instead of obsessing over past mistakes, take time to learn from them. Reflect on the past of your business and see where you can make improvements. Take note of what you can do better next time. As you do this, [define clear goals for your business](https://articles.bplans.com/how-to-set-clear-and-actionable-goals-for-your-business/). If you’re feeling burnout because you aren’t achieving anything, goals can help you have a clearer target and something to work toward. Burnout is a very real thing and it affects many people. If you feel burned out, it can negatively impact your business as a whole. Finding ways to handle your burnout can be beneficial to both you and your business. **Need help to get your business off the ground?[Get a step-by-step guide here](https://go.katebagoy.com/ebook)!**

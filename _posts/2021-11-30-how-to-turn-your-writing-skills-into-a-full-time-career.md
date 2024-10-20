@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Turn Your Writing Skills into a Full-Time Career"
-author: "kbistaff"
-date: "2021-11-30"
-categories: 
-  - "freelancing"
-image: assets/images/How-to-Turn-Your-Writing-Skills-into-a-Full-Time-Career.jpg
+permalink: /how-to-turn-your-writing-skills-into-a-full-time-career/
+title: How to Turn Your Writing Skills into a Full-Time Career
+description: None
+date: 2021-11-30 07:47:38 -0000
+last_modified_at: 2021-11-19 14:57:00 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/11/How-to-Turn-Your-Writing-Skills-into-a-Full-Time-Career.jpg
+  alt: How to Turn Your Writing Skills into a Full-Time Career
+categories:
+- Freelancing
+tags: []
 ---
-
 You are a master at turning a word, but how do you transition a writing hobby into a full-blown, lucrative career? It may seem too good to be true, but it really is possible. Skilled writers are always needed, it is simply a matter of finding your niche and getting yourself out there.
 
 ## **Pitch Articles to Publications**
@@ -48,8 +54,4 @@ For many, this is the crème de la crème of writing, and will not be an easy ve
 
 ## **Write a Book**
 
-It goes without saying that if you can publish a book, you have made it as a writer! Maybe the next classic novel is waiting to be extricated from your mind, or maybe your deep knowledge about a topic could easily become an interesting non-fiction book. You can’t know what you will do if you don’t try. There are [countless resources at your fingertips](https://self-publishingschool.com/how-to-write-a-book/), both online and in books, that can get you started. If you have an idea mulling around in your head, give it a shot! A published book will open more writing doors than you can imagine.
-
-There are many options for skilled writers to use that ability and create a career with it. If you are unhappy at your nine to five, make the switch. Your talent shouldn’t go to waste. Share it with the world and start writing!
-
-**Need help marketing your business?** [**Get a step-by-step guide here**](https://go.katebagoy.com/ebook)**!**
+It goes without saying that if you can publish a book, you have made it as a writer! Maybe the next classic novel is waiting to be extricated from your mind, or maybe your deep knowledge about a topic could easily become an interesting non-fiction book. You can’t know what you will do if you don’t try. There are [countless resources at your fingertips](https://self-publishingschool.com/how-to-write-a-book/), both online and in books, that can get you started. If you have an idea mulling around in your head, give it a shot! A published book will open more writing doors than you can imagine. There are many options for skilled writers to use that ability and create a career with it. If you are unhappy at your nine to five, make the switch. Your talent shouldn’t go to waste. Share it with the world and start writing! **Need help marketing your business?**[**Get a step-by-step guide here**](https://go.katebagoy.com/ebook)**!**

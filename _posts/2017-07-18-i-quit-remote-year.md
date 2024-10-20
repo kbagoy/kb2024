@@ -4,9 +4,11 @@ title: "Why I quit Remote Year"
 author: "kbagoy"
 date: "2017-07-18"
 categories: 
-  - "corporate-burnout"
-  - "workanywhere"
-image: assets/images/1_iWkBA6J09oWB9CfZgf2qVQ-1.jpeg
+  - "Corporate Burnout"
+  - "Working Remotely"
+image:
+  path: /assets/wp-content/uploads/2019/06/1_iWkBA6J09oWB9CfZgf2qVQ.jpeg
+  alt: Lisbon graffiti
 ---
 
 I hate Lisbon and I’m leaving [Remote Year](http://www.remoteyear.com/general-application?referee=5132575).

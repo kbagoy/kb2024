@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Run Your First Marketing Campaign"
-author: "kbistaff"
-date: "2021-01-19"
-categories: 
-  - "marketing-tips"
-image: assets/images/dreamstime_s_108092982.jpg
+permalink: /how-to-run-your-first-marketing-campaign/
+title: How to Run Your First Marketing Campaign
+description: None
+date: 2021-01-19 16:50:58 -0000
+last_modified_at: 2021-04-20 18:08:40 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/01/dreamstime_s_108092982.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As you start your business, you’ll need to come up with a marketing campaign. You’ll need to come up with a plan, utilize social media platforms, and analyze the results of your campaign. Doing these things will help you to create a successful business with a great marketing campaign. Here’s a look into how this can all be possible.
 
 ## **Come Up With a Plan**
@@ -20,8 +26,4 @@ As you start your business, you’ll need to come up with a marketing campaign. 
 
 ## **Analyze the Results**
 
-You need to analyze the results of your campaign so you can improve upon it for your next one. It's important to [track different metrics](https://www.podium.com/article/healthcare-marketing/) to see how effective your campaign was and how to improve going forward. As you analyze the results, you’ll be able to see what works and what doesn’t work. This will help you to come up with a more efficient campaign in the future. You know what your customers respond to and what they don’t respond to. This is a necessary and important step towards business success.
-
-When you have gotten your company up and running, you’ll want to figure out your first marketing campaign. This is an important part of creating business. You’ll need to come up with a plan, utilize social media platforms, and analyze the results of your campaign. This will help you to grow your business and you’ll be able to become more successful.
-
-**For more help running your business, [grab my step-by-step guide here.](https://go.katebagoy.com/ebook)**
+You need to analyze the results of your campaign so you can improve upon it for your next one. It's important to [track different metrics](https://www.podium.com/article/healthcare-marketing/) to see how effective your campaign was and how to improve going forward. As you analyze the results, you’ll be able to see what works and what doesn’t work. This will help you to come up with a more efficient campaign in the future. You know what your customers respond to and what they don’t respond to. This is a necessary and important step towards business success. When you have gotten your company up and running, you’ll want to figure out your first marketing campaign. This is an important part of creating business. You’ll need to come up with a plan, utilize social media platforms, and analyze the results of your campaign. This will help you to grow your business and you’ll be able to become more successful. **For more help running your business,[grab my step-by-step guide here.](https://go.katebagoy.com/ebook)**

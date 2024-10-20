@@ -1,30 +1,33 @@
 ---
 layout: post
-title: "Meet 6-Figure Copywriter Jessamine Marie"
-author: "kbagoy"
-date: "2018-04-27"
-categories: 
-  - "freelancing"
-  - "6ff-experts"
-tags: 
-  - "6ff-interview-series"
-  - "interviews"
-image: assets/images/jessamine-marie.jpg
+permalink: /jessamine-marie-copywriter/
+title: Meet 6-Figure Copywriter Jessamine Marie
+description: Meet 6-figure freelancer Jessamine Marie, a freelance Copywriter based
+  in Norfolk, England who gave up a 17-year corporate career for freelancing. Her
+  writing is personable, engaging, human, and persuasive.
+date: 2018-04-27 17:55:04 -0000
+last_modified_at: 2021-04-14 19:23:46 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2018/09/jessamine-marie.jpg
+  alt: Copywriter Jessamine Marie
+categories:
+- Freelancing
+- Six Figure Freelancers
+tags:
+- 6FF Interview Series
+- interviews
 ---
-
-Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series!
-
-**This week we bring you a digital interview with Jessamine Marie of [connect-norfolk.co.uk](http://connect-norfolk.co.uk), who left a 17-year corporate career for freelancing.**
+Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series! **This week we bring you a digital interview with Jessamine Marie of[connect-norfolk.co.uk](http://connect-norfolk.co.uk), who left a 17-year corporate career for freelancing.**
 
 ### **What makes Jessamine a Six Figure Freelancer?**
 
 _For me, understanding the business strategy, ethos, and long-term vision of my clients is key to writing content that lands with impact. Professional copywriters will have bundles of professional writing experience, but the very best will have experienced working alongside business giants, where they have gained a sound understanding of business strategy and brand voice. I feel fortunate to place myself in this category. When I write, I write to add true value to your business, through written content that will generate prospects, leads, revenue, and profit._
 
-##### **Expert Freelance Interview:**
+#### **Expert Freelance Interview:**
 
 * * *
-
-<iframe src="https://www.youtube.com/embed/lDKkVpN2i7Q" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 ### What can you tell our readers about your background?
 
@@ -50,11 +53,11 @@ Recognise that you only have work to do if you go out and get it. Sounds simple,
 
 I built an eight-week business plan. I bought out my local stationary shops supply of post-it-notes and brain dumped on to them. I asked myself these five questions:
 
-- What do I need to do to become recognized as a freelance copywriter?
-- What will my clients want from me?
-- What legalities to I need to conform to?
-- What will set me apart from my competitors?
-- What will help build my reputation?
+* What do I need to do to become recognized as a freelance copywriter?
+* What will my clients want from me?
+* What legalities to I need to conform to?
+* What will set me apart from my competitors?
+* What will help build my reputation?
 
 Tasks were divided by week and then per day, and allotted time-frames were awarded to each task. Each hour that passed was one step closer to me making Connect-Norfolk a reality.
 
@@ -78,12 +81,14 @@ Experience has taught me that it's the simple things that make a difference, and
 
 Ask yourself these 8 questions:
 
-- Are you willing to work hard? The answer needs to be resounding yes!
-- Are you doing it for the right reasons? No one can tell you what they are but follow your gut, it is rarely wrong.
-- Are you prepared for the financial and emotional peaks and troughs?
-- Do you have finances to fall back on whilst you build your business and reputation? (Think additionally about your pension, sick pay, holidays)
-- Do you have enough emotional energy and resilience at the current time? What else is going on in your life? What might stop you giving this your 100%?
-- Can you test-run your business on a part-time basis before making the decision to leave your current job?
+* Are you willing to work hard? The answer needs to be resounding yes!
+* Are you doing it for the right reasons? No one can tell you what they are but follow your gut, it is rarely wrong.
+* Are you prepared for the financial and emotional peaks and troughs?
+* Do you have finances to fall back on whilst you build your business and reputation? (Think additionally about your pension, sick pay, holidays)
+* Do you have enough emotional energy and resilience at the current time? What else is going on in your life? What might stop you giving this your 100%?
+* Can you test-run your business on a part-time basis before making the decision to leave your current job?
+
+
 
 ### What is you favorite book, blog, podcast or other resource and why?
 
@@ -103,18 +108,14 @@ Knowing that I am making a difference to someone and their organization, using w
 
 ### What else is important that we haven't asked?
 
-5 years ago, I would have said, go on Jessamine Marie, you really can do this, and my message to you today is the same. Self-belief is 80% of the battle, and the other 20% comes down to hard work, dedication, and commitment. Whatever your business, stay true to and don't undersell yourself, know your worth, and never ever compromise on the quality of the product or service that you provide. Some parting words from me: Not everyone is like you, we are all unique, clients will frustrate you and many will not operate in the same way that you do, love everyone, embrace their idiosyncratic ways, guide, support and accept them, only then can we work in harmony with one and other and maximize business potential.
-
- 
-
-[**Ready to take the first steps in becoming a six-figure freelancer? Grab my Ebook today!**](https://go.katebagoy.com/ebook)
+5 years ago, I would have said, go on Jessamine Marie, you really can do this, and my message to you today is the same. Self-belief is 80% of the battle, and the other 20% comes down to hard work, dedication, and commitment. Whatever your business, stay true to and don't undersell yourself, know your worth, and never ever compromise on the quality of the product or service that you provide. Some parting words from me: Not everyone is like you, we are all unique, clients will frustrate you and many will not operate in the same way that you do, love everyone, embrace their idiosyncratic ways, guide, support and accept them, only then can we work in harmony with one and other and maximize business potential.   [**Ready to take the first steps in becoming a six-figure freelancer? Grab my Ebook today!**](https://go.katebagoy.com/ebook)
 
 * * *
 
-![](images/kWbM9MY7RwCIWXzLn5R3_Jessamine-Marie.jpg)
+####
+
+![](https://s3.amazonaws.com/kajabi-storefronts-production/blogs/8775/images/kWbM9MY7RwCIWXzLn5R3_Jessamine-Marie.jpg)
 
 #### _**About Jessamine**_
 
-_**Jessamine Marie is a freelance Copywriter based in Norfolk, England. Her writing is personable, engaging, human, and persuasive. Her free-spirited energy and love for the natural world, allow this writer to write fact-based, yet with an earthy twist of creative freedom, breathing life into words.**_ If you'd like some support or guidance, or maybe an informal chat about your copywriting requirements get connected with Jessamine at [connect-norfolk.co.uk](http://www.connect-norfolk.co.uk/)
-
-\[showmodule id="32886"\]
+_**Jessamine Marie is a freelance Copywriter based in Norfolk, England. Her writing is personable, engaging, human, and persuasive. Her free-spirited energy and love for the natural world, allow this writer to write fact-based, yet with an earthy twist of creative freedom, breathing life into words.**_ If you'd like some support or guidance, or maybe an informal chat about your copywriting requirements get connected with Jessamine at [connect-norfolk.co.uk](http://www.connect-norfolk.co.uk/) [showmodule id="32886"]

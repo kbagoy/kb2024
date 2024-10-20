@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "The Devil is in the Details: Tips for Putting Your Best Foot Forward in Your Business Photo"
-author: "kbagoy"
-date: "2021-03-10"
-categories: 
-  - "marketing-tips"
-image: assets/images/getting-professional-photo-taken.jpg
+permalink: /tips-for-putting-your-best-foot-forward-in-your-business-photo/
+title: 'The Devil is in the Details: Tips for Putting Your Best Foot Forward in Your
+  Business Photo'
+description: None
+date: 2021-03-10 08:01:02 -0000
+last_modified_at: 2021-04-20 18:16:28 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/02/getting-professional-photo-taken.jpg
+  alt: Professional taking a business photo
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As a business owner, you are expected to present a certain image to the rest of the world, at least when it comes to presenting yourself as a business owner. Because of this, the way you look in professional photos matters and can significantly impact both the impression you make as an owner and the impression your business makes. So what should you be doing to make sure you put your best foot forward when it comes time to take your professional business photo?
 
 ## **Choosing Your Background**
@@ -20,9 +27,7 @@ Once you’ve planned your background, it’s time to get yourself put together.
 
 ## **Personal Grooming**
 
-Proper personal grooming can add a finished look to your appearance that can boost your level of professionalism in your business photo. If you intend to get your hair cut, plan to have that done [two to four weeks](https://www.signaturestyle.com/trends/love-your-hair/love-your-hair-when-to-cut-your-hair-before-a-big-event.html) before your photo shoot. That gives you time to get used to your new haircut, for it to grow a little so it looks more natural, and for you to get anything fixed if you need to. A manicure can be a good way for both men and women to make sure their nails are well kept and neatly trimmed. Carefully consider wearing makeup too. This isn’t the best time to be trying a whole new makeup look. Ideally, it should be something you’re confident in doing and can do very well. 
-
-Men, don’t think this doesn’t apply to you. Make sure any facial hair is well-groomed and under control. At a bare minimum, you should apply a clear lip balm and be using moisturizer to make sure your face doesn’t look dry and chapped. If you’re missing hair on the top of your head, opt for powder makeup to keep the light from reflecting off your head. A simple concealer and foundation can help even out your skin and hide blemishes. Be sure to practice beforehand unless you choose to opt to use a makeup professional.
+Proper personal grooming can add a finished look to your appearance that can boost your level of professionalism in your business photo. If you intend to get your hair cut, plan to have that done [two to four weeks](https://www.signaturestyle.com/trends/love-your-hair/love-your-hair-when-to-cut-your-hair-before-a-big-event.html) before your photo shoot. That gives you time to get used to your new haircut, for it to grow a little so it looks more natural, and for you to get anything fixed if you need to. A manicure can be a good way for both men and women to make sure their nails are well kept and neatly trimmed. Carefully consider wearing makeup too. This isn’t the best time to be trying a whole new makeup look. Ideally, it should be something you’re confident in doing and can do very well.  Men, don’t think this doesn’t apply to you. Make sure any facial hair is well-groomed and under control. At a bare minimum, you should apply a clear lip balm and be using moisturizer to make sure your face doesn’t look dry and chapped. If you’re missing hair on the top of your head, opt for powder makeup to keep the light from reflecting off your head. A simple concealer and foundation can help even out your skin and hide blemishes. Be sure to practice beforehand unless you choose to opt to use a makeup professional.
 
 ## **Choose Your Position**
 
@@ -34,8 +39,4 @@ Do you want to come across as a more casual, lighthearted professional? Or do yo
 
 ## **Choosing Your Headshot**
 
-Your business photo will likely end up being a type of headshot. It’s important to recognize that there are [different kinds of headshots](https://www.jaxphotographer.com/blog/2018/05/08/different-kinds-of-headshots/) since that will impact the final image. Choose the type of headshot that best conveys the image you want to put out. How much personality do you want to portray? Do you prefer to be strictly professional? Knowing what you want your photo to communicate will help you make the best choice. Remember to practice your posing for headshots just as much as you would for full-body photos. Doing so can help you make your position look natural and attractive, even slimming if that’s something desirable for you.
-
-Having your photo taken professionally as a business owner is a big deal. There’s a reason why people say a picture is worth a thousand words. Your business photo will have a real impact on how you and your business are perceived by others. Make sure you pay careful attention to every detail before, during, and after the process. Pick the photo that best represents everything you stand for and everything you want your business to represent.
-
-**To help yourself succeed even more, [check out my top secrets](https://go.katebagoy.com/ebook) to becoming a 6-figure freelancer!**
+Your business photo will likely end up being a type of headshot. It’s important to recognize that there are [different kinds of headshots](https://www.jaxphotographer.com/blog/2018/05/08/different-kinds-of-headshots/) since that will impact the final image. Choose the type of headshot that best conveys the image you want to put out. How much personality do you want to portray? Do you prefer to be strictly professional? Knowing what you want your photo to communicate will help you make the best choice. Remember to practice your posing for headshots just as much as you would for full-body photos. Doing so can help you make your position look natural and attractive, even slimming if that’s something desirable for you. Having your photo taken professionally as a business owner is a big deal. There’s a reason why people say a picture is worth a thousand words. Your business photo will have a real impact on how you and your business are perceived by others. Make sure you pay careful attention to every detail before, during, and after the process. Pick the photo that best represents everything you stand for and everything you want your business to represent. **To help yourself succeed even more,[check out my top secrets](https://go.katebagoy.com/ebook) to becoming a 6-figure freelancer!**

@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Shield Your Reputation From Harm"
-author: "kbistaff"
-date: "2022-06-13"
-categories: 
-  - "marketing-tips"
-image: assets/images/How-to-Shield-Your-Reputation-From-Harm.jpg
+permalink: /how-to-shield-your-brand-reputation/
+title: How to Shield Your Reputation From Harm
+description: None
+date: 2022-06-13 19:20:00 -0000
+last_modified_at: 2022-06-13 19:20:23 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/06/How-to-Shield-Your-Reputation-From-Harm.jpg
+  alt: How to Shield Your Reputation From Harm
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 A brand’s reputation is its lifeblood. In the highly politicized, constantly digitized and online society of today, it becomes more and more possible that negative opinions can damage a business permanently. It is essential to guard your reputation carefully. Here are some measures you can take to do just that.
 
 ## **Be Proactive**
@@ -20,8 +26,4 @@ As obvious as this one might seem, it has never been easier to get your company 
 
 ## **Be an Upstanding Business**
 
-While it is true that sometimes controversy is unavoidable, the fact is that those occasions are rare. Most controversy is entirely avoidable, and it is best avoided by being responsible and honest. Predict possible problems that could crop up and do your best to provide your customers and employees with the safe environment that they deserve. If or when something does happen that could damage your reputation, honestly assess how much of the event was the fault of the business. Make conscious and [public effort to make effective changes](https://www.klemchuk.com/ideate/importance-of-honesty-in-workplace) in whatever system you need to in order to make things better. Use social media (and any other brand-related interface) to uplift and build rather than tear down.
-
-A reputation should be robust and positive, but it should also be built on good policies and honest dealings. While it may be tempting to take financial or logistical shortcuts to save money or time, you might regret such decisions later on. Make sure to build and maintain a good reputation that will last for years to come!
-
-**For more advice on how to build your six-figure business from the ground-up, [check out my book here](https://ebook.katebagoy.com/lto)!**
+While it is true that sometimes controversy is unavoidable, the fact is that those occasions are rare. Most controversy is entirely avoidable, and it is best avoided by being responsible and honest. Predict possible problems that could crop up and do your best to provide your customers and employees with the safe environment that they deserve. If or when something does happen that could damage your reputation, honestly assess how much of the event was the fault of the business. Make conscious and [public effort to make effective changes](https://www.klemchuk.com/ideate/importance-of-honesty-in-workplace) in whatever system you need to in order to make things better. Use social media (and any other brand-related interface) to uplift and build rather than tear down. A reputation should be robust and positive, but it should also be built on good policies and honest dealings. While it may be tempting to take financial or logistical shortcuts to save money or time, you might regret such decisions later on. Make sure to build and maintain a good reputation that will last for years to come! **For more advice on how to build your six-figure business from the ground-up,[check out my book here](https://ebook.katebagoy.com/lto)!**

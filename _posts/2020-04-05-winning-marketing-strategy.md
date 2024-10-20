@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "3 Tips for Creating a Winning Marketing Strategy"
-author: "kbistaff"
-date: "2020-04-05"
-categories: 
-  - "marketing-tips"
-image: assets/images/business_meeting-4.jpg
+permalink: /winning-marketing-strategy/
+title: 3 Tips for Creating a Winning Marketing Strategy
+description: None
+date: 2020-04-05 19:32:25 -0000
+last_modified_at: 2021-04-20 17:30:49 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/04/business_meeting-4.jpg
+  alt: marketing strategy
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 # Crafting a Winning Marketing Strategy
 
 One of the best things you can do for your small business is to craft and implement a winning marketing strategy. Having the right program in place provides you with the ability to obtain the necessary data to take your business to the next level. However, before you can accomplish this, you must fill in the blanks with some essential information. The following list includes three tips to help you get to that very goal.
@@ -22,8 +28,4 @@ There is nothing worse than spending valuable time and funds targeting the wrong
 
 ## Find Your Voice
 
-Your voice is what customers are going to know you for, and thus it should fit the type of business you are running. For example, a law firm should utilize a professional voice throughout their marketing campaigns to ensure their clients they are dealing with someone who is a professional and will take their cases seriously. Note that it is also very important to [keep this voice consistent](https://turnthepage-onlinemarketing.com/how-to-maintain-a-consistent-brand-voice-for-your-business/) throughout all your mediums.
-
-Creating the right marketing strategy for your company is an essential part of your long-term success. Thus, it is important to adhere to the list of tips posted above in order to create and follow through with a highly successful marketing strategy.
-
-**If you need help creating a winning marketing strategy for your small business, [start by grabbing my Ebook "_Secrets of a Six-Figure Freelancer"._](https://go.katebagoy.com/ebook)**
+Your voice is what customers are going to know you for, and thus it should fit the type of business you are running. For example, a law firm should utilize a professional voice throughout their marketing campaigns to ensure their clients they are dealing with someone who is a professional and will take their cases seriously. Note that it is also very important to [keep this voice consistent](https://turnthepage-onlinemarketing.com/how-to-maintain-a-consistent-brand-voice-for-your-business/) throughout all your mediums. Creating the right marketing strategy for your company is an essential part of your long-term success. Thus, it is important to adhere to the list of tips posted above in order to create and follow through with a highly successful marketing strategy. **If you need help creating a winning marketing strategy for your small business,[start by grabbing my Ebook "_Secrets of a Six-Figure Freelancer"._](https://go.katebagoy.com/ebook)**

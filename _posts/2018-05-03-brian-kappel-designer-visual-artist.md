@@ -1,34 +1,38 @@
 ---
 layout: post
-title: "How to Get Your First Client With 6-Figure Designer Brian Kappel"
-author: "kbagoy"
-date: "2018-05-03"
-categories: 
-  - "freelancing"
-  - "6ff-experts"
-tags: 
-  - "6ff-interview-series"
-  - "interviews"
-image: assets/images/brian-kappel.jpg
+permalink: /brian-kappel-designer-visual-artist/
+title: How to Get Your First Client With 6-Figure Designer Brian Kappel
+description: Meet 6-figure freelancer Brian Kappel. From retail design to customization
+  and event ideation, Brian has brought his passion for design and his drive for unique
+  experiences to each project he works on. Brian is also an active artist, exhibiting
+  at galleries across the country.
+date: 2018-05-03 17:59:47 -0000
+last_modified_at: 2021-04-14 19:25:46 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2018/09/brian-kappel.jpg
+  alt: Designer Brian Kappel
+categories:
+- Freelancing
+- Six Figure Freelancers
+tags:
+- 6FF Interview Series
+- interviews
 ---
-
-Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series!
-
-**This week we bring you a digital interview Brian Kappel of [spacemonkeydesigns.com](http://www.spacemonkeydesigns.com/), a visual artists, designer & agency refuge**. From retail design to customization and event ideation, Brian has brought his passion for design and his drive for unique experiences to projects for over a decade.
+Want to learn how to how to make six figures as a freelancer? Meet the creative pros who've done it in the Six Figure Freelancers Expert Series! **This week we bring you a digital interview Brian Kappel of[spacemonkeydesigns.com](http://www.spacemonkeydesigns.com/), a visual artists, designer & agency refuge**. From retail design to customization and event ideation, Brian has brought his passion for design and his drive for unique experiences to projects for over a decade.
 
 ### **What makes Brian a Six Figure Freelancer?**
 
 Great question, and one that I constantly wrestle with. I think what separates me from others, or what makes my clients come back is my obsession with turning out the best work in the shortest amount of time possible. My years in the agency world helped me to understand the pace of the work necessary to keep things moving forward. I don't compromise the integrity of the quality of "big ideas" I just self vet concepts in order to arrive at a solution that not only check the boxes for the client, but exposes other thought tangents and opportunities that those solutions may create. I don't say NO much, and I don't miss deadlines. Clients often ask what my sleep habits are, and in reality I wouldn't call them habits, as there is no pattern. There are times that sleep is plentiful, and other times, it is a short break between projects.
 
-##### **Expert Freelance Interview:**
+#### **Expert Freelance Interview:**
 
 * * *
 
-<iframe src="https://www.youtube.com/embed/3IKIR0IuVSo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
-
 ### What can you tell our readers about your background?
 
-I have a degree in drawing and painting. Visual arts has always been my thing, and in reality when I graduated from college it was a transition period from analog to digital. I came out of school in '98, I think I worked on Photoshop 1 and Illustrator wasn't around yet. When I got my first job at NIKE, instead of a design role, I started as a production artist. I created line art, schematics, and basic catalog layouts. This was really invaluable because it taught me the software, but in creating schematics for the apparel graphic designers, I learned how good designers create graphics. It was a kind of on the job training that I needed. What I brought to the table was this blue collar approach of "Get SH\*T done", so I was taking on large amounts of work. The deal I struck was that if I finished my PA work, I could work on graphic tees, and I became one of the only production artists who actually had tees going to market, as a couple of great designers mentored me, and made sure that my designs were getting in front of the right people. From NIKE, I realized there was a bigger design world out there that I was not getting exposure to, so I made the somewhat gut wrenching decision to leave NIKE and jump into the agency world. This move forced me to develop appreciations and skill sets in not just 2D design, but 3D design, and most importantly acquiring an appreciation for how ALL disciplines work together. Holistic design solutions are like a well crafted sculpture or piece of architecture, no matter how you approach it, your interaction is well curated and thought out. My entire professional career, I have done freelance work. Working after hours, late into the night, or early into the morning, or the nights where they ran into each other, allowed my wife to stay home with our kids. Just as important though, it taught me to hustle. This piece is vital in the freelance world. You have to always be hustling, not just to hit deadlines, but to take the time to innovate your approach, build your ethos, try, fail, try again, and fail harder. It is the dance that you have to be ready to do in order to be a freelancer. When I got to a point in my career that I had good solid connections, in a variety of places, doing a variety of work, I began to float the notion of my impending full time freelance status update by people. When the responses shifted from "really?!" to "I would totally use you," i knew it was time, and I have not looked back since.
+I have a degree in drawing and painting. Visual arts has always been my thing, and in reality when I graduated from college it was a transition period from analog to digital. I came out of school in '98, I think I worked on Photoshop 1 and Illustrator wasn't around yet. When I got my first job at NIKE, instead of a design role, I started as a production artist. I created line art, schematics, and basic catalog layouts. This was really invaluable because it taught me the software, but in creating schematics for the apparel graphic designers, I learned how good designers create graphics. It was a kind of on the job training that I needed. What I brought to the table was this blue collar approach of "Get SH*T done", so I was taking on large amounts of work. The deal I struck was that if I finished my PA work, I could work on graphic tees, and I became one of the only production artists who actually had tees going to market, as a couple of great designers mentored me, and made sure that my designs were getting in front of the right people. From NIKE, I realized there was a bigger design world out there that I was not getting exposure to, so I made the somewhat gut wrenching decision to leave NIKE and jump into the agency world. This move forced me to develop appreciations and skill sets in not just 2D design, but 3D design, and most importantly acquiring an appreciation for how ALL disciplines work together. Holistic design solutions are like a well crafted sculpture or piece of architecture, no matter how you approach it, your interaction is well curated and thought out. My entire professional career, I have done freelance work. Working after hours, late into the night, or early into the morning, or the nights where they ran into each other, allowed my wife to stay home with our kids. Just as important though, it taught me to hustle. This piece is vital in the freelance world. You have to always be hustling, not just to hit deadlines, but to take the time to innovate your approach, build your ethos, try, fail, try again, and fail harder. It is the dance that you have to be ready to do in order to be a freelancer. When I got to a point in my career that I had good solid connections, in a variety of places, doing a variety of work, I began to float the notion of my impending full time freelance status update by people. When the responses shifted from "really?!" to "I would totally use you," i knew it was time, and I have not looked back since.
 
 ### How long have you been in business and what inspired you to start you business?
 
@@ -88,20 +92,10 @@ Honestly, I am reaching the point in my career where I am trying to figure out w
 
 ### What else is important that we haven't asked?
 
-If could go back to my younger self, be it 5 years ago, or 25 years ago, I would say DRAW MORE. There is ALWAYS TIME. Shrug off the things that you take so personally, in the grand scheme they are as insignificant as the people who said them. The people who make a big difference in your life pop up in times and places where you least expect, and should be embraced as the heroes that they are. Never mail it in, even the most mundane project could lead to something amazing.
-
-**[Ready to stop dreaming and start doing? Check out my top tips for starting your own business here.](https://go.katebagoy.com/ebook)** 
+If could go back to my younger self, be it 5 years ago, or 25 years ago, I would say DRAW MORE. There is ALWAYS TIME. Shrug off the things that you take so personally, in the grand scheme they are as insignificant as the people who said them. The people who make a big difference in your life pop up in times and places where you least expect, and should be embraced as the heroes that they are. Never mail it in, even the most mundane project could lead to something amazing. **[Ready to stop dreaming and start doing? Check out my top tips for starting your own business here.](https://go.katebagoy.com/ebook)**
 
 * * *
 
-####  ![](images/brian-kappel.jpg)_**About Brian**_
+#### ![](/assets/wp-content/uploads/2018/09/brian-kappel.jpg) _**About Brian**_
 
-Brian Kappel graduated from Penn State University in 1998 with a degree in Visual Arts, specializing in drawing and painting. After graduating, Brian worked as an apparel graphic designer for NIKE, and during that time he began refining his work as a conceptual designer. Over the next 15 years, Brian worked in the agency world as a Creative Director and Design Lead.
-
-**From retail design to customization and event ideation, Brian has brought his passion for design and his drive for unique experiences to each project he works on.**
-
-Brian is also an active artist, exhibiting at galleries across the country as well as constantly tinkering with new materials and new ideas. Brian also has several shops in Portland, Oregon that carry his graphic tees and paintings.
-
-Connect with Brian: [LinkedIn](https://www.linkedin.com/in/brian-kappel-65b50a7/) | [Instagram](http://instagram.com/spacemonkeydesigns) (personal) | [Instagram](http://instagram.com/spacemonkeydesignspro) (Pro)
-
-\[showmodule id="32886"\]
+Brian Kappel graduated from Penn State University in 1998 with a degree in Visual Arts, specializing in drawing and painting. After graduating, Brian worked as an apparel graphic designer for NIKE, and during that time he began refining his work as a conceptual designer. Over the next 15 years, Brian worked in the agency world as a Creative Director and Design Lead. **From retail design to customization and event ideation, Brian has brought his passion for design and his drive for unique experiences to each project he works on.** Brian is also an active artist, exhibiting at galleries across the country as well as constantly tinkering with new materials and new ideas. Brian also has several shops in Portland, Oregon that carry his graphic tees and paintings. Connect with Brian: [LinkedIn](https://www.linkedin.com/in/brian-kappel-65b50a7/) | [Instagram](http://instagram.com/spacemonkeydesigns) (personal) | [Instagram](http://instagram.com/spacemonkeydesignspro) (Pro) [showmodule id="32886"]

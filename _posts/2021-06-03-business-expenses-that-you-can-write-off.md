@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Business Expenses That You Can Write Off"
-author: "kbagoy"
-date: "2021-06-03"
-categories: 
-  - "marketing-tips"
-image: assets/images/Business-Expenses-That-You-Can-Write-Off.jpg
+permalink: /business-expenses-that-you-can-write-off/
+title: Business Expenses That You Can Write Off
+description: None
+date: 2021-06-03 17:33:30 -0000
+last_modified_at: 2021-06-03 17:34:42 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/06/Business-Expenses-That-You-Can-Write-Off.jpg
+  alt: Business Expenses That You Can Write Off
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 Are you a small business owner or entrepreneur? Maybe you’re stuck in a corporate job, wondering if you’ll ever be able to afford to start up the business that you’ve been dreaming about. Well, no matter where you are along the process of starting a business, you need to know about one of the best tricks for business financing: business expense write-offs. There are lots of different business expenses that you can write off in your taxes to make your business venture a lot more affordable.
 
 ## **Home Office Space**
@@ -16,7 +22,7 @@ In 2020 and 2021, many small businesses have started creating at-home workspaces
 
 ## **Office Supplies**
 
-One thing that many business owners forget is that a lot of your business office supplies can also [qualify as write-offs](https://www.freshbooks.com/hub/expenses/tax-deductions-small-business#:~:text=You%20can%20write%20off%20office,related%20postage%20and%20shipping%20costs.). Your business equipment like desks, chairs, computers, printers, organizing cabinets, etc. could even qualify as a tax deduction. You can even deduct postage and shipping supplies. The only requirement for each of these deductions is that you use those office supplies that you’ve deducted during the indicated tax year.
+One thing that many business owners forget is that a lot of your business office supplies can also[qualify as write-offs](https://www.freshbooks.com/hub/expenses/tax-deductions-small-business#:~:text=You%20can%20write%20off%20office,related%20postage%20and%20shipping%20costs.). Your business equipment like desks, chairs, computers, printers, organizing cabinets, etc. could even qualify as a tax deduction. You can even deduct postage and shipping supplies. The only requirement for each of these deductions is that you use those office supplies that you’ve deducted during the indicated tax year.
 
 ## **Travel**
 
@@ -40,10 +46,4 @@ There are a few different circumstances having to do with the location of your b
 
 ## **Phone Expenses**
 
-If you’re working at home and have one landline, you wouldn’t be able to use it as a write-off, since you will also use it for personal use. Only your second landline would qualify as a deductible. As far as cell phones go, you will be able to deduct a portion of your cell phone bill as a business write-off, but only the portion that qualifies for use specific to your business or job. For example, if you use your phone or internet connection about 50% of the time, then that should be the percentage allocable for a business tax deduction.
-
-There are so many different elements of running a business that can be expensive. Often, your bills or taxes may seem a lot larger than the profit that you make. This is why so many dreamers have ideas that never get made into businesses. However, now you know that there are many different kinds of business expenses that qualify as business write-offs, which could save you quite a bit of money. You won’t have to give up your business dream for fear of financial failure. 
-
-Take the time to go back through each of these deductibles and determine how your personal business could qualify for them. Make sure that you’re educated about the different deductibles that your business qualifies for, and you’ll be on the quick road to financial success.
-
-**For my secrets to business success,** [**check out my ebook**](https://go.katebagoy.com/ebook)**!**
+If you’re working at home and have one landline, you wouldn’t be able to use it as a write-off, since you will also use it for personal use. Only your second landline would qualify as a deductible. As far as cell phones go, you will be able to deduct a portion of your cell phone bill as a business write-off, but only the portion that qualifies for use specific to your business or job. For example, if you use your phone or internet connection about 50% of the time, then that should be the percentage allocable for a business tax deduction. There are so many different elements of running a business that can be expensive. Often, your bills or taxes may seem a lot larger than the profit that you make. This is why so many dreamers have ideas that never get made into businesses. However, now you know that there are many different kinds of business expenses that qualify as business write-offs, which could save you quite a bit of money. You won’t have to give up your business dream for fear of financial failure.  Take the time to go back through each of these deductibles and determine how your personal business could qualify for them. Make sure that you’re educated about the different deductibles that your business qualifies for, and you’ll be on the quick road to financial success. **For my secrets to business success,**[**check out my ebook**](https://go.katebagoy.com/ebook)**!**

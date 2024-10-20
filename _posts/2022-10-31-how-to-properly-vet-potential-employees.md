@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "How to Properly Vet Potential Employees"
-author: "kbistaff"
-date: "2022-10-31"
-categories: 
-  - "general"
-image: assets/images/How-to-Properly-Vet-Potential-Employees.jpg
+permalink: /how-to-properly-vet-potential-employees/
+title: How to Properly Vet Potential Employees
+description: None
+date: 2022-10-31 01:02:50 -0000
+last_modified_at: 2022-10-22 00:04:53 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/10/How-to-Properly-Vet-Potential-Employees.jpg
+  alt: How to Properly Vet Potential Employees
+categories:
+- General
+tags: []
 ---
-
-Employees are the lifeblood of any company. How should you vet potential employees to make sure you choose the right ones? They are a huge part of what determines how successful you can be. Because of how critical they are to succeeding as a business, choosing the right employees to work for you is imperative. 
+Employees are the lifeblood of any company. How should you vet potential employees to make sure you choose the right ones? They are a huge part of what determines how successful you can be. Because of how critical they are to succeeding as a business, choosing the right employees to work for you is imperative.
 
 ## **Review Their Resume**
 
@@ -20,8 +26,4 @@ Once you’ve narrowed down your list of potential employees using the submitted
 
 ## **Verify What You’ve Learned**
 
-While the hope is that those you interview will be honest and upfront during the interview, it’s foolish to not take the chance to verify what you’ve been told. There’s no point in asking for references if you aren’t going to contact them. If you have candidates that seem promising after the interview, take time to [speak to the references](https://www.contractrecruiter.com/list-questions-contacting-references/) they’ve provided. Verify what the candidate has told you and listen to what they say about the candidate’s performance on the job. This can provide valuable insight into work ethic and personality.
-
-If you want your business to succeed, you can’t settle for just any employee. You need employees that are trainable and trustworthy, employees who will rise to the occasion and help you take your business to the next level. You need employees with the right qualifications who fit your company culture. Carefully vet potential employees so you can make the right hires for your company.
-
-**Click here to get a [step-by-step guide to building a successful business](https://kbagoy.thrivecart.com/six-figure-freelancer-ebook/)!**
+While the hope is that those you interview will be honest and upfront during the interview, it’s foolish to not take the chance to verify what you’ve been told. There’s no point in asking for references if you aren’t going to contact them. If you have candidates that seem promising after the interview, take time to [speak to the references](https://www.contractrecruiter.com/list-questions-contacting-references/) they’ve provided. Verify what the candidate has told you and listen to what they say about the candidate’s performance on the job. This can provide valuable insight into work ethic and personality. If you want your business to succeed, you can’t settle for just any employee. You need employees that are trainable and trustworthy, employees who will rise to the occasion and help you take your business to the next level. You need employees with the right qualifications who fit your company culture. Carefully vet potential employees so you can make the right hires for your company. **Click here to get a[step-by-step guide to building a successful business](https://kbagoy.thrivecart.com/six-figure-freelancer-ebook/)!**

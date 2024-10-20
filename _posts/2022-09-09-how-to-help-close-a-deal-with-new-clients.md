@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "How to Help Close a Deal With New Clients"
-author: "kbistaff"
-date: "2022-09-09"
-categories: 
-  - "marketing-tips"
-image: assets/images/How-to-Help-Close-a-Deal-With-New-Clients.jpg
+permalink: /how-to-help-close-a-deal-with-new-clients/
+title: How to Help Close a Deal With New Clients
+description: None
+date: 2022-09-09 19:57:42 -0000
+last_modified_at: 2022-09-09 19:57:42 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/08/How-to-Help-Close-a-Deal-With-New-Clients.jpg
+  alt: How to Help Close a Deal With New Clients
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 As a small business owner, it's essential to know how to close a deal with new clients. If you can successfully win over new customers, your business will be on the path to success! You need these three tips and pieces of advice that will help you seal the deal with new potential clients. Follow these tips and you'll be on your way to landing more clients and growing your business.
 
 ## **Explain the Value You Bring**
@@ -20,8 +26,4 @@ A recent study shows that business owners who meet in person with new clients ar
 
 ## **Show Confidence**
 
-Any business owner knows that confidence is key when meeting with new clients. After all, no one wants to work with a company that seems hesitant or unsure of its services. Fortunately, there are a few [simple ways to project confidence](https://www.awai.com/2018/01/6-ways-to-project-confidence-to-your-clients/) and close the deal. First, be prepared for the meeting. This means knowing your product or service inside and out, as well as being familiar with your competition. Second, make sure to dress the part. Dressing professionally sends a message that you're serious about your business and ready to get down to business. Finally, remember to keep your cool. No matter what the client says or how challenging the negotiation may be, it's important to remain calm and collected. By following these simple tips, you'll be well on your way to impressing new clients and landing new business deals.
-
-In order to close more deals with new clients, small business owners need to follow a few key pieces of advice. This includes being clear about the value of their business, meeting in person, and projecting confidence. By following these tips, business owners will be more likely to succeed in winning over new customers.
-
-**For a step-by-step guide on how to build a six-figure business,** [**get my book here**](https://ebook.katebagoy.com/lto)**!**
+Any business owner knows that confidence is key when meeting with new clients. After all, no one wants to work with a company that seems hesitant or unsure of its services. Fortunately, there are a few [simple ways to project confidence](https://www.awai.com/2018/01/6-ways-to-project-confidence-to-your-clients/) and close the deal. First, be prepared for the meeting. This means knowing your product or service inside and out, as well as being familiar with your competition. Second, make sure to dress the part. Dressing professionally sends a message that you're serious about your business and ready to get down to business. Finally, remember to keep your cool. No matter what the client says or how challenging the negotiation may be, it's important to remain calm and collected. By following these simple tips, you'll be well on your way to impressing new clients and landing new business deals. In order to close more deals with new clients, small business owners need to follow a few key pieces of advice. This includes being clear about the value of their business, meeting in person, and projecting confidence. By following these tips, business owners will be more likely to succeed in winning over new customers. **For a step-by-step guide on how to build a six-figure business,**[**get my book here**](https://ebook.katebagoy.com/lto)**!**

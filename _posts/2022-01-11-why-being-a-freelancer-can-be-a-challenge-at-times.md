@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Why Being a Freelancer Can Be a Challenge at Times"
-author: "kbistaff"
-date: "2022-01-11"
-categories: 
-  - "freelancing"
-image: assets/images/Why-Being-a-Freelancer-Can-Be-a-Challenge-at-Times.jpg
+permalink: /why-being-a-freelancer-can-be-a-challenge-at-times/
+title: Why Being a Freelancer Can Be a Challenge at Times
+description: None
+date: 2022-01-11 07:31:12 -0000
+last_modified_at: 2022-01-04 14:32:46 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/12/Why-Being-a-Freelancer-Can-Be-a-Challenge-at-Times.jpg
+  alt: Why Being a Freelancer Can Be a Challenge at Times
+categories:
+- Freelancing
+tags: []
 ---
-
 As a freelancer, you can create many wonderful opportunities for yourself that can give you a better experience than other career types. However, it also comes along with challenges. As you enter the world of freelancing, you need to take time to understand these challenges, how to deal with them, and whether or not you can handle them.
 
 ## **You Have to Search for Clients**
@@ -20,8 +26,4 @@ One of the most challenging parts of being a freelancer is being accountable to 
 
 ## **Inconsistent Work**
 
-Due to the nature of freelancing, there will be periods of time where you won’t have any work. This is true of professionals and those just getting started and there isn’t really a way you can avoid it. However, there are [things you can do when work is limited](https://writersedit.com/freelance-writing/7-ways-stay-productive-freelance-work-slows/). You can use that time to build your brand, market, or reflect on the work you’ve done so far. It can also be helpful if you have some sort of financial safety net to support you during any dry spells.
-
-Working as a freelancer can be very rewarding. You can be more flexible with your time and who you work with. If you choose to go into freelancing, make sure you take stock of the common challenges you might face.  
-
-**Need help marketing your business?** [**Get a step-by-step guide here**](https://katebagoy.com/ebook/)**!**
+Due to the nature of freelancing, there will be periods of time where you won’t have any work. This is true of professionals and those just getting started and there isn’t really a way you can avoid it. However, there are [things you can do when work is limited](https://writersedit.com/freelance-writing/7-ways-stay-productive-freelance-work-slows/). You can use that time to build your brand, market, or reflect on the work you’ve done so far. It can also be helpful if you have some sort of financial safety net to support you during any dry spells. Working as a freelancer can be very rewarding. You can be more flexible with your time and who you work with. If you choose to go into freelancing, make sure you take stock of the common challenges you might face.  **Need help marketing your business?**[**Get a step-by-step guide here**](https://katebagoy.com/ebook/)**!**

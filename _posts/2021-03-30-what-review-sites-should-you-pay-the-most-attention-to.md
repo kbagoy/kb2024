@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "What Review Sites Should You Pay the Most Attention To"
-author: "kbagoy"
-date: "2021-03-30"
-categories: 
-  - "marketing-tips"
-image: assets/images/What-Review-Sites-Should-You-Pay-the-Most-Attention-To.jpg
+permalink: /what-review-sites-should-you-pay-the-most-attention-to/
+title: What Review Sites Should You Pay the Most Attention To
+description: None
+date: 2021-03-30 16:58:14 -0000
+last_modified_at: 2021-06-10 02:04:38 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2021/03/What-Review-Sites-Should-You-Pay-the-Most-Attention-To.jpg
+  alt: What Review Sites Should You Pay the Most Attention To
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 With the advent of the internet, many places have opened up for people to leave reviews of the businesses they frequent. With all these review sites available, it is important to understand which are most important and will have the biggest impact on your business overall. Here are a few of the review sites that you should keep in mind when you are looking into your client reviews.
 
 ## **Google Reviews**
@@ -20,8 +26,4 @@ Facebook reviews are also important. For a large demographic, Facebook is where 
 
 ## **Yelp Reviews**
 
-Yelp is a really popular site for reviews, and it is important to keep track of any reviews you may have on their platform. When bad reviews come through, it can be tempting to ignore them or respond angrily, but you and your business should respond positively and try to resolve the issue. Sometimes you can turn a bad review into a good one by talking to the reviewer and working to fix the problem. Updating your page on Yelp can also help your SEO and help you to move up on searches and improve your reputation online.
-
-Managing reviews online can help you to keep your reputation sparkling and to resolve issues with frustrated customers or clients. That way, it is a win for everyone.
-
-**For more help with your business, [grab my Ebook](https://go.katebagoy.com/ebook) that has great tips** **for aspiring business owners and freelancers!**
+Yelp is a really popular site for reviews, and it is important to keep track of any reviews you may have on their platform. When bad reviews come through, it can be tempting to ignore them or respond angrily, but you and your business should respond positively and try to resolve the issue. Sometimes you can turn a bad review into a good one by talking to the reviewer and working to fix the problem. Updating your page on Yelp can also help your SEO and help you to move up on searches and improve your reputation online. Managing reviews online can help you to keep your reputation sparkling and to resolve issues with frustrated customers or clients. That way, it is a win for everyone. **For more help with your business,[grab my Ebook](https://go.katebagoy.com/ebook) that has great tips****for aspiring business owners and freelancers!**

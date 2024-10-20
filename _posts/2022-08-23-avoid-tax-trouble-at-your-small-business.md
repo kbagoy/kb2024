@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "What You Need to Avoid Tax Trouble at Your Small Business"
-author: "kbistaff"
-date: "2022-08-23"
-categories: 
-  - "marketing-tips"
-image: assets/images/What-You-Need-to-Avoid-Tax-Trouble-at-Your-Business.jpg
+permalink: /avoid-tax-trouble-at-your-small-business/
+title: What You Need to Avoid Tax Trouble at Your Small Business
+description: None
+date: 2022-08-23 15:59:30 -0000
+last_modified_at: 2022-08-23 16:00:25 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2022/08/What-You-Need-to-Avoid-Tax-Trouble-at-Your-Business.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
 Keeping track of your business’ finances is integral to maintaining a successful company. You need to ensure you’re making smart money moves if you want to succeed. One of the big money mistakes business owners can make is running into tax trouble. Follow these tips to avoid that issue.
 
 ## **Know What You Need to Pay**
@@ -20,8 +26,4 @@ Part of running a small business is knowing how much tax to withhold from your e
 
 ## **Hire an Accountant**
 
-To ensure all of your business’ finances are properly taken care of, consider hiring an accountant. Accountants are professionally trained to handle the financial affairs of a company. They know just how to keep track of your company’s finances and make sure your taxes are error-free. Accountants [know how to work with tax software](https://balancedbookkeepingofnc.com/bookkeeping-accounting-blog/benefits-of-hiring-an-accountant-for-your-small-business/) and how to file your taxes properly to ensure you don’t get into any financial trouble.
-
-As a small business owner, one of the worst things you can do is make an error on your taxes. If you make an error on your business’ taxes, you risk costing your company thousands of dollars. Follow these tips to make sure your business’ taxes are properly filed.
-
-**Check out my book for a [step-by-step guide to building your six-figure business](https://ebook.katebagoy.com/lto)!**
+To ensure all of your business’ finances are properly taken care of, consider hiring an accountant. Accountants are professionally trained to handle the financial affairs of a company. They know just how to keep track of your company’s finances and make sure your taxes are error-free. Accountants [know how to work with tax software](https://balancedbookkeepingofnc.com/bookkeeping-accounting-blog/benefits-of-hiring-an-accountant-for-your-small-business/) and how to file your taxes properly to ensure you don’t get into any financial trouble. As a small business owner, one of the worst things you can do is make an error on your taxes. If you make an error on your business’ taxes, you risk costing your company thousands of dollars. Follow these tips to make sure your business’ taxes are properly filed. **Check out my book for a[step-by-step guide to building your six-figure business](https://ebook.katebagoy.com/lto)!**

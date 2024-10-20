@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Big Hurdles You Need to Get Over Before Starting Your Own Company"
-author: "kbistaff"
-date: "2020-05-05"
-categories: 
-  - "marketing-tips"
-image: assets/images/business_aspiring.jpg
+permalink: /starting-your-own-company/
+title: Big Hurdles You Need to Get Over Before Starting Your Own Company
+description: None
+date: 2020-05-05 00:55:02 -0000
+last_modified_at: 2021-04-20 17:41:16 -0000
+publish: true
+pin: false
+image:
+  path: /assets/wp-content/uploads/2020/05/business_aspiring.jpg
+  alt: null
+categories:
+- Business &amp; Marketing Tips
+tags: []
 ---
-
-\[et\_pb\_section fb\_built="1" admin\_label="section" \_builder\_version="3.22"\]\[et\_pb\_row admin\_label="row" \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" custom\_padding\_\_hover="|||"\]\[et\_pb\_text admin\_label="Text" \_builder\_version="4.8.1" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" hover\_enabled="0" sticky\_enabled="0"\]
+[et_pb_section fb_built="1" admin_label="section" _builder_version="3.22"][et_pb_row admin_label="row"_builder_version="3.25" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_text admin_label="Text"_builder_version="4.8.1" background_size="initial" background_position="top_left" background_repeat="repeat" hover_enabled="0" sticky_enabled="0"]
 
 Starting your own company is super hard. There’s no doubt about it. For many aspiring entrepreneurs, the reality of just how difficult it is to start and run your own business can hit rather quickly. When you start a new business, you are taking a great risk, both financially and emotionally. It is so important that you prepare yourself for the various hurdles that you are no doubt going to face. Here are some of the biggest hurdles you should think about and get over if you are going to succeed as a business owner in the long run.
 
@@ -26,6 +32,6 @@ The reality is that when you are running a business, the buck stops with you. It
 
 If you're thinking of starting your own company, understanding the difficulties of the process should be your first task. So if you’re ready to kick some ass and take your business challenges by the horns, consider the list above to ensure that you start your new company on the right foot.
 
-**Want some help starting your own company? [Grab my Ebook to get started today!](https://go.katebagoy.com/ebook)**
+**Want some help starting your own company?[Grab my Ebook to get started today!](https://go.katebagoy.com/ebook)**
 
-\[/et\_pb\_text\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[/et\_pb\_section\]
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
