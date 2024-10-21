@@ -30,6 +30,14 @@ More info and automated migrator: https://sass-lang.com/d/import
 11 │ @import 'bootstrap/bootstrap';
    │         ^^^^^^^^^^^^^^^^^^^^^
    ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
 DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use map.merge instead.
 
@@ -430,6 +438,14 @@ More info and automated migrator: https://sass-lang.com/d/import
 11 │ @import 'bootstrap/bootstrap';
    │         ^^^^^^^^^^^^^^^^^^^^^
    ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
 DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use map.merge instead.
 
@@ -829,6 +845,4094 @@ More info and automated migrator: https://sass-lang.com/d/import
    ╷
 11 │ @import 'bootstrap/bootstrap';
    │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
+   ╵
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+22 │   $grays: map-merge(
+   │ ┌─────────^
+23 │ │   (
+24 │ │     "100": $gray-100,
+25 │ │     "200": $gray-200,
+26 │ │     "300": $gray-300,
+27 │ │     "400": $gray-400,
+28 │ │     "500": $gray-500,
+29 │ │     "600": $gray-600,
+30 │ │     "700": $gray-700,
+31 │ │     "800": $gray-800,
+32 │ │     "900": $gray-900
+33 │ │   ),
+34 │ │   $grays
+35 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 22:9                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   $colors: map-merge(
+   │ ┌──────────^
+51 │ │   (
+52 │ │     "blue":       $blue,
+53 │ │     "indigo":     $indigo,
+54 │ │     "purple":     $purple,
+55 │ │     "pink":       $pink,
+56 │ │     "red":        $red,
+57 │ │     "orange":     $orange,
+58 │ │     "yellow":     $yellow,
+59 │ │     "green":      $green,
+60 │ │     "teal":       $teal,
+61 │ │     "cyan":       $cyan,
+62 │ │     "white":      $white,
+63 │ │     "gray":       $gray-600,
+64 │ │     "gray-dark":  $gray-800
+65 │ │   ),
+66 │ │   $colors
+67 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 50:10                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+80 │   $theme-colors: map-merge(
+   │ ┌────────────────^
+81 │ │   (
+82 │ │     "primary":    $primary,
+83 │ │     "secondary":  $secondary,
+84 │ │     "success":    $success,
+85 │ │     "info":       $info,
+86 │ │     "warning":    $warning,
+87 │ │     "danger":     $danger,
+88 │ │     "light":      $light,
+89 │ │     "dark":       $dark
+90 │ │   ),
+91 │ │   $theme-colors
+92 │ │ );
+   │ └─^
+   ╵
+    bootstrap/_variables.scss 80:16                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+140 │   $spacers: map-merge(
+    │ ┌───────────^
+141 │ │   (
+142 │ │     0: 0,
+143 │ │     1: ($spacer * .25),
+144 │ │     2: ($spacer * .5),
+145 │ │     3: $spacer,
+146 │ │     4: ($spacer * 1.5),
+147 │ │     5: ($spacer * 3)
+148 │ │   ),
+149 │ │   $spacers
+150 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 140:11                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.merge instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+155 │   $sizes: map-merge(
+    │ ┌─────────^
+156 │ │   (
+157 │ │     25: 25%,
+158 │ │     50: 50%,
+159 │ │     75: 75%,
+160 │ │     100: 100%,
+161 │ │     auto: auto
+162 │ │   ),
+163 │ │   $sizes
+164 │ │ );
+    │ └─^
+    ╵
+    bootstrap/_variables.scss 155:9                             @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -23.9811912226%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+181 │ $link-hover-color:                        darken($link-color, 15%) !default;
+    │                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 181:43                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+306 │ $headings-margin-bottom:      $spacer / 2 !default;
+    │                               ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 306:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 9.7081218274%)
+color.adjust($color, $lightness: 7.5%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+376 │ $table-dark-border-color:     lighten($table-dark-bg, 7.5%) !default;
+    │                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 376:31                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.7539267016%)
+color.adjust($color, $lightness: 25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+489 │ $input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+    │                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 489:41                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($input-padding-y, 2) or calc($input-padding-y / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+501 │ $input-height-inner-quarter:            add($input-line-height * .25em, $input-padding-y / 2) !default;
+    │                                                                         ^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 501:73                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+554 │ $custom-control-indicator-active-bg:            lighten($component-active-bg, 35%) !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 554:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($custom-control-indicator-size, 2) or calc($custom-control-indicator-size / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+571 │ $custom-switch-indicator-border-radius:         $custom-control-indicator-size / 2 !default;
+    │                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 571:49                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 93.4554973822%)
+color.adjust($color, $lightness: 35%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+629 │ $custom-range-thumb-active-bg:               lighten($component-active-bg, 35%) !default;
+    │                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 629:46                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+717 │ $nav-divider-margin-y:              $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 717:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacer, 2) or calc($spacer / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+722 │ $navbar-padding-y:                  $spacer / 2 !default;
+    │                                     ^^^^^^^^^^^
+    ╵
+    bootstrap/_variables.scss 722:37                            @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 9:9  root stylesheet
+DEPRECATION WARNING on line 6, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+6 │ @import "vendor/rfs";
+  │         ^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import "mixins/deprecate";
+  │         ^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import "mixins/breakpoints";
+   │         ^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 13, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+13 │ @import "mixins/hover";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 14, column 9 of /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_mixins.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+14 │ @import "mixins/image";
+   │         ^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+410│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 410:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+436│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 436:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss
+465│       appearance: none;
+   │       ^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_custom-forms.scss 465:5  @import
+    bootstrap/bootstrap.scss 24:9                                              @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9                root stylesheet
+DEPRECATION WARNING: Sass's behavior for declarations that appear after nested
+rules will be changing to match the behavior specified by CSS in an upcoming
+version. To keep the existing behavior, move the declaration above the nested
+rule. To opt into the new behavior, wrap the declaration in `& {}`.
+
+More info: https://sass-lang.com/d/mixed-decls
+
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss
+46 │       transform: $modal-fade-transform;
+   │       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ declaration
+   ╵
+   ┌──> /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/mixins/_transition.scss
+12 │ ┌     @media (prefers-reduced-motion: reduce) {
+13 │ │       transition: none;
+14 │ │     }
+   │ └─── nested rule
+   ╵
+    /Users/kbagoy/Desktop/kbagoy2024/_sass/bootstrap/_modal.scss 46:5  @import
+    bootstrap/bootstrap.scss 38:9                                      @import
+    /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss 11:9        root stylesheet
+WARNING: 243 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+DEPRECATION WARNING on line 8, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+8 │ @import "bootstrap/functions";
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 9, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+  ╷
+9 │ @import 'bootstrap/variables';
+  │         ^^^^^^^^^^^^^^^^^^^^^
+  ╵
+DEPRECATION WARNING on line 10, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+10 │ @import "bootstrap/mixins";
+   │         ^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 11, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+11 │ @import 'bootstrap/bootstrap';
+   │         ^^^^^^^^^^^^^^^^^^^^^
+   ╵
+DEPRECATION WARNING on line 12, column 9 of /Users/kbagoy/Desktop/kbagoy2024/assets/css/theme.scss: 
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+   ╷
+12 │ @import 'stars';
+   │         ^^^^^^^
    ╵
 DEPRECATION WARNING: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use map.merge instead.

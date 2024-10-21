@@ -5,7 +5,6 @@ or
 bundle exec jekyll serve --quiet
 
 
-
 Posts with Divi code or broken images:
 
 http://localhost:4000/online-marketing-tips/
@@ -20,3 +19,34 @@ http://localhost:4000/3-business-expenses-that-are-important-to-keep-in-mind-as-
 
 Misc formatting or tag issues
 http://localhost:4000/six-figure-freelancers-on-appsumo/
+
+Some other themes that could be helpful if saas breaks ish:
+https://bootstrapstarter.com/categories/jekyll/
+
+-> could update WP theme now that we have markdown for all the pages and articles that use divi...:
+https://www.wowthemes.net/themes/mundana-wordpress/
+https://wowthemes.net/
+
+Or could hire Sal? https://wowthemes.tawk.help/article/are-you-available-for-hire
+
+--- SAve JIC: manual TOC
+<div class="lwptoc" data-smooth-scroll="1" data-smooth-scroll-offset="24" data-lwptoc-initialized="1">
+    <ul class="list-group mb-4">
+        <li class="list-group-item"> Article Contents</li>
+         <li class="list-group-item"> <a href="#The_6-Figure_Framework">The 6-Figure Framework™</a> </li>
+         <li class="list-group-item"> <a href="#Pillar_1">Pillar 1: Master Your Mindset</a> </li>
+         <li class="list-group-item"> <a href="#Step_1">Step 1: Create A Vision for Your Life &amp; Business</a> </li>
+         <li class="list-group-item"> <a href="#Step_2">Step 2: Banish Bad Beliefs &amp; Behaviors</a> </li>
+         <li class="list-group-item"> <a href="#Step_3">Step 3: Create a *SIMPLE* Plan You Feel Confident In</a> </li>
+         <li class="list-group-item"> <a href="#Pillar_2">Pillar 2: Master Your Marketing</a> </li>
+         <li class="list-group-item"> <a href="#Step_4">Step 4: Identify Your Target Market &amp; Ideal Client</a> </li>
+         <li class="list-group-item"> <a href="#Step_5">Step 5: Position Yourself As The Solution</a> </li>
+         <li class="list-group-item"> <a href="#Step_6">Step 6: Build A Brand Than Builds Trust</a> </li>
+         <li class="list-group-item"> <a href="#Pillar_3">Pillar 3: Simplify to Sell</a> </li>
+         <li class="list-group-item"> <a href="#Step_7">Step 7: Perfect Your Pricing &amp; Packages</a> </li>
+         <li class="list-group-item"> <a href="#Step_8">Step 8: Generate Leads &amp; Create Systems For Keeping In Touch</a> </li>
+         <li class="list-group-item"> <a href="#Step_9">Step 9: Present Proposals &amp; Land Your First Client</a> </li>
+         <li class="list-group-item"> <a href="#Getting_to_6-Figures">Getting to 6-Figures as a Freelancer</a> </li>
+         <li class="list-group-item"> <a href="#More_Resources_for_Freelancers">More Resources for Freelancers</a> </li>
+    </ul>
+</div>

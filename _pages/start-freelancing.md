@@ -12,6 +12,7 @@ image:
   alt: null
 categories: []
 tags: []
+toc: true
 ---
 <div class="list-group d-grid gap-2 border-0 mb-4">
 	<div class="position-relative">
@@ -26,7 +27,7 @@ tags: []
 
 # How to Start Freelancing & Get to Six Figures, Fast.
 
-#### Are you dying to escape your tech or corporate job to start a freelance business?
+_Are you dying to escape your tech or corporate job to start a freelance business?_
 
 I know how you feel.
 
@@ -69,27 +70,6 @@ Even if you’ve never run a business before, even if you have no idea where to 
 I'll go over the foundational parts of getting started & landing your first clients as a freelancer or consultant - and what to focus on if you want/need to scale to 6-figures your first year.
 
 [Click here to get the expanded article in Kindle, PDF & iBook format, PLUS get all the exercises & bonus videos](https://kbagoy.thrivecart.com/book-lto-6ff/).
-
-<div class="lwptoc" data-smooth-scroll="1" data-smooth-scroll-offset="24" data-lwptoc-initialized="1">
-    <ul class="list-group mb-4">
-        <li class="list-group-item"> Article Contents</li>
-         <li class="list-group-item"> <a href="#The_6-Figure_Framework">The 6-Figure Framework™</a> </li>
-         <li class="list-group-item"> <a href="#Pillar_1">Pillar 1: Master Your Mindset</a> </li>
-         <li class="list-group-item"> <a href="#Step_1">Step 1: Create A Vision for Your Life &amp; Business</a> </li>
-         <li class="list-group-item"> <a href="#Step_2">Step 2: Banish Bad Beliefs &amp; Behaviors</a> </li>
-         <li class="list-group-item"> <a href="#Step_3">Step 3: Create a *SIMPLE* Plan You Feel Confident In</a> </li>
-         <li class="list-group-item"> <a href="#Pillar_2">Pillar 2: Master Your Marketing</a> </li>
-         <li class="list-group-item"> <a href="#Step_4">Step 4: Identify Your Target Market &amp; Ideal Client</a> </li>
-         <li class="list-group-item"> <a href="#Step_5">Step 5: Position Yourself As The Solution</a> </li>
-         <li class="list-group-item"> <a href="#Step_6">Step 6: Build A Brand Than Builds Trust</a> </li>
-         <li class="list-group-item"> <a href="#Pillar_3">Pillar 3: Simplify to Sell</a> </li>
-         <li class="list-group-item"> <a href="#Step_7">Step 7: Perfect Your Pricing &amp; Packages</a> </li>
-         <li class="list-group-item"> <a href="#Step_8">Step 8: Generate Leads &amp; Create Systems For Keeping In Touch</a> </li>
-         <li class="list-group-item"> <a href="#Step_9">Step 9: Present Proposals &amp; Land Your First Client</a> </li>
-         <li class="list-group-item"> <a href="#Getting_to_6-Figures">Getting to 6-Figures as a Freelancer</a> </li>
-         <li class="list-group-item"> <a href="#More_Resources_for_Freelancers">More Resources for Freelancers</a> </li>
-    </ul>
-</div>
 
 <a name="The_6-Figure_Framework"></a>
 
