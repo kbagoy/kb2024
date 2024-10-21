@@ -1,3 +1,11 @@
+To serve without warnings:
+
+bundle exec jekyll serve 2> jekyll-warnings.log
+or
+bundle exec jekyll serve --quiet
+
+
+
 Posts with Divi code or broken images:
 
 http://localhost:4000/online-marketing-tips/

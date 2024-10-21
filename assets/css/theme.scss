@@ -15,6 +15,7 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
+
 //Kate's rando stuff
 
 .sneaky-kate {
@@ -28,6 +29,10 @@ $enable-rounded: false;
 
 #menu ul .menu-nested li a {
     padding: 1vh 0px 1vh 0px;
+}
+
+.description {
+    color: #8e9aa7;
 }
 
 

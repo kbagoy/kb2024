@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "scripts": {
+  "sass-dev": "sass --watch --update --quiet-deps --style=expanded assets/css:assets/css",
+  "sass-prod": "sass --no-source-map --style=compressed assets/css:assets/css"
+}
+
+
