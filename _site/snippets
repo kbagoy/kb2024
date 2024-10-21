@@ -1,9 +1,0 @@
-taken from default.html layout:
-
-    <!-- Site Tag
-    ================================================== -->
-    {% if page.url == '/about' %}
-        <p class="sitetag">
-            {{ site.description }}
-        </p>
-    {% endif %}
